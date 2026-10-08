@@ -1,0 +1,134 @@
+{
+ "date": "2026-10-09",
+ "count": 20,
+ "license_default": "CC0-1.0",
+ "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+ "status_default": "EXACT_PAGE_FOUND",
+ "download_size_bytes_default": null,
+ "download_tested_default": false,
+ "blender_tested_default": false,
+ "unity_tested_default": false,
+ "size_details": "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009_B.json",
+ "entries": [
+  {
+   "url": "https://opengameart.org/content/low-poly-tree-1",
+   "author": "Mitylernal",
+   "representation": "3D",
+   "category": "TREE"
+  },
+  {
+   "url": "https://opengameart.org/content/very-low-poly-and-texture-tree",
+   "author": "carlosjorgereis",
+   "representation": "3D",
+   "category": "TREE"
+  },
+  {
+   "url": "https://opengameart.org/content/lowpoly-tree-with-hole",
+   "author": "wobba89",
+   "representation": "3D",
+   "category": "TREE"
+  },
+  {
+   "url": "https://opengameart.org/content/vegetation-low-poly",
+   "author": "mess110",
+   "representation": "3D",
+   "category": "VEGETATION"
+  },
+  {
+   "url": "https://opengameart.org/content/2d-trees-and-leaf-textures-64x",
+   "author": "FacadeGaikan",
+   "representation": "2D",
+   "category": "FOLIAGE"
+  },
+  {
+   "url": "https://opengameart.org/content/plant-tileset",
+   "author": "ARoachIFoundOnMyPillow",
+   "representation": "2D",
+   "category": "PLANT_TILESET"
+  },
+  {
+   "url": "https://opengameart.org/content/oasis-palm-trees",
+   "author": "City Building Game Art",
+   "representation": "2.5D",
+   "category": "PALM_TREE"
+  },
+  {
+   "url": "https://opengameart.org/content/foliage-sprites",
+   "author": "Kenney",
+   "representation": "2.5D",
+   "category": "BILLBOARD_FOLIAGE"
+  },
+  {
+   "url": "https://opengameart.org/content/kudzu-leaves-pixel-art",
+   "author": "hatmix",
+   "representation": "2D",
+   "category": "PLANT_ANIMATION"
+  },
+  {
+   "url": "https://opengameart.org/content/2d-sunny-grassland-sprites-platformer-sidescroller",
+   "author": "LarryIRL",
+   "representation": "2D",
+   "category": "GRASSLAND"
+  },
+  {
+   "url": "https://opengameart.org/content/layered-space-background",
+   "author": "Cliipso",
+   "representation": "2D",
+   "category": "PARALLAX_BACKGROUND"
+  },
+  {
+   "url": "https://opengameart.org/content/seamless-brick-textures",
+   "author": "athile",
+   "representation": "MATERIAL",
+   "category": "BRICK"
+  },
+  {
+   "url": "https://opengameart.org/content/seamless-brickconcrete-textures",
+   "author": "BMacZero",
+   "representation": "MATERIAL",
+   "category": "BRICK_CONCRETE"
+  },
+  {
+   "url": "https://opengameart.org/content/seamless-brick-textures-0",
+   "author": "GGBotNet",
+   "representation": "MATERIAL",
+   "category": "BRICK"
+  },
+  {
+   "url": "https://opengameart.org/content/grass-textureseamless-2d",
+   "author": "surfacecurve",
+   "representation": "MATERIAL",
+   "category": "GRASS"
+  },
+  {
+   "url": "https://opengameart.org/content/tileable-grass-textures-set-1",
+   "author": "Cethiel",
+   "representation": "MATERIAL",
+   "category": "GRASS"
+  },
+  {
+   "url": "https://opengameart.org/content/high-res-texture-pack-1",
+   "author": "rubberduck",
+   "representation": "MATERIAL",
+   "category": "MIXED_SURFACES"
+  },
+  {
+   "url": "https://opengameart.org/content/hand-painted-grass",
+   "author": "PamNawi",
+   "representation": "MATERIAL",
+   "category": "GRASS"
+  },
+  {
+   "url": "https://opengameart.org/content/foliage-branches-and-leafs-toon",
+   "author": "Scraphead",
+   "representation": "2D",
+   "category": "FOLIAGE_TEXTURE"
+  },
+  {
+   "url": "https://kenney.nl/assets/pixel-platformer-industrial-expansion",
+   "author": "Kenney",
+   "representation": "2D",
+   "category": "INDUSTRIAL_PIXEL_TILESET"
+  }
+ ]
+}
