@@ -2212,5 +2212,32 @@
   ],
   "updated": "2026-10-09",
   "global_rules": "GLOBAL_ASSET_SEARCH_POLICY.md",
-  "note": "Historical 100 task queue tracks selected existing 3D model gaps, but global search must ALSO cover 2D, 2.5D, ALL styles/genres, materials and any free sites. Goal >=2-3 independent instances per category, NO MAX; keep looking after target is reached. Use separate Materials/NEXT_100_QUEUE.json as second active queue."
+  "note": "Historical 100 task queue tracks selected existing 3D model gaps, but global search must ALSO cover 2D, 2.5D, ALL styles/genres, materials and any free sites. Goal >=2-3 independent instances per category, NO MAX; keep looking after target is reached. Use separate Materials/NEXT_100_QUEUE.json as second active queue.",
+  "rules_override_2026_10_09": {
+    "canonical_policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+    "user_intent": "Collect every useful distinct free legal asset in every representation, genre and style; minimum 2-3 per specific type; maximum unbounded; include ALL textures 3D 2.5D 2D.",
+    "minimum_per_type": 3,
+    "minimum_interpretation": "Aim for 2–3 where feasible; 3 is target, not terminal condition",
+    "maximum_per_type": null,
+    "search_continues_after_minimum": true,
+    "formats": [
+      "3D",
+      "2.5D",
+      "2D",
+      "isometric",
+      "sprites",
+      "voxel",
+      "procedural",
+      "PBR",
+      "HDri",
+      "VFX",
+      "other useful representations"
+    ],
+    "unlimited_genres_and_styles": true,
+    "websites": "any legal source, not restricted to SOURCE_PORTALS",
+    "download_size_bytes": "RECORD_VERIFIED_PER_DOWNLOAD_VARIANT_WHEN_KNOWN",
+    "any_missing_size": "UNKNOWN—not zero",
+    "status_preservation": "Previous queue is historical grouping; add new categories and unlimited variants continuously after existing hundred.",
+    "existing_task_definition_not_a_cap": true
+  }
 }
