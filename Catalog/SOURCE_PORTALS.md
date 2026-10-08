@@ -1,0 +1,29 @@
+# Порталы для поиска бесплатных 3D-ресурсов
+
+Проверены по публичным страницам 2026-10-08. **Портал — не лицензия на любой его файл**. Сохранять карточку конкретного объекта после выбора.
+
+| Источник | Ресурсы | Бесплатность и лицензия | Особенности и правила |
+|---|---|---|---|
+| [Kenney](https://kenney.nl/assets) | Стилизованные 3D-наборы, персонажи, город, природа, транспорт | CC0 на страницах ассетов ([FAQ](https://kenney.nl/support)) | Один из наиболее простых для быстрого прототипа |
+| [KayKit / Kay Lousberg](https://kaylousberg.itch.io/) | Модульные dungeon/RPG, персонажи, 161 анимация | Бесплатные редакции CC0; расширенные версии и .blend исходники иногда платные | Скачивать именно FREE tier |
+| [Quaternius](https://quaternius.com/) | Персонажи, монстры, здания, анимации, транспорт, лес, космос | Бесплатное использование в играх; новая QAL 2026-08-28, старые страницы могут говорить CC0 | Не зеркалить; см. [LICENSE_POLICY](../LICENSE_POLICY.md) |
+| [Poly Haven](https://polyhaven.com/models) | Реалистичные 3D, сканированные предметы, природа | **CC0** ([лицензия](https://polyhaven.com/license)) | Качественные, но часть сканов тяжёлая; требуется оптимизация |
+| [Poly Haven Textures](https://polyhaven.com/textures) | PBR, земля, ткани, металл, скалы | CC0 | Текстуры подготовить под URP/HDRP |
+| [Poly Haven HDRI](https://polyhaven.com/hdris) | Освещение и референсы окружения | CC0 | В Unity может потребоваться конверсия |
+| [ambientCG](https://ambientcg.com/) | PBR-текстуры, HDRI, декали | CC0 ([лицензия](https://ambientcg.com/license)) | Очень удобно для материалов |
+| [Blendkit / бывший BlenderKit](https://www.blendkit.com/) | Модели, сцены, материалы, HDRI, интеграция в Blender | Есть бесплатная библиотека, лицензии Royalty Free и CC0 ([условия](https://www.blendkit.com/docs/licenses/)) | В карточке каждого ассета фиксировать лицензию |
+| [Sketchfab downloadable](https://sketchfab.com/features/free-3d-models) | Массовый каталог персонажей, монстров, транспорта, сканов | Пообъектные Creative Commons, иногда с обязательной атрибуцией | Не все бесплатные модели пригодны для коммерции; внимательно смотреть NC/SA/ND |
+| [Poly Pizza](https://poly.pizza/) | Большой каталог low-poly моделей | Смешанные CC0/CC-BY на конкретных страницах | Сохранять автора и attribution при CC-BY |
+| [OpenGameArt 3D](https://opengameart.org/art-search-advanced?field_art_type_tid%5B%5D=10) | Любительские игровые 3D-ресурсы | CC0/CC BY/CC BY-SA/GPL и прочие; проверка каждой лицензии | Качество и разрешения сильно различаются; см. [FAQ](https://opengameart.org/content/faq) |
+| [Fab Free](https://www.fab.com/) | Реалистичные/стилизованные модели, окружения | Бесплатные позиции; Fab Standard License или иной тип ([EULA](https://www.fab.com/eula)) | Убедиться, что предоставлен исходный формат, а не Reference-Only |
+| [CGTrader Free](https://www.cgtrader.com/free-3d-models) | Персонажи, транспорт, окружение, props | Отдельные бесплатные модели с Royalty Free или иными условиями ([FAQ](https://help.cgtrader.com/hc/en-us/articles/360015122437-Can-I-commercially-use-a-free-model)) | Не распространять отдельно, соблюдать условия включения в продукт |
+| [Smithsonian 3D](https://3d.si.edu/) | Сканированные исторические объекты, кости, динозавры, самолёты | **Только объекты с меткой CC0** ([FAQ](https://www.si.edu/openaccess/faq)) | Модели не всегда game-ready, может требоваться ретопология |
+| [Mixamo](https://www.mixamo.com/) | Двуногие humanoid анимации и auto-rig | Бесплатно с Adobe ID, коммерческое использование игр разрешено ([FAQ](https://helpx.adobe.com/creative-cloud/faq/mixamo-faq.html)) | Отдельно распространять исходные анимации нельзя |
+| [itch.io free 3D assets](https://itch.io/game-assets/free/tag-3d) | Персонажи, окружения и small packs от независимых авторов | **По каждому автору отдельно**; бывает CC0, BY, NC, proprietary | Сортировка и license tags не заменяют проверку карточки |
+
+## Приоритет поиска
+1. **CC0 и действительно бесплатная редакция** — Kenney, Poly Haven, ambientCG, KayKit.
+2. **Бесплатно использовать, нельзя перевыкладывать** — Quaternius по нынешней QAL, Fab, Mixamo, Royalty Free.
+3. **Смешанные лицензии/качество** — Sketchfab, Poly Pizza, CGTrader, itch.io, OpenGameArt, Blendkit.
+
+**Не включены как свободные ресурсы без дополнительных проверок:** краденые ассеты, репаки из Asset Store, игры с вытащенными модельными файлами, чужие персонажи известных франшиз без разрешения, файлы без лицензии.
