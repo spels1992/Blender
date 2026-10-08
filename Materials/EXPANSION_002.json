@@ -4,7 +4,7 @@
   "purpose": "Texture material expansion phase 2",
   "count": 43,
   "original_count": 119,
-  "status": "PAGES_FOUND_CARDS_PENDING",
+  "status": "43_SOURCE_CARDS_SAVED_TO_GITHUB",
   "entries": [
     {
       "id": "MAT-120",
@@ -1316,5 +1316,8 @@
       "card": "Materials/Cards/162.md",
       "technical_note": "Normal GL generally suits Blender; check Unity import of DX/GL normals and channel packing in URP. Model-specific test NOT done."
     }
-  ]
+  ],
+  "cards_written": 43,
+  "technical_status": "SOURCE_PAGE_ONLY_NOT_DOWNLOADED",
+  "updated_on": "2026-10-08"
 }
