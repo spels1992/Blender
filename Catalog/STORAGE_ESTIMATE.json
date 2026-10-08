@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-09",
+  "scope": "Only source pages currently indexed on GitHub spels1992/Blender, one chosen free download per unique page; archives and variants NOT downloaded.",
+  "counts": {
+    "old_3d_or_packs": 435,
+    "material_pages": 162,
+    "new_2d_2_5d_pages": 42,
+    "total_unique_urls": 639
+  },
+  "known_publisher_display_count": 32,
+  "publisher_display_sum_MB": 1454.662,
+  "unknown_size_url_count": 607,
+  "known_subset_legacy": [
+    {
+      "title": "Bark Willow",
+      "url": "https://polyhaven.com/a/bark_willow",
+      "publisher_stated_size_MB": 82.15,
+      "chosen_download_variant": "page default state observed in search result; exact resolution may differ"
+    },
+    {
+      "title": "Brick Wall 001",
+      "url": "https://polyhaven.com/a/brick_wall_001",
+      "publisher_stated_size_MB": 68.96,
+      "chosen_download_variant": "page default, recheck resolution"
+    },
+    {
+      "title": "Pine Bark",
+      "url": "https://polyhaven.com/a/pine_bark",
+      "publisher_stated_size_MB": 81.98,
+      "chosen_download_variant": "page default, recheck resolution"
+    },
+    {
+      "title": "Fir Tree 01",
+      "url": "https://polyhaven.com/a/fir_tree_01",
+      "publisher_stated_size_MB": 956.57,
+      "chosen_download_variant": "page default, high poly and textures"
+    }
+  ],
+  "known_subset_new": [
+    {
+      "name": "Isometric Objects",
+      "url": "https://opengameart.org/content/isometric-objects",
+      "publisher_stated_MB": 1.9,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Isometric City",
+      "url": "https://opengameart.org/content/isometric-city-0",
+      "publisher_stated_MB": 0.9798,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Isometric Cubes",
+      "url": "https://opengameart.org/content/isometric-tiles-cubes",
+      "publisher_stated_MB": 0.0881,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Isometric City (Kenney)",
+      "url": "https://opengameart.org/content/isometric-city",
+      "publisher_stated_MB": 0.9906,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Isometric Blocks (Kenney)",
+      "url": "https://opengameart.org/content/isometric-blocks",
+      "publisher_stated_MB": 7.3,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Isometric Miniature Library",
+      "url": "https://opengameart.org/content/isometric-miniature-library",
+      "publisher_stated_MB": 5.8,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "300+ Isometric Object Tiles",
+      "url": "https://opengameart.org/content/300-isometric-object-tiles",
+      "publisher_stated_MB": 4,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Isometric Props and Tents",
+      "url": "https://opengameart.org/content/isometric-props-and-tents",
+      "publisher_stated_MB": 6.4,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Grassland Tileset Updated",
+      "url": "https://opengameart.org/content/updated-grassland-tileset-stylized",
+      "publisher_stated_MB": 17.7,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Grassland Tileset",
+      "url": "https://opengameart.org/content/grassland-tileset-1",
+      "publisher_stated_MB": 11.5,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Basic Isometric Tiles 128",
+      "url": "https://opengameart.org/content/basic-isometric-tiles-128x128",
+      "publisher_stated_MB": 0.095,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Isometric 2D Tiles",
+      "url": "https://opengameart.org/content/isometric-2d-tiles",
+      "publisher_stated_MB": 0.0025,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "2D Simple Grass TileSet",
+      "url": "https://opengameart.org/content/2d-simple-grass-tileset",
+      "publisher_stated_MB": 0.0082,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Grass Tileset 128px",
+      "url": "https://opengameart.org/content/grass-tileset-128px",
+      "publisher_stated_MB": 0.0555,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "GrassTileSet 32",
+      "url": "https://opengameart.org/content/grasstileset-32-x-32",
+      "publisher_stated_MB": 0.0037,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Grass Tiles",
+      "url": "https://opengameart.org/content/grass-tiles-3",
+      "publisher_stated_MB": 0.0026,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Grass on Dirt Stone",
+      "url": "https://opengameart.org/content/grass-on-dirt-stone-tileset",
+      "publisher_stated_MB": 0.0041,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "16x16 Grassland Tileset",
+      "url": "https://opengameart.org/content/16x16-grassland-tileset",
+      "publisher_stated_MB": 0.0014,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Cloud Pack",
+      "url": "https://opengameart.org/content/cloud-pack",
+      "publisher_stated_MB": 1,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Cloud",
+      "url": "https://opengameart.org/content/cloud-1",
+      "publisher_stated_MB": 4.8,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Clouds 2D",
+      "url": "https://opengameart.org/content/clouds-7",
+      "publisher_stated_MB": 0.2317,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "2D Pixel Clouds",
+      "url": "https://opengameart.org/content/2d-pixel-clouds",
+      "publisher_stated_MB": 0.0015,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Cloud Set SVG",
+      "url": "https://opengameart.org/content/cloud-set",
+      "publisher_stated_MB": 0.1989,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Clouds and Gust",
+      "url": "https://opengameart.org/content/clouds-and-gust",
+      "publisher_stated_MB": 0.0465,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Vector Clouds",
+      "url": "https://opengameart.org/content/vector-clouds",
+      "publisher_stated_MB": 0.0878,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Clouds 2000",
+      "url": "https://opengameart.org/content/clouds-6",
+      "publisher_stated_MB": 201.8,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Cloud Platform",
+      "url": "https://opengameart.org/content/cloud-platform-0",
+      "publisher_stated_MB": 0.000429,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    },
+    {
+      "name": "Clouds Pixel",
+      "url": "https://opengameart.org/content/clouds-3",
+      "publisher_stated_MB": 0.0036,
+      "status": "PUBLISHER_STATED_ROUNDED_MB"
+    }
+  ],
+  "illustrative_scenarios": [
+    {
+      "code": "ECONOMY",
+      "notes": "умеренный бюджет: небольшие файлы/пониженные текстуры",
+      "model_MB": 10,
+      "texture_MB": 10,
+      "new_2d_MB": 2,
+      "estimated_total_MB": 6054,
+      "estimated_total_GB_decimal": 6.05,
+      "estimated_total_GiB_binary": 5.91
+    },
+    {
+      "code": "PRACTICAL",
+      "notes": "условная смешанная подборка: 3D-паки/сканы + полноценные PBR",
+      "model_MB": 50,
+      "texture_MB": 40,
+      "new_2d_MB": 10,
+      "estimated_total_MB": 28650,
+      "estimated_total_GB_decimal": 28.65,
+      "estimated_total_GiB_binary": 27.98
+    },
+    {
+      "code": "LARGE",
+      "notes": "много сканов/высоких разрешений, но не максимум",
+      "model_MB": 150,
+      "texture_MB": 100,
+      "new_2d_MB": 30,
+      "estimated_total_MB": 82710,
+      "estimated_total_GB_decimal": 82.71,
+      "estimated_total_GiB_binary": 80.77
+    },
+    {
+      "code": "HEAVY",
+      "notes": "очень крупные 3D/8K/16K файлы",
+      "model_MB": 500,
+      "texture_MB": 250,
+      "new_2d_MB": 100,
+      "estimated_total_MB": 262200,
+      "estimated_total_GB_decimal": 262.2,
+      "estimated_total_GiB_binary": 256.05
+    }
+  ],
+  "limitations": [
+    "Most URLs do not disclose current archive size in index",
+    "Publisher-displayed prices/sizes may depend on selected format and texture resolution",
+    "Download packs contain multiple files/models, so page count does not reflect asset count",
+    "Multiple pages may refer to same underlying geometry; data dedup is URL-based only",
+    "Scenario averages are hypothetical planning choices, not measured data",
+    "Real disk after extraction can greatly exceed compressed size",
+    "Downloading every format and resolution could greatly exceed figures",
+    "No downloaded archives measured directly"
+  ]
+}
