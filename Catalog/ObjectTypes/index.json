@@ -1382,9 +1382,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-168",
+          "title": "3D Interior Home Assets — picture frame",
+          "url": "https://opengameart.org/content/3d-interior-home-assets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2170,9 +2180,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-169",
+          "title": "Modular building asset — roof",
+          "url": "https://opengameart.org/content/modular-building-asset-0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_TAG_MATCH",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-170",
+          "title": "Medieval Town base — roof tiles",
+          "url": "https://opengameart.org/content/medieval-town-base-3d-assets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_TAG_MATCH",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-171",
+          "title": "Simple House — 4 roof tiles",
+          "url": "https://opengameart.org/content/simple-house-1",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2528,9 +2566,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-172",
+          "title": "City Kit Roads — traffic lights",
+          "url": "https://opengameart.org/content/city-kit-roads",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2618,9 +2666,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-173",
+          "title": "Low Poly Warehouse",
+          "url": "https://opengameart.org/content/low-poly-warehouse",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3130,9 +3188,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-174",
+          "title": "Big LowPoly Environment — mountain-themed rocks",
+          "url": "https://opengameart.org/content/big-lowpoly-environment-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_TAG_MATCH",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-175",
+          "title": "Dreamisland terrain mountains/water",
+          "url": "https://opengameart.org/content/dreamisland",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_TAG_MATCH",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3238,9 +3315,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-176",
+          "title": "Kenney Hexagon Kit — river tiles",
+          "url": "https://opengameart.org/content/hexagon-kit",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -5600,8 +5687,8 @@
   ],
   "updated": "2026-10-08",
   "description": "Free commercial use only; individual source pages vs thematic pack candidates. No Blender/Unity validation.",
-  "exact_source_page_entries": 167,
-  "unique_exact_resource_pages": 150,
-  "types_with_exact_page": 88,
-  "types_with_only_candidates": 12
+  "exact_source_page_entries": 176,
+  "unique_exact_resource_pages": 158,
+  "types_with_exact_page": 94,
+  "types_with_only_candidates": 6
 }
