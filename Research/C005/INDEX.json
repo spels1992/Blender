@@ -1,0 +1,2899 @@
+{
+  "cycle": "005",
+  "updated": "2026-10-08",
+  "completion_type": "100 RESEARCH CARDS WRITTEN, NOT 100 COMPLETE ASSET PAIRS",
+  "price_rule": "No-pay commercial use only",
+  "stats": {
+    "research_task_cards": 100,
+    "tasks_with_two_or_more_exact_pages": 24,
+    "tasks_with_exactly_one": 33,
+    "tasks_without_exact_page": 43,
+    "all_evidence_references": 121,
+    "exact_page_references": 98,
+    "distinct_exact_source_pages": 90,
+    "new_exact_pages_not_in_previous_master": 29,
+    "actual_downloads_tested": 0,
+    "actual_unity_imports": 0
+  },
+  "objects": [
+    {
+      "id": "C005-001",
+      "object": "Принтер",
+      "source_task": "C003-001",
+      "priority": "P0",
+      "card": "Research/C005/C005-001.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-002",
+      "object": "Клавиатура",
+      "source_task": "C003-002",
+      "priority": "P0",
+      "card": "Research/C005/C005-002.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-003",
+      "object": "Компьютерная мышь",
+      "source_task": "C003-003",
+      "priority": "P0",
+      "card": "Research/C005/C005-003.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-004",
+      "object": "Ноутбук",
+      "source_task": "C003-004",
+      "priority": "P0",
+      "card": "Research/C005/C005-004.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Ноутбук",
+          "url": "https://polyhaven.com/a/classic_laptop",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-001; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-005",
+      "object": "Магнитная доска",
+      "source_task": "C003-006",
+      "priority": "P0",
+      "card": "Research/C005/C005-005.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-006",
+      "object": "Школьная парта с лавкой",
+      "source_task": "C003-007",
+      "priority": "P0",
+      "card": "Research/C005/C005-006.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Школьная парта без скамейки",
+          "url": "https://polyhaven.com/a/SchoolDesk_01",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "evidence": "C004_RECORD",
+          "notes": "C004-023; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-007",
+      "object": "Рюкзак",
+      "source_task": "C003-010",
+      "priority": "P0",
+      "card": "Research/C005/C005-007.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-008",
+      "object": "Медицинский монитор",
+      "source_task": "C003-012",
+      "priority": "P0",
+      "card": "Research/C005/C005-008.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-009",
+      "object": "Стетоскоп",
+      "source_task": "C003-015",
+      "priority": "P0",
+      "card": "Research/C005/C005-009.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-010",
+      "object": "Микроскоп",
+      "source_task": "C003-016",
+      "priority": "P0",
+      "card": "Research/C005/C005-010.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Микроскоп",
+          "url": "https://polyhaven.com/a/vintage_microscope",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-003; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-011",
+      "object": "Лабораторный реактор",
+      "source_task": "C003-018",
+      "priority": "P0",
+      "card": "Research/C005/C005-011.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-012",
+      "object": "Медицинская каталка",
+      "source_task": "C003-019",
+      "priority": "P0",
+      "card": "Research/C005/C005-012.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-013",
+      "object": "Тыква",
+      "source_task": "C003-024",
+      "priority": "P0",
+      "card": "Research/C005/C005-013.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 3,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Тыква low-poly",
+          "url": "https://opengameart.org/content/pumpkin-3d",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-017; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Тыква PBR",
+          "url": "https://opengameart.org/content/pumpkin-0",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-018; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Набор хэллоуинских тыкв",
+          "url": "https://opengameart.org/content/low-poly-halloween-kit",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-019; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-014",
+      "object": "Фермерский трактор",
+      "source_task": "C003-027",
+      "priority": "P0",
+      "card": "Research/C005/C005-014.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-015",
+      "object": "Телега",
+      "source_task": "C003-028",
+      "priority": "P0",
+      "card": "Research/C005/C005-015.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Low Poly Cart",
+          "url": "https://opengameart.org/content/low-poly-cart",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "50 fantasy RPG models - wooden cart",
+          "url": "https://opengameart.org/content/50-fantasy-rpg-asset-models",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-016",
+      "object": "Мешок с зерном",
+      "source_task": "C003-029",
+      "priority": "P0",
+      "card": "Research/C005/C005-016.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-017",
+      "object": "Рыночная палатка",
+      "source_task": "C003-030",
+      "priority": "P0",
+      "card": "Research/C005/C005-017.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 0,
+      "attribution_or_SA": 1,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Simple Market Stall",
+          "url": "https://opengameart.org/content/simple-market-stall",
+          "license": "CC-BY-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-018",
+      "object": "Кузнечный горн",
+      "source_task": "C003-039",
+      "priority": "P0",
+      "card": "Research/C005/C005-018.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-019",
+      "object": "Верёвка",
+      "source_task": "C003-040",
+      "priority": "P0",
+      "card": "Research/C005/C005-019.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Rope Fence - rope segments",
+          "url": "https://opengameart.org/content/rope-fence",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-020",
+      "object": "Снежный сугроб",
+      "source_task": "C003-041",
+      "priority": "P0",
+      "card": "Research/C005/C005-020.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Mundo winter props",
+          "url": "https://opengameart.org/content/freebies-mundo-commissions",
+          "license": "CC0",
+          "match": "TAG_ONLY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-021",
+      "object": "Утёс",
+      "source_task": "C003-042",
+      "priority": "P0",
+      "card": "Research/C005/C005-021.md",
+      "unique_exact_page_count": 5,
+      "cc0_pages": 5,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Береговой утёс 04",
+          "url": "https://polyhaven.com/a/coastal_cliff_04",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-013; possible high-poly optimization",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Утёс Namaqualand 01",
+          "url": "https://polyhaven.com/a/namaqualand_cliff_01",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-014; possible high-poly optimization",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Утёс Namaqualand 02",
+          "url": "https://polyhaven.com/a/namaqualand_cliff_02",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-015; possible high-poly optimization",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Береговой утёс 01",
+          "url": "https://polyhaven.com/a/coastal_cliff_01",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-016; possible high-poly optimization",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Береговой утёс 02",
+          "url": "https://polyhaven.com/a/coastal_cliff_02",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-028; possible high-poly optimization",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-022",
+      "object": "Песчаная дюна",
+      "source_task": "C003-045",
+      "priority": "P0",
+      "card": "Research/C005/C005-022.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-023",
+      "object": "Кактус",
+      "source_task": "C003-048",
+      "priority": "P0",
+      "card": "Research/C005/C005-023.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 0,
+      "attribution_or_SA": 3,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Low Poly Cacti",
+          "url": "https://opengameart.org/content/low-poly-cacti",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Low-poly Cacti variants",
+          "url": "https://opengameart.org/content/low-poly-cacti-0",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Saguaro Cactus",
+          "url": "https://opengameart.org/content/saguaro-cactus-model",
+          "license": "CC-BY-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Desert Toon Arena Pack",
+          "url": "https://opengameart.org/content/desert-low-poly-toon-battle-arena-tower-defense-pack",
+          "license": "CC0",
+          "match": "TAG_ONLY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-024",
+      "object": "Поваленное дерево",
+      "source_task": "C003-050",
+      "priority": "P0",
+      "card": "Research/C005/C005-024.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 3,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Сухой ствол дерева",
+          "url": "https://polyhaven.com/a/dead_tree_trunk",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-011; possible high-poly optimization",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Сухой ствол дерева 02",
+          "url": "https://polyhaven.com/a/dead_tree_trunk_02",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-012; possible high-poly optimization",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Сухое дерево Quiver",
+          "url": "https://polyhaven.com/a/dead_quiver_trunk",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-032; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-025",
+      "object": "Алтарь",
+      "source_task": "C003-052",
+      "priority": "P0",
+      "card": "Research/C005/C005-025.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 3,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Altar",
+          "url": "https://opengameart.org/content/altar",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Star Altar OpenDungeons",
+          "url": "https://opengameart.org/content/star-altar-opendungeons",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Bloody Altar",
+          "url": "https://opengameart.org/content/bloody-altar",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-026",
+      "object": "Рунический камень",
+      "source_task": "C003-053",
+      "priority": "P0",
+      "card": "Research/C005/C005-026.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-027",
+      "object": "Напольная ловушка",
+      "source_task": "C003-055",
+      "priority": "P0",
+      "card": "Research/C005/C005-027.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-028",
+      "object": "Тюремные решётки",
+      "source_task": "C003-056",
+      "priority": "P0",
+      "card": "Research/C005/C005-028.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 2,
+      "sources": [
+        {
+          "title": "Simple Prison",
+          "url": "https://opengameart.org/content/simple-prison",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Medieval Gatehouse portcullis",
+          "url": "https://opengameart.org/content/medieval-gatehouse",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "notes": "portcullis bars, not actual prison gates",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-029",
+      "object": "Факел",
+      "source_task": "C003-057",
+      "priority": "P0",
+      "card": "Research/C005/C005-029.md",
+      "unique_exact_page_count": 6,
+      "cc0_pages": 6,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Basic 3D Torch",
+          "url": "https://opengameart.org/content/basic-3d-torch",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "3D Torch",
+          "url": "https://opengameart.org/content/3d-torch",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Wall Torch",
+          "url": "https://opengameart.org/content/wall-torch",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Basic Torch With Particles",
+          "url": "https://opengameart.org/content/basic-torch-particles",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Torch",
+          "url": "https://opengameart.org/content/torch",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Fantasy Torch Pack 2",
+          "url": "https://opengameart.org/content/fantasy-torch-pack-2",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-030",
+      "object": "Сокровища россыпью",
+      "source_task": "C003-058",
+      "priority": "P0",
+      "card": "Research/C005/C005-030.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 3,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Pile of gold coins",
+          "url": "https://opengameart.org/content/pile-coins-w-procedural-node-material-blender-25",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Treasure Pack",
+          "url": "https://opengameart.org/content/treasure-pack",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Crates Chests Coins and Barrels",
+          "url": "https://opengameart.org/content/crates-chests-coins-and-barrels-collection",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Gold Coin Blank",
+          "url": "https://opengameart.org/content/gold-coin-blank",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "notes": "single coin, not treasure pile",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-031",
+      "object": "Волшебная палочка",
+      "source_task": "C003-059",
+      "priority": "P0",
+      "card": "Research/C005/C005-031.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 2,
+      "sources": [
+        {
+          "title": "Stylized Wizard Staff (not a wand)",
+          "url": "https://opengameart.org/content/stylized-wizard-staff",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Magic Hat & Stick from OGA collection",
+          "url": "https://opengameart.org/content/3d-assets-cc0",
+          "license": "CC0",
+          "match": "COLLECTION_ONLY",
+          "notes": "collection entry not a page proving exact wand",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-032",
+      "object": "Круг призыва",
+      "source_task": "C003-060",
+      "priority": "P0",
+      "card": "Research/C005/C005-032.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-033",
+      "object": "Электрогенератор",
+      "source_task": "C003-061",
+      "priority": "P0",
+      "card": "Research/C005/C005-033.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Портативный генератор",
+          "url": "https://polyhaven.com/a/portable_generator",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-004; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-034",
+      "object": "Линия электропередач",
+      "source_task": "C003-063",
+      "priority": "P0",
+      "card": "Research/C005/C005-034.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 2,
+      "attribution_or_SA": 1,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Электрические опоры",
+          "url": "https://polyhaven.com/a/modular_electricity_poles",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-005; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Модульные кабели",
+          "url": "https://polyhaven.com/a/modular_electric_cables",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-006; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Environmental Suburbia electric pole",
+          "url": "https://opengameart.org/content/environmental-suburbia-pack-low-poly",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-035",
+      "object": "Солнечная панель",
+      "source_task": "C003-064",
+      "priority": "P0",
+      "card": "Research/C005/C005-035.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 0,
+      "attribution_or_SA": 2,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Solar Panel",
+          "url": "https://opengameart.org/content/solar-panel",
+          "license": "CC-BY-4.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Environmental Suburbia solar panels",
+          "url": "https://opengameart.org/content/environmental-suburbia-pack-low-poly",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-036",
+      "object": "Ветрогенератор",
+      "source_task": "C003-065",
+      "priority": "P0",
+      "card": "Research/C005/C005-036.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 0,
+      "attribution_or_SA": 1,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Environmental Suburbia wind turbine",
+          "url": "https://opengameart.org/content/environmental-suburbia-pack-low-poly",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-037",
+      "object": "Двигатель",
+      "source_task": "C003-066",
+      "priority": "P0",
+      "card": "Research/C005/C005-037.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-038",
+      "object": "Автопогрузчик",
+      "source_task": "C003-067",
+      "priority": "P0",
+      "card": "Research/C005/C005-038.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 0,
+      "attribution_or_SA": 1,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Forklift Jungheinrich DFG425s",
+          "url": "https://opengameart.org/content/forklift-jungheinrich-dfg-425s",
+          "license": "CC-BY-4.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-039",
+      "object": "Грузовой контейнер",
+      "source_task": "C003-070",
+      "priority": "P0",
+      "card": "Research/C005/C005-039.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-040",
+      "object": "Футбольный мяч",
+      "source_task": "C003-071",
+      "priority": "P0",
+      "card": "Research/C005/C005-040.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-041",
+      "object": "Баскетбольное кольцо",
+      "source_task": "C003-072",
+      "priority": "P0",
+      "card": "Research/C005/C005-041.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-042",
+      "object": "Теннисная ракетка",
+      "source_task": "C003-075",
+      "priority": "P0",
+      "card": "Research/C005/C005-042.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-043",
+      "object": "Боксёрские перчатки",
+      "source_task": "C003-076",
+      "priority": "P0",
+      "card": "Research/C005/C005-043.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "OverScore Proxy boxing gloves",
+          "url": "https://opengameart.org/content/overscore-proxy-modular-low-poly-female-character-creation-set",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-044",
+      "object": "Бассейн",
+      "source_task": "C003-077",
+      "priority": "P0",
+      "card": "Research/C005/C005-044.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-045",
+      "object": "Тренажёр",
+      "source_task": "C003-078",
+      "priority": "P0",
+      "card": "Research/C005/C005-045.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-046",
+      "object": "Подводная лодка",
+      "source_task": "C003-081",
+      "priority": "P0",
+      "card": "Research/C005/C005-046.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 3,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Submarine low poly",
+          "url": "https://opengameart.org/content/submarine-low-poly",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Ballistic missile submarine",
+          "url": "https://opengameart.org/content/ballistic-missile-submarine",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Yellow submersible",
+          "url": "https://opengameart.org/content/yellow-submersible",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-047",
+      "object": "Квадрокоптер",
+      "source_task": "C003-083",
+      "priority": "P0",
+      "card": "Research/C005/C005-047.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Futuristic drone (not confirmed quadcopter)",
+          "url": "https://opengameart.org/content/futuristic-drone-in-3d",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-048",
+      "object": "Шлюзовая камера",
+      "source_task": "C003-088",
+      "priority": "P0",
+      "card": "Research/C005/C005-048.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-049",
+      "object": "Радар",
+      "source_task": "C003-089",
+      "priority": "P0",
+      "card": "Research/C005/C005-049.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-050",
+      "object": "Ангар",
+      "source_task": "C003-090",
+      "priority": "P0",
+      "card": "Research/C005/C005-050.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Abstract RTS Pack - airfield",
+          "url": "https://opengameart.org/content/abstract-rts-model-pack",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "notes": "airfield, not a dedicated aircraft hangar",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-051",
+      "object": "Заправочная станция",
+      "source_task": "C003-092",
+      "priority": "P0",
+      "card": "Research/C005/C005-051.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Suburb Asset Pt 1 gas station",
+          "url": "https://opengameart.org/content/suburb-asset-pt1",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Suburb Collada same geometry reexport",
+          "url": "https://opengameart.org/content/suburb-houses-v1-collada",
+          "license": "CC0",
+          "match": "SAME_GEOMETRY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-052",
+      "object": "Супермаркет",
+      "source_task": "C003-093",
+      "priority": "P0",
+      "card": "Research/C005/C005-052.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Kenney Mini Market interior objects",
+          "url": "https://opengameart.org/content/mini-market",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "notes": "20 retail/supermarket props, NOT the entire supermarket building",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-053",
+      "object": "Школа — здание",
+      "source_task": "C003-095",
+      "priority": "P0",
+      "card": "Research/C005/C005-053.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "School from Moscow low-poly building",
+          "url": "https://opengameart.org/content/school-from-moscow-lowpoly-building",
+          "license": "UNKNOWN",
+          "match": "LICENSE_NOT_VERIFIED",
+          "notes": "Cannot claim commercial permission",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-054",
+      "object": "Пожарное депо",
+      "source_task": "C003-096",
+      "priority": "P0",
+      "card": "Research/C005/C005-054.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-055",
+      "object": "Банк — здание",
+      "source_task": "C003-097",
+      "priority": "P0",
+      "card": "Research/C005/C005-055.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-056",
+      "object": "Полицейский участок",
+      "source_task": "C003-098",
+      "priority": "P0",
+      "card": "Research/C005/C005-056.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Kenney City Kit Industrial buildings",
+          "url": "https://opengameart.org/content/city-kit-industrial",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "notes": "industrial buildings, police department not confirmed",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-057",
+      "object": "Станция метро",
+      "source_task": "C003-099",
+      "priority": "P0",
+      "card": "Research/C005/C005-057.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-058",
+      "object": "Памятник",
+      "source_task": "C003-100",
+      "priority": "P0",
+      "card": "Research/C005/C005-058.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Декор: голова льва",
+          "url": "https://polyhaven.com/a/lion_head",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-072; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Статуэтка акулы",
+          "url": "https://polyhaven.com/a/bronze_shark_statue",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-073; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-059",
+      "object": "Душевая кабина",
+      "source_task": "C002-017",
+      "priority": "P0",
+      "card": "Research/C005/C005-059.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-060",
+      "object": "Стиральная машина",
+      "source_task": "C002-018",
+      "priority": "P0",
+      "card": "Research/C005/C005-060.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-061",
+      "object": "Зеркало",
+      "source_task": "C002-026",
+      "priority": "P0",
+      "card": "Research/C005/C005-061.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Зеркало",
+          "url": "https://polyhaven.com/a/ornate_mirror_01",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-002; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-062",
+      "object": "Эльф",
+      "source_task": "C002-065",
+      "priority": "P0",
+      "card": "Research/C005/C005-062.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 0,
+      "attribution_or_SA": 3,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Elf animated",
+          "url": "https://opengameart.org/content/elf-game-ready-and-animated",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Dark Elf animated",
+          "url": "https://opengameart.org/content/dark-elf-game-ready-and-animated",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Elven archer lower poly",
+          "url": "https://opengameart.org/content/elven-archer-lower-poly-edition",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Quaternius characters elf pack (historic CC0 vs QAL)",
+          "url": "https://opengameart.org/content/animated-characters-pack",
+          "license": "LICENSE_CONFLICT",
+          "match": "PACK_LEGAL_REVIEW",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Do not automatically integrate.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-063",
+      "object": "Орк",
+      "source_task": "C002-066",
+      "priority": "P0",
+      "card": "Research/C005/C005-063.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 0,
+      "attribution_or_SA": 1,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Orc 3D animated",
+          "url": "https://opengameart.org/content/orc-3d",
+          "license": "CC-BY-SA-4.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Kenney Blocky Characters orc tag",
+          "url": "https://opengameart.org/content/3d-rigged-characters",
+          "license": "CC0",
+          "match": "TAG_ONLY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-064",
+      "object": "Виверна",
+      "source_task": "C002-070",
+      "priority": "P0",
+      "card": "Research/C005/C005-064.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 0,
+      "attribution_or_SA": 2,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Wyvern animated",
+          "url": "https://opengameart.org/content/wyvern-1",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Attribution and share-alike review required.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Wyvern Low Poly",
+          "url": "https://opengameart.org/content/wyvern-low-poly",
+          "license": "CC-BY-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-065",
+      "object": "Офисный шкаф",
+      "source_task": "C003-005",
+      "priority": "P1",
+      "card": "Research/C005/C005-065.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Металлический офисный стол",
+          "url": "https://polyhaven.com/a/metal_office_desk",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-010; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Современный деревянный шкаф",
+          "url": "https://polyhaven.com/a/modern_wooden_cabinet",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-082; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-066",
+      "object": "Больничная кровать",
+      "source_task": "C003-011",
+      "priority": "P1",
+      "card": "Research/C005/C005-066.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 0,
+      "attribution_or_SA": 1,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Hospital bed",
+          "url": "https://opengameart.org/content/small-hospital-bed",
+          "license": "CC-BY-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Free3DAsylum mattress/corridor",
+          "url": "https://opengameart.org/content/free3dasylum",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "notes": "not purpose-built hospital bed",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-067",
+      "object": "Пробирки",
+      "source_task": "C003-017",
+      "priority": "P1",
+      "card": "Research/C005/C005-067.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Набор химической посуды",
+          "url": "https://polyhaven.com/a/chemistry_set",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-007; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Lab Assets glassware",
+          "url": "https://opengameart.org/content/lab-assets",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-068",
+      "object": "Больничная мебель",
+      "source_task": "C003-020",
+      "priority": "P1",
+      "card": "Research/C005/C005-068.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 0,
+      "attribution_or_SA": 1,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Free3DAsylum medical-style furniture",
+          "url": "https://opengameart.org/content/free3dasylum",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Small Hospital Bed",
+          "url": "https://opengameart.org/content/small-hospital-bed",
+          "license": "CC-BY-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-069",
+      "object": "Яблоко",
+      "source_task": "C003-022",
+      "priority": "P1",
+      "card": "Research/C005/C005-069.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Inventory Items apples",
+          "url": "https://opengameart.org/content/inventory-items",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-070",
+      "object": "Морковь",
+      "source_task": "C003-023",
+      "priority": "P1",
+      "card": "Research/C005/C005-070.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Inventory Items carrots",
+          "url": "https://opengameart.org/content/inventory-items",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-071",
+      "object": "Яйца",
+      "source_task": "C003-026",
+      "priority": "P1",
+      "card": "Research/C005/C005-071.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Inventory Items Eggs",
+          "url": "https://opengameart.org/content/inventory-items",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+          "notes": "Page listed asset; archive not checked.",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-072",
+      "object": "Гаечный ключ",
+      "source_task": "C003-032",
+      "priority": "P1",
+      "card": "Research/C005/C005-072.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 3,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Трубный ключ",
+          "url": "https://polyhaven.com/a/pipe_wrench",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-058; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Разводной ключ",
+          "url": "https://polyhaven.com/a/adjustable_wrench",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-059; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Tool Pack 1 adjustable wrench",
+          "url": "https://opengameart.org/content/tool-pack-1",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-073",
+      "object": "Дрель",
+      "source_task": "C003-033",
+      "priority": "P1",
+      "card": "Research/C005/C005-073.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Аккумуляторная дрель",
+          "url": "https://polyhaven.com/a/Drill_01",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-096; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Cordless Drill",
+          "url": "https://opengameart.org/content/cordless-drill",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-074",
+      "object": "Отвёртка",
+      "source_task": "C003-035",
+      "priority": "P1",
+      "card": "Research/C005/C005-074.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Плоская отвёртка",
+          "url": "https://polyhaven.com/a/flathead_screwdriver",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-057; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Flathead screwdriver",
+          "url": "https://opengameart.org/content/flathead-screwdriver",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-075",
+      "object": "Кирка",
+      "source_task": "C003-037",
+      "priority": "P1",
+      "card": "Research/C005/C005-075.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Inventory items iron pickaxe",
+          "url": "https://opengameart.org/content/inventory-items",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-076",
+      "object": "Наковальня",
+      "source_task": "C003-038",
+      "priority": "P1",
+      "card": "Research/C005/C005-076.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Low Poly Iron Anvil",
+          "url": "https://opengameart.org/content/low-poly-iron-anvil",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-077",
+      "object": "Пруд",
+      "source_task": "C003-043",
+      "priority": "P1",
+      "card": "Research/C005/C005-077.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Free Lowpoly Pond Kit",
+          "url": "https://opengameart.org/content/free-lowpoly-pond-kit",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-078",
+      "object": "Водопад",
+      "source_task": "C003-044",
+      "priority": "P1",
+      "card": "Research/C005/C005-078.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Toon Waterfall",
+          "url": "https://opengameart.org/content/toon-waterfall",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Kenney Nature Kit includes waterfall tag",
+          "url": "https://opengameart.org/content/nature-kit",
+          "license": "CC0",
+          "match": "TAG_ONLY",
+          "notes": "do not count as exact without archive inspection",
+          "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-079",
+      "object": "Бамбук",
+      "source_task": "C003-046",
+      "priority": "P1",
+      "card": "Research/C005/C005-079.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Free Bamboo v1",
+          "url": "https://opengameart.org/content/free-bamboo-v1",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-080",
+      "object": "Валун со мхом",
+      "source_task": "C003-049",
+      "priority": "P1",
+      "card": "Research/C005/C005-080.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Mossy Rock Environment Pack",
+          "url": "https://opengameart.org/content/mossy-rock-environment-pack",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-081",
+      "object": "Подъёмный кран",
+      "source_task": "C003-069",
+      "priority": "P1",
+      "card": "Research/C005/C005-081.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Crane Machine",
+          "url": "https://opengameart.org/content/crane-machine",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-082",
+      "object": "Скейтборд",
+      "source_task": "C003-073",
+      "priority": "P1",
+      "card": "Research/C005/C005-082.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Skateboard",
+          "url": "https://opengameart.org/content/skateboard",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-083",
+      "object": "Велосипед",
+      "source_task": "C003-074",
+      "priority": "P1",
+      "card": "Research/C005/C005-083.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "32 Low Poly Models bicycle",
+          "url": "https://opengameart.org/content/32-low-poly-models",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-084",
+      "object": "Боулинг",
+      "source_task": "C003-080",
+      "priority": "P1",
+      "card": "Research/C005/C005-084.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Bowling Pin only",
+          "url": "https://opengameart.org/content/bowling-pin",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-085",
+      "object": "Спутник",
+      "source_task": "C003-085",
+      "priority": "P1",
+      "card": "Research/C005/C005-085.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Buransk Satellite",
+          "url": "https://opengameart.org/content/buransk-asset-pack-cc0",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-086",
+      "object": "Кабина космического корабля",
+      "source_task": "C003-087",
+      "priority": "P1",
+      "card": "Research/C005/C005-086.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 0,
+      "attribution_or_SA": 1,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Teuthidae Space Ship Bridge",
+          "url": "https://opengameart.org/content/teuthidae-space-ship-bridge",
+          "license": "CC-BY-SA-3.0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Attribution/ShareAlike review needed",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-087",
+      "object": "Автобусная остановка",
+      "source_task": "C003-091",
+      "priority": "P1",
+      "card": "Research/C005/C005-087.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Bus Stop unfinished",
+          "url": "https://opengameart.org/content/bus-stop-unfinishedno-texture",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-088",
+      "object": "Больница — здание",
+      "source_task": "C003-094",
+      "priority": "P1",
+      "card": "Research/C005/C005-088.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Hospital Medical Center from Moscow",
+          "url": "https://opengameart.org/content/hospital-medical-center-from-moscow",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-089",
+      "object": "Диван",
+      "source_task": "C002-002",
+      "priority": "P1",
+      "card": "Research/C005/C005-089.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Диван 01",
+          "url": "https://polyhaven.com/a/Sofa_01",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-033; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Диван 02",
+          "url": "https://polyhaven.com/a/sofa_02",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-034; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-090",
+      "object": "Кровать",
+      "source_task": "C002-003",
+      "priority": "P1",
+      "card": "Research/C005/C005-090.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Кушетка",
+          "url": "https://polyhaven.com/a/vintage_day_bed",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-086; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-091",
+      "object": "Шкаф",
+      "source_task": "C002-005",
+      "priority": "P1",
+      "card": "Research/C005/C005-091.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Современный деревянный шкаф",
+          "url": "https://polyhaven.com/a/modern_wooden_cabinet",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-082; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-092",
+      "object": "Комод",
+      "source_task": "C002-006",
+      "priority": "P1",
+      "card": "Research/C005/C005-092.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-093",
+      "object": "Стеллаж",
+      "source_task": "C002-007",
+      "priority": "P1",
+      "card": "Research/C005/C005-093.md",
+      "unique_exact_page_count": 3,
+      "cc0_pages": 3,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Стеллаж металлический 01",
+          "url": "https://polyhaven.com/a/steel_frame_shelves_01",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-035; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Стеллаж металлический 02",
+          "url": "https://polyhaven.com/a/steel_frame_shelves_02",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-036; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Стеллаж металлический 03",
+          "url": "https://polyhaven.com/a/steel_frame_shelves_03",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-037; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-094",
+      "object": "Тумбочка",
+      "source_task": "C002-008",
+      "priority": "P1",
+      "card": "Research/C005/C005-094.md",
+      "unique_exact_page_count": 0,
+      "cc0_pages": 0,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Night Table",
+          "url": "https://opengameart.org/content/night-table",
+          "license": "CC0",
+          "match": "SOURCE_NEEDS_RECHECK",
+          "evidence": "PREVIOUS_SEARCH_UNVERIFIED",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "GAP_NOT_EXACT",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-095",
+      "object": "Рабочий стол",
+      "source_task": "C002-009",
+      "priority": "P1",
+      "card": "Research/C005/C005-095.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Металлический офисный стол",
+          "url": "https://polyhaven.com/a/metal_office_desk",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-010; ",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-096",
+      "object": "Микроволновка",
+      "source_task": "C002-013",
+      "priority": "P1",
+      "card": "Research/C005/C005-096.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Винтажная микроволновка",
+          "url": "https://polyhaven.com/a/vintage_microwave",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-050; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Free Yoko Redux Models microwave",
+          "url": "https://opengameart.org/content/free-yoko-redux-models",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-097",
+      "object": "Ванна",
+      "source_task": "C002-016",
+      "priority": "P1",
+      "card": "Research/C005/C005-097.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Modular bathroom voxel bath tub",
+          "url": "https://opengameart.org/content/modular-bathroom-voxel-art",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-098",
+      "object": "Кухонные шкафчики",
+      "source_task": "C002-019",
+      "priority": "P1",
+      "card": "Research/C005/C005-098.md",
+      "unique_exact_page_count": 1,
+      "cc0_pages": 1,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Tiny Treats kitchen counters",
+          "url": "https://opengameart.org/content/tiny-treats-charming-kitchen-set",
+          "license": "CC0",
+          "match": "EXACT_PACK_CONTENT",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-099",
+      "object": "Чайник",
+      "source_task": "C002-020",
+      "priority": "P1",
+      "card": "Research/C005/C005-099.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 0,
+      "sources": [
+        {
+          "title": "Винтажный электрочайник",
+          "url": "https://polyhaven.com/a/vintage_electric_kettle",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-051; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Old Kettle",
+          "url": "https://opengameart.org/content/old-keetle",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "id": "C005-100",
+      "object": "Картина",
+      "source_task": "C002-025",
+      "priority": "P1",
+      "card": "Research/C005/C005-100.md",
+      "unique_exact_page_count": 2,
+      "cc0_pages": 2,
+      "attribution_or_SA": 0,
+      "related_or_unverified": 1,
+      "sources": [
+        {
+          "title": "Картины low-poly",
+          "url": "https://opengameart.org/content/cge-low-poly-paintings",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-025; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "Рамка для картины",
+          "url": "https://polyhaven.com/a/standing_picture_frame_01",
+          "license": "CC0",
+          "match": "EXACT_MODEL",
+          "evidence": "C004_RECORD",
+          "notes": "C004-098; ",
+          "downloaded": false,
+          "unity_tested": false
+        },
+        {
+          "title": "3D Home Interior picture frame (not painting)",
+          "url": "https://opengameart.org/content/3d-interior-home-assets",
+          "license": "CC0",
+          "match": "RELATED_ONLY",
+          "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+          "notes": "Page description or prior indexed find; recheck download/contents",
+          "downloaded": false,
+          "unity_tested": false
+        }
+      ],
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "downloads_verified": 0,
+      "blender_tested": false,
+      "unity_tested": false
+    }
+  ]
+}
