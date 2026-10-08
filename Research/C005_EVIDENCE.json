@@ -72,6 +72,64 @@
         "unity_tested": false
       }
     ],
+    "15": [
+      {
+        "title": "Low Poly Cart",
+        "url": "https://opengameart.org/content/low-poly-cart",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "50 fantasy RPG models - wooden cart",
+        "url": "https://opengameart.org/content/50-fantasy-rpg-asset-models",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "17": [
+      {
+        "title": "Simple Market Stall",
+        "url": "https://opengameart.org/content/simple-market-stall",
+        "license": "CC-BY-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "19": [
+      {
+        "title": "Rope Fence - rope segments",
+        "url": "https://opengameart.org/content/rope-fence",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "20": [
+      {
+        "title": "Mundo winter props",
+        "url": "https://opengameart.org/content/freebies-mundo-commissions",
+        "license": "CC0",
+        "match": "TAG_ONLY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
     "21": [
       {
         "title": "Береговой утёс 04",
@@ -124,6 +182,48 @@
         "unity_tested": false
       }
     ],
+    "23": [
+      {
+        "title": "Low Poly Cacti",
+        "url": "https://opengameart.org/content/low-poly-cacti",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Low-poly Cacti variants",
+        "url": "https://opengameart.org/content/low-poly-cacti-0",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Saguaro Cactus",
+        "url": "https://opengameart.org/content/saguaro-cactus-model",
+        "license": "CC-BY-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Desert Toon Arena Pack",
+        "url": "https://opengameart.org/content/desert-low-poly-toon-battle-arena-tower-defense-pack",
+        "license": "CC0",
+        "match": "TAG_ONLY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
     "24": [
       {
         "title": "Сухой ствол дерева",
@@ -152,6 +252,156 @@
         "match": "EXACT_MODEL",
         "evidence": "C004_RECORD",
         "notes": "C004-032; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "25": [
+      {
+        "title": "Altar",
+        "url": "https://opengameart.org/content/altar",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Star Altar OpenDungeons",
+        "url": "https://opengameart.org/content/star-altar-opendungeons",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Bloody Altar",
+        "url": "https://opengameart.org/content/bloody-altar",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "28": [
+      {
+        "title": "Simple Prison",
+        "url": "https://opengameart.org/content/simple-prison",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "29": [
+      {
+        "title": "Basic 3D Torch",
+        "url": "https://opengameart.org/content/basic-3d-torch",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "3D Torch",
+        "url": "https://opengameart.org/content/3d-torch",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Wall Torch",
+        "url": "https://opengameart.org/content/wall-torch",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Basic Torch With Particles",
+        "url": "https://opengameart.org/content/basic-torch-particles",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Torch",
+        "url": "https://opengameart.org/content/torch",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Fantasy Torch Pack 2",
+        "url": "https://opengameart.org/content/fantasy-torch-pack-2",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "30": [
+      {
+        "title": "Pile of gold coins",
+        "url": "https://opengameart.org/content/pile-coins-w-procedural-node-material-blender-25",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Treasure Pack",
+        "url": "https://opengameart.org/content/treasure-pack",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Crates Chests Coins and Barrels",
+        "url": "https://opengameart.org/content/crates-chests-coins-and-barrels-collection",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "31": [
+      {
+        "title": "Stylized Wizard Staff (not a wand)",
+        "url": "https://opengameart.org/content/stylized-wizard-staff",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
         "downloaded": false,
         "unity_tested": false
       }
@@ -186,6 +436,140 @@
         "match": "EXACT_MODEL",
         "evidence": "C004_RECORD",
         "notes": "C004-006; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Environmental Suburbia electric pole",
+        "url": "https://opengameart.org/content/environmental-suburbia-pack-low-poly",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "35": [
+      {
+        "title": "Solar Panel",
+        "url": "https://opengameart.org/content/solar-panel",
+        "license": "CC-BY-4.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Environmental Suburbia solar panels",
+        "url": "https://opengameart.org/content/environmental-suburbia-pack-low-poly",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "36": [
+      {
+        "title": "Environmental Suburbia wind turbine",
+        "url": "https://opengameart.org/content/environmental-suburbia-pack-low-poly",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "38": [
+      {
+        "title": "Forklift Jungheinrich DFG425s",
+        "url": "https://opengameart.org/content/forklift-jungheinrich-dfg-425s",
+        "license": "CC-BY-4.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "43": [
+      {
+        "title": "OverScore Proxy boxing gloves",
+        "url": "https://opengameart.org/content/overscore-proxy-modular-low-poly-female-character-creation-set",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "46": [
+      {
+        "title": "Submarine low poly",
+        "url": "https://opengameart.org/content/submarine-low-poly",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Ballistic missile submarine",
+        "url": "https://opengameart.org/content/ballistic-missile-submarine",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Yellow submersible",
+        "url": "https://opengameart.org/content/yellow-submersible",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "47": [
+      {
+        "title": "Futuristic drone (not confirmed quadcopter)",
+        "url": "https://opengameart.org/content/futuristic-drone-in-3d",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "51": [
+      {
+        "title": "Suburb Asset Pt 1 gas station",
+        "url": "https://opengameart.org/content/suburb-asset-pt1",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Suburb Collada same geometry reexport",
+        "url": "https://opengameart.org/content/suburb-houses-v1-collada",
+        "license": "CC0",
+        "match": "SAME_GEOMETRY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
         "downloaded": false,
         "unity_tested": false
       }
@@ -224,6 +608,92 @@
         "unity_tested": false
       }
     ],
+    "62": [
+      {
+        "title": "Elf animated",
+        "url": "https://opengameart.org/content/elf-game-ready-and-animated",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Dark Elf animated",
+        "url": "https://opengameart.org/content/dark-elf-game-ready-and-animated",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Elven archer lower poly",
+        "url": "https://opengameart.org/content/elven-archer-lower-poly-edition",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Quaternius characters elf pack (historic CC0 vs QAL)",
+        "url": "https://opengameart.org/content/animated-characters-pack",
+        "license": "LICENSE_CONFLICT",
+        "match": "PACK_LEGAL_REVIEW",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Do not automatically integrate.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "63": [
+      {
+        "title": "Orc 3D animated",
+        "url": "https://opengameart.org/content/orc-3d",
+        "license": "CC-BY-SA-4.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Kenney Blocky Characters orc tag",
+        "url": "https://opengameart.org/content/3d-rigged-characters",
+        "license": "CC0",
+        "match": "TAG_ONLY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "64": [
+      {
+        "title": "Wyvern animated",
+        "url": "https://opengameart.org/content/wyvern-1",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Attribution and share-alike review required.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Wyvern Low Poly",
+        "url": "https://opengameart.org/content/wyvern-low-poly",
+        "license": "CC-BY-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
     "65": [
       {
         "title": "Металлический офисный стол",
@@ -246,6 +716,18 @@
         "unity_tested": false
       }
     ],
+    "66": [
+      {
+        "title": "Hospital bed",
+        "url": "https://opengameart.org/content/small-hospital-bed",
+        "license": "CC-BY-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
     "67": [
       {
         "title": "Набор химической посуды",
@@ -254,6 +736,30 @@
         "match": "EXACT_MODEL",
         "evidence": "C004_RECORD",
         "notes": "C004-007; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "68": [
+      {
+        "title": "Free3DAsylum medical-style furniture",
+        "url": "https://opengameart.org/content/free3dasylum",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "71": [
+      {
+        "title": "Inventory Items Eggs",
+        "url": "https://opengameart.org/content/inventory-items",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
+        "notes": "Page listed asset; archive not checked.",
         "downloaded": false,
         "unity_tested": false
       }
