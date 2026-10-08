@@ -738,6 +738,16 @@
         "notes": "C004-007; ",
         "downloaded": false,
         "unity_tested": false
+      },
+      {
+        "title": "Lab Assets glassware",
+        "url": "https://opengameart.org/content/lab-assets",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
       }
     ],
     "68": [
@@ -748,6 +758,40 @@
         "match": "RELATED_ONLY",
         "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
         "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Small Hospital Bed",
+        "url": "https://opengameart.org/content/small-hospital-bed",
+        "license": "CC-BY-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "69": [
+      {
+        "title": "Inventory Items apples",
+        "url": "https://opengameart.org/content/inventory-items",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "70": [
+      {
+        "title": "Inventory Items carrots",
+        "url": "https://opengameart.org/content/inventory-items",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
         "downloaded": false,
         "unity_tested": false
       }
@@ -784,6 +828,16 @@
         "notes": "C004-059; ",
         "downloaded": false,
         "unity_tested": false
+      },
+      {
+        "title": "Tool Pack 1 adjustable wrench",
+        "url": "https://opengameart.org/content/tool-pack-1",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
       }
     ],
     "73": [
@@ -796,6 +850,16 @@
         "notes": "C004-096; ",
         "downloaded": false,
         "unity_tested": false
+      },
+      {
+        "title": "Cordless Drill",
+        "url": "https://opengameart.org/content/cordless-drill",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
       }
     ],
     "74": [
@@ -806,6 +870,184 @@
         "match": "EXACT_MODEL",
         "evidence": "C004_RECORD",
         "notes": "C004-057; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Flathead screwdriver",
+        "url": "https://opengameart.org/content/flathead-screwdriver",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "75": [
+      {
+        "title": "Inventory items iron pickaxe",
+        "url": "https://opengameart.org/content/inventory-items",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "76": [
+      {
+        "title": "Low Poly Iron Anvil",
+        "url": "https://opengameart.org/content/low-poly-iron-anvil",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "77": [
+      {
+        "title": "Free Lowpoly Pond Kit",
+        "url": "https://opengameart.org/content/free-lowpoly-pond-kit",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "78": [
+      {
+        "title": "Toon Waterfall",
+        "url": "https://opengameart.org/content/toon-waterfall",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "79": [
+      {
+        "title": "Free Bamboo v1",
+        "url": "https://opengameart.org/content/free-bamboo-v1",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "80": [
+      {
+        "title": "Mossy Rock Environment Pack",
+        "url": "https://opengameart.org/content/mossy-rock-environment-pack",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "81": [
+      {
+        "title": "Crane Machine",
+        "url": "https://opengameart.org/content/crane-machine",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "82": [
+      {
+        "title": "Skateboard",
+        "url": "https://opengameart.org/content/skateboard",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "83": [
+      {
+        "title": "32 Low Poly Models bicycle",
+        "url": "https://opengameart.org/content/32-low-poly-models",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "84": [
+      {
+        "title": "Bowling Pin only",
+        "url": "https://opengameart.org/content/bowling-pin",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "85": [
+      {
+        "title": "Buransk Satellite",
+        "url": "https://opengameart.org/content/buransk-asset-pack-cc0",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "86": [
+      {
+        "title": "Teuthidae Space Ship Bridge",
+        "url": "https://opengameart.org/content/teuthidae-space-ship-bridge",
+        "license": "CC-BY-SA-3.0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Attribution/ShareAlike review needed",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "87": [
+      {
+        "title": "Bus Stop unfinished",
+        "url": "https://opengameart.org/content/bus-stop-unfinishedno-texture",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "88": [
+      {
+        "title": "Hospital Medical Center from Moscow",
+        "url": "https://opengameart.org/content/hospital-medical-center-from-moscow",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
         "downloaded": false,
         "unity_tested": false
       }
@@ -888,6 +1130,18 @@
         "unity_tested": false
       }
     ],
+    "94": [
+      {
+        "title": "Night Table",
+        "url": "https://opengameart.org/content/night-table",
+        "license": "CC0",
+        "match": "SOURCE_NEEDS_RECHECK",
+        "evidence": "PREVIOUS_SEARCH_UNVERIFIED",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
     "95": [
       {
         "title": "Металлический офисный стол",
@@ -910,6 +1164,40 @@
         "notes": "C004-050; ",
         "downloaded": false,
         "unity_tested": false
+      },
+      {
+        "title": "Free Yoko Redux Models microwave",
+        "url": "https://opengameart.org/content/free-yoko-redux-models",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "97": [
+      {
+        "title": "Modular bathroom voxel bath tub",
+        "url": "https://opengameart.org/content/modular-bathroom-voxel-art",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "98": [
+      {
+        "title": "Tiny Treats kitchen counters",
+        "url": "https://opengameart.org/content/tiny-treats-charming-kitchen-set",
+        "license": "CC0",
+        "match": "EXACT_PACK_CONTENT",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
       }
     ],
     "99": [
@@ -920,6 +1208,16 @@
         "match": "EXACT_MODEL",
         "evidence": "C004_RECORD",
         "notes": "C004-051; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Old Kettle",
+        "url": "https://opengameart.org/content/old-keetle",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
         "downloaded": false,
         "unity_tested": false
       }
@@ -942,6 +1240,16 @@
         "match": "EXACT_MODEL",
         "evidence": "C004_RECORD",
         "notes": "C004-098; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "3D Home Interior picture frame (not painting)",
+        "url": "https://opengameart.org/content/3d-interior-home-assets",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
+        "notes": "Page description or prior indexed find; recheck download/contents",
         "downloaded": false,
         "unity_tested": false
       }
