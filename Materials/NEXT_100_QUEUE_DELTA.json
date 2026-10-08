@@ -1,0 +1,22 @@
+{
+  "created": "2026-10-08",
+  "base_queue": "Materials/NEXT_100_QUEUE.json",
+  "overrides": [
+    {
+      "id": "MTASK-011",
+      "status": "THREE_ICE_PAGES_FOUND_QA_PENDING",
+      "source_urls": [
+        "https://ambientcg.com/view?id=Ice001",
+        "https://ambientcg.com/view?id=Ice002",
+        "https://ambientcg.com/view?id=Ice003"
+      ],
+      "source_page_verified": true,
+      "download_checked": false,
+      "blender_tested": false,
+      "unity_urp_tested": false,
+      "notes": "Green frozen-lake ice; true optical transparency not established. Per-map availability and seamlessness unknown."
+    }
+  ],
+  "next_task": "MTASK-012",
+  "policy": "Do not equate PBR surface with physically transparent ice."
+}
