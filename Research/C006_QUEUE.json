@@ -15,11 +15,21 @@
       "source_task": "C005-001",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-002",
@@ -27,11 +37,21 @@
       "source_task": "C005-002",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-003",
@@ -39,11 +59,21 @@
       "source_task": "C005-003",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-004",
@@ -51,11 +81,21 @@
       "source_task": "C005-005",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-005",
@@ -63,11 +103,21 @@
       "source_task": "C005-006",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-006",
@@ -75,11 +125,21 @@
       "source_task": "C005-007",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-007",
@@ -87,11 +147,21 @@
       "source_task": "C005-008",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-008",
@@ -99,11 +169,21 @@
       "source_task": "C005-009",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-009",
@@ -111,11 +191,21 @@
       "source_task": "C005-011",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-010",
@@ -123,11 +213,21 @@
       "source_task": "C005-012",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-011",
@@ -135,11 +235,21 @@
       "source_task": "C005-014",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-012",
@@ -147,11 +257,21 @@
       "source_task": "C005-016",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-013",
@@ -159,11 +279,21 @@
       "source_task": "C005-018",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-014",
@@ -171,11 +301,21 @@
       "source_task": "C005-019",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-015",
@@ -183,11 +323,21 @@
       "source_task": "C005-020",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-016",
@@ -195,11 +345,21 @@
       "source_task": "C005-022",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-017",
@@ -207,11 +367,21 @@
       "source_task": "C005-026",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-018",
@@ -219,11 +389,21 @@
       "source_task": "C005-027",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-019",
@@ -231,11 +411,21 @@
       "source_task": "C005-028",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-020",
@@ -243,11 +433,21 @@
       "source_task": "C005-031",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-021",
@@ -255,11 +455,21 @@
       "source_task": "C005-032",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-022",
@@ -267,11 +477,21 @@
       "source_task": "C005-037",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-023",
@@ -279,11 +499,21 @@
       "source_task": "C005-039",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-024",
@@ -291,11 +521,21 @@
       "source_task": "C005-040",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-025",
@@ -303,11 +543,21 @@
       "source_task": "C005-041",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-026",
@@ -315,11 +565,21 @@
       "source_task": "C005-042",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-027",
@@ -327,11 +587,21 @@
       "source_task": "C005-044",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-028",
@@ -339,11 +609,21 @@
       "source_task": "C005-045",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-029",
@@ -351,11 +631,21 @@
       "source_task": "C005-047",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-030",
@@ -363,11 +653,21 @@
       "source_task": "C005-048",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-031",
@@ -375,11 +675,21 @@
       "source_task": "C005-049",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-032",
@@ -387,11 +697,21 @@
       "source_task": "C005-050",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-033",
@@ -399,11 +719,21 @@
       "source_task": "C005-052",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-034",
@@ -411,11 +741,21 @@
       "source_task": "C005-053",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-035",
@@ -423,11 +763,21 @@
       "source_task": "C005-054",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-036",
@@ -435,11 +785,21 @@
       "source_task": "C005-055",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-037",
@@ -447,11 +807,21 @@
       "source_task": "C005-056",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-038",
@@ -459,11 +829,21 @@
       "source_task": "C005-057",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-039",
@@ -471,11 +851,21 @@
       "source_task": "C005-059",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-040",
@@ -483,11 +873,21 @@
       "source_task": "C005-060",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-041",
@@ -495,11 +895,21 @@
       "source_task": "C005-084",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-042",
@@ -507,11 +917,21 @@
       "source_task": "C005-092",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-043",
@@ -519,11 +939,21 @@
       "source_task": "C005-094",
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
-      "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
+      "definition": "Find at least 2–3 specific independently authored exact free commercial-use resources, any 2D/2.5D/3D representation; NO UPPER LIMIT, never stop after 3; record files sizes if publisher lists them.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-044",
@@ -531,11 +961,21 @@
       "source_task": "C005-004",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-045",
@@ -543,11 +983,21 @@
       "source_task": "C005-010",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-046",
@@ -555,11 +1005,21 @@
       "source_task": "C005-017",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-047",
@@ -567,11 +1027,21 @@
       "source_task": "C005-033",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-048",
@@ -579,11 +1049,21 @@
       "source_task": "C005-036",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-049",
@@ -591,11 +1071,21 @@
       "source_task": "C005-038",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-050",
@@ -603,11 +1093,21 @@
       "source_task": "C005-043",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-051",
@@ -615,11 +1115,21 @@
       "source_task": "C005-051",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-052",
@@ -627,11 +1137,21 @@
       "source_task": "C005-061",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-053",
@@ -639,11 +1159,21 @@
       "source_task": "C005-063",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-054",
@@ -651,11 +1181,21 @@
       "source_task": "C005-066",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-055",
@@ -663,11 +1203,21 @@
       "source_task": "C005-068",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-056",
@@ -675,11 +1225,21 @@
       "source_task": "C005-069",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-057",
@@ -687,11 +1247,21 @@
       "source_task": "C005-070",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-058",
@@ -699,11 +1269,21 @@
       "source_task": "C005-071",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-059",
@@ -711,11 +1291,21 @@
       "source_task": "C005-075",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-060",
@@ -723,11 +1313,21 @@
       "source_task": "C005-076",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-061",
@@ -735,11 +1335,21 @@
       "source_task": "C005-077",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-062",
@@ -747,11 +1357,21 @@
       "source_task": "C005-078",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-063",
@@ -759,11 +1379,21 @@
       "source_task": "C005-079",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-064",
@@ -771,11 +1401,21 @@
       "source_task": "C005-080",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-065",
@@ -783,11 +1423,21 @@
       "source_task": "C005-081",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-066",
@@ -795,11 +1445,21 @@
       "source_task": "C005-082",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-067",
@@ -807,11 +1467,21 @@
       "source_task": "C005-083",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-068",
@@ -819,11 +1489,21 @@
       "source_task": "C005-085",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-069",
@@ -831,11 +1511,21 @@
       "source_task": "C005-086",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-070",
@@ -843,11 +1533,21 @@
       "source_task": "C005-087",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-071",
@@ -855,11 +1555,21 @@
       "source_task": "C005-088",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-072",
@@ -867,11 +1577,21 @@
       "source_task": "C005-090",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-073",
@@ -879,11 +1599,21 @@
       "source_task": "C005-091",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-074",
@@ -891,11 +1621,21 @@
       "source_task": "C005-095",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-075",
@@ -903,11 +1643,21 @@
       "source_task": "C005-097",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-076",
@@ -915,11 +1665,21 @@
       "source_task": "C005-098",
       "priority": "P1",
       "kind": "FIND_SECOND_INDEPENDENT_ASSET",
-      "definition": "Find a different original artist/model matching this object, legal for free commercial use.",
+      "definition": "Get at least 2–3 different exact free commercial-use assets, no upper limit, across any relevant style/genre/format including 2D/2.5D; continuously append further unique variants.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-077",
@@ -927,11 +1687,21 @@
       "source_task": "C005-013",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-078",
@@ -939,11 +1709,21 @@
       "source_task": "C005-015",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-079",
@@ -951,11 +1731,21 @@
       "source_task": "C005-021",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-080",
@@ -963,11 +1753,21 @@
       "source_task": "C005-023",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-081",
@@ -975,11 +1775,21 @@
       "source_task": "C005-024",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-082",
@@ -987,11 +1797,21 @@
       "source_task": "C005-025",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-083",
@@ -999,11 +1819,21 @@
       "source_task": "C005-029",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-084",
@@ -1011,11 +1841,21 @@
       "source_task": "C005-030",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-085",
@@ -1023,11 +1863,21 @@
       "source_task": "C005-034",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-086",
@@ -1035,11 +1885,21 @@
       "source_task": "C005-035",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-087",
@@ -1047,11 +1907,21 @@
       "source_task": "C005-046",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-088",
@@ -1059,11 +1929,21 @@
       "source_task": "C005-058",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-089",
@@ -1071,11 +1951,21 @@
       "source_task": "C005-062",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-090",
@@ -1083,11 +1973,21 @@
       "source_task": "C005-064",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-091",
@@ -1095,11 +1995,21 @@
       "source_task": "C005-065",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-092",
@@ -1107,11 +2017,21 @@
       "source_task": "C005-067",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-093",
@@ -1119,11 +2039,21 @@
       "source_task": "C005-072",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-094",
@@ -1131,11 +2061,21 @@
       "source_task": "C005-073",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-095",
@@ -1143,11 +2083,21 @@
       "source_task": "C005-074",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-096",
@@ -1155,11 +2105,21 @@
       "source_task": "C005-089",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-097",
@@ -1167,11 +2127,21 @@
       "source_task": "C005-093",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-098",
@@ -1179,11 +2149,21 @@
       "source_task": "C005-096",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-099",
@@ -1191,11 +2171,21 @@
       "source_task": "C005-099",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     },
     {
       "id": "C006-100",
@@ -1203,11 +2193,24 @@
       "source_task": "C005-100",
       "priority": "P2",
       "kind": "CHECK_LICENSE_AND_ARCHIVE",
-      "definition": "Verify distinctness, license notices and actual file contents; perform a real Blender/Unity import test only if available.",
+      "definition": "Verify original source, licensing, file sizes and independently authored variants; run Blender/Unity tests ONLY if actually available; keep adding more than 3 variants whenever found.",
       "status": "PENDING",
       "free_budget": true,
       "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "real_unity_test": "NOT_TESTED",
+      "minimum_independent_variants": 3,
+      "no_maximum": true,
+      "open_ended_search": true,
+      "types_allowed": [
+        "3D",
+        "2.5D",
+        "2D",
+        "OTHER_RELEVANT_VISUAL"
+      ],
+      "file_sizes_status": "UNKNOWN"
     }
-  ]
+  ],
+  "updated": "2026-10-09",
+  "global_rules": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "note": "Historical 100 task queue tracks selected existing 3D model gaps, but global search must ALSO cover 2D, 2.5D, ALL styles/genres, materials and any free sites. Goal >=2-3 independent instances per category, NO MAX; keep looking after target is reached. Use separate Materials/NEXT_100_QUEUE.json as second active queue."
 }
