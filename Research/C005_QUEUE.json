@@ -1,7 +1,7 @@
 {
   "cycle": "005",
   "prepared_on": "2026-10-08",
-  "status": "PLANNED_NOT_STARTED",
+  "status": "100_RESEARCH_CARDS_SAVED__PRODUCTION_VALIDATION_OPEN",
   "free_policy": "Only free commercial-use 3D assets; no paid models, subscriptions or paid exports",
   "completion_rule": "The task is completed only when a specific exact item page and license evidence are verified and saved to GitHub; otherwise record GAP (do not fake a model). No Unity QA claims without actual tests.",
   "scope": {
@@ -19,9 +19,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-002",
@@ -31,9 +35,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-003",
@@ -43,9 +51,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-004",
@@ -55,9 +67,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-005",
@@ -67,9 +83,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-006",
@@ -79,9 +99,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-007",
@@ -91,9 +115,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-008",
@@ -103,9 +131,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-009",
@@ -115,9 +147,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-010",
@@ -127,9 +163,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-011",
@@ -139,9 +179,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-012",
@@ -151,9 +195,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-013",
@@ -163,9 +211,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-014",
@@ -175,9 +227,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-015",
@@ -187,9 +243,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-016",
@@ -199,9 +259,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-017",
@@ -211,9 +275,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-018",
@@ -223,9 +291,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-019",
@@ -235,9 +307,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-020",
@@ -247,9 +323,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-021",
@@ -259,9 +339,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 5,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-022",
@@ -271,9 +355,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-023",
@@ -283,9 +371,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-024",
@@ -295,9 +387,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-025",
@@ -307,9 +403,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-026",
@@ -319,9 +419,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-027",
@@ -331,9 +435,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-028",
@@ -343,9 +451,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-029",
@@ -355,9 +467,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 6,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-030",
@@ -367,9 +483,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-031",
@@ -379,9 +499,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-032",
@@ -391,9 +515,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-033",
@@ -403,9 +531,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-034",
@@ -415,9 +547,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-035",
@@ -427,9 +563,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-036",
@@ -439,9 +579,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-037",
@@ -451,9 +595,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-038",
@@ -463,9 +611,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-039",
@@ -475,9 +627,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-040",
@@ -487,9 +643,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-041",
@@ -499,9 +659,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-042",
@@ -511,9 +675,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-043",
@@ -523,9 +691,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-044",
@@ -535,9 +707,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-045",
@@ -547,9 +723,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-046",
@@ -559,9 +739,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-047",
@@ -571,9 +755,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-048",
@@ -583,9 +771,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-049",
@@ -595,9 +787,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-050",
@@ -607,9 +803,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-051",
@@ -619,9 +819,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-052",
@@ -631,9 +835,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-053",
@@ -643,9 +851,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-054",
@@ -655,9 +867,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-055",
@@ -667,9 +883,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-056",
@@ -679,9 +899,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-057",
@@ -691,9 +915,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-058",
@@ -703,9 +931,13 @@
       "objective": "Find 2 independent exact free 3D source pages for commercial games (no portal-only / tag-only).",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-059",
@@ -715,9 +947,13 @@
       "objective": "Find 2 CC0 or other commercial-use free 3D models, preserve attribution obligations.",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-060",
@@ -727,9 +963,13 @@
       "objective": "Find 2 CC0 or other commercial-use free 3D models, preserve attribution obligations.",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-061",
@@ -739,9 +979,13 @@
       "objective": "Find 2 CC0 or other commercial-use free 3D models, preserve attribution obligations.",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-062",
@@ -751,9 +995,13 @@
       "objective": "Find 2 CC0 or other commercial-use free 3D models, preserve attribution obligations.",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-063",
@@ -763,9 +1011,13 @@
       "objective": "Find 2 CC0 or other commercial-use free 3D models, preserve attribution obligations.",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-064",
@@ -775,9 +1027,13 @@
       "objective": "Find 2 CC0 or other commercial-use free 3D models, preserve attribution obligations.",
       "priority": "P0",
       "existing_exact_source_pages": 0,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-065",
@@ -787,9 +1043,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-066",
@@ -799,9 +1059,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-067",
@@ -811,9 +1075,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-068",
@@ -823,9 +1091,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-069",
@@ -835,9 +1107,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-070",
@@ -847,9 +1123,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-071",
@@ -859,9 +1139,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-072",
@@ -871,9 +1155,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-073",
@@ -883,9 +1171,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-074",
@@ -895,9 +1187,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-075",
@@ -907,9 +1203,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-076",
@@ -919,9 +1219,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-077",
@@ -931,9 +1235,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-078",
@@ -943,9 +1251,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-079",
@@ -955,9 +1267,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-080",
@@ -967,9 +1283,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-081",
@@ -979,9 +1299,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-082",
@@ -991,9 +1315,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-083",
@@ -1003,9 +1331,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-084",
@@ -1015,9 +1347,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-085",
@@ -1027,9 +1363,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-086",
@@ -1039,9 +1379,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-087",
@@ -1051,9 +1395,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-088",
@@ -1063,9 +1411,13 @@
       "objective": "Find at least one more independently-authored exact free 3D model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-089",
@@ -1075,9 +1427,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-090",
@@ -1087,9 +1443,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-091",
@@ -1099,9 +1459,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-092",
@@ -1111,9 +1475,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-093",
@@ -1123,9 +1491,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 3,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-094",
@@ -1135,9 +1507,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 0,
+      "discovery_status": "GAP_NOT_EXACT",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-095",
@@ -1147,9 +1523,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-096",
@@ -1159,9 +1539,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-097",
@@ -1171,9 +1555,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-098",
@@ -1183,9 +1571,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 1,
+      "discovery_status": "PARTIAL_ONE_PAGE",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-099",
@@ -1195,9 +1587,13 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     },
     {
       "id": "C005-100",
@@ -1207,9 +1603,25 @@
       "objective": "Find a second independently authored free model.",
       "priority": "P1",
       "existing_exact_source_pages": 1,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "target_distinct_verified_models": 2,
-      "unity_tested": false
+      "unity_tested": false,
+      "source_pages_found": 2,
+      "discovery_status": "AT_LEAST_TWO_PAGES_NEEDS_INDEPENDENCE_AND_FILE_QA",
+      "target_fully_met": false,
+      "reason_not_fully_met": "Source page matches are not independently verified files and have not been tested in Unity"
     }
-  ]
+  ],
+  "completion_stats": {
+    "research_task_cards": 100,
+    "tasks_with_two_or_more_exact_pages": 24,
+    "tasks_with_exactly_one": 33,
+    "tasks_without_exact_page": 43,
+    "all_evidence_references": 121,
+    "exact_page_references": 98,
+    "distinct_exact_source_pages": 90,
+    "new_exact_pages_not_in_previous_master": 29,
+    "actual_downloads_tested": 0,
+    "actual_unity_imports": 0
+  }
 }
