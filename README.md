@@ -25,6 +25,7 @@
 - [Машиночитаемый индекс третьего цикла](Catalog/Cycle003/INDEX.json)
 - [Статусы задач третьего цикла](Catalog/ObjectTypes/CYCLE_003_QUEUE.json)
 - [Обязательное условие — всё бесплатно](FREE_ONLY_POLICY.md)
+- [Бесплатные модели с обязательной атрибуцией (эльфы, виверны и др.)](Catalog/FREE_ATTRIBUTION_RESOURCES.md)
 - [Анализ пробелов: где нет точных моделей или есть только 1–2 варианта](Catalog/ObjectTypes/GAP_ANALYSIS.md)
 
 ## Состояние
