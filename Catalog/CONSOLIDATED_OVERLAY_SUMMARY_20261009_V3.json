@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "base_audit": "Catalog/DOWNLOAD_SIZE_AUDIT.json",
+  "base_unique": 639,
+  "delta_sources": [
+    [
+      "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009.json",
+      6
+    ],
+    [
+      "Catalog/Expansion/INDEX_20261009.json",
+      20
+    ],
+    [
+      "Materials/C006_DELTA_INDEX.json",
+      3
+    ],
+    [
+      "Catalog/Expansion/NEW_2D_SEASONS_VFX_20261009.json",
+      11
+    ],
+    [
+      "Catalog/Expansion/NEW_3D_25D_ROCK_BUILDINGS_20261009.json",
+      9
+    ],
+    [
+      "Materials/WATER_FUR_ALIEN_8_CC0_20261009.md",
+      8
+    ]
+  ],
+  "combined_unique_pages": 696,
+  "publisher_stated_size_pages": 94,
+  "unknown_size_pages": 602,
+  "measured_download_size_bytes": null,
+  "full_collection_size_bytes": null,
+  "blender_unity_pass": 0,
+  "note": "Logical deduplicated index; baseline large JSON write blocked. Source URLs != unique meshes. Publisher size strings are not measured bytes."
+}
