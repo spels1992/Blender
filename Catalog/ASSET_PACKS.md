@@ -1,6 +1,6 @@
 # Каталог готовых наборов моделей и анимаций
 
-Обновлено: **2026-10-08**. **82 прямых ссылок на конкретные страницы наборов**. Статус всех строк: **SOURCE_VERIFIED** по открытой публичной странице, **НЕ** INTEGRATION_TESTED. Никакие ZIP/FBX из этих наборов пока не тестировались в Unity. Отдельные файлы не загружались в GitHub.
+Обновлено: **2026-10-08**. **100 прямых ссылок на конкретные страницы наборов**. Статус всех строк: **SOURCE_VERIFIED** по открытой публичной странице, **НЕ** INTEGRATION_TESTED. Никакие ZIP/FBX из этих наборов пока не тестировались в Unity. Отдельные файлы не загружались в GitHub.
 
 Поля: *Источник / Категория / Набор / Что искать / Лицензия / Ссылка*. Используйте Ctrl+F по словам «драконы», «машины», «скелеты», «данжи», «деревья», «маг» и т.п.
 
@@ -90,6 +90,24 @@
 | 80 | Quaternius | Интерьеры | Ultimate Furniture Pack | 20 мебельных моделей | QAL* | [Открыть](https://quaternius.com/packs/ultimatefurniture.html) |
 | 81 | Quaternius | Оружие | Ultimate Guns Pack | 40 моделей оружия | QAL* | [Открыть](https://quaternius.com/packs/ultimategun.html) |
 | 82 | Quaternius | Здания | Ultimate Buildings Pack | 76 деталей модульных зданий с атласами | QAL* | [Открыть](https://quaternius.com/packs/ultimatetexturedbuildings.html) |
+| 83 | Quaternius | Транспорт | Ships Pack | 6 кораблей | QAL* | [Открыть](https://quaternius.com/packs/ships.html) |
+| 84 | Quaternius | Транспорт | Modular Train Pack | 15 моделей поездов и элементов | QAL* | [Открыть](https://quaternius.com/packs/modulartrain.html) |
+| 85 | Quaternius | Оружие | Steampunk Turret Pack | 37 турелей и башен | QAL* | [Открыть](https://quaternius.com/packs/turretpack.html) |
+| 86 | Quaternius | Персонажи | Animated Zombie Pack | Анимированный зомби | QAL* | [Открыть](https://quaternius.com/packs/animatedzombie.html) |
+| 87 | Quaternius | Предметы | Survival Pack | 53 предмета выживания | QAL* | [Открыть](https://quaternius.com/packs/survival.html) |
+| 88 | Quaternius | Оружие | Animated Guns Pack | 6 анимированных стволов | QAL* | [Открыть](https://quaternius.com/packs/animatedguns.html) |
+| 89 | Quaternius | Город | Modular Streets Pack | 25 модулей улиц | QAL* | [Открыть](https://quaternius.com/packs/modularstreets.html) |
+| 90 | Quaternius | Здания | Simple Buildings Pack | 10 простых строений | QAL* | [Открыть](https://quaternius.com/packs/simplebuildings.html) |
+| 91 | Quaternius | Предметы | Junk Food Pack | 16 моделей фастфуда | QAL* | [Открыть](https://quaternius.com/packs/junkfood.html) |
+| 92 | Quaternius | Здания | Farm Buildings Pack | 13 сельских строений | QAL* | [Открыть](https://quaternius.com/packs/farmbuildings.html) |
+| 93 | Quaternius | Мир/игра | Modular Platformer Pack | 53 модуля платформера | QAL* | [Открыть](https://quaternius.com/packs/modularplatformer.html) |
+| 94 | Quaternius | Интерьеры | Furniture Pack | 23 мебельных объекта | QAL* | [Открыть](https://quaternius.com/packs/furniture.html) |
+| 95 | Quaternius | Предметы | RPG Essentials Pack | 13 базовых RPG-предметов | QAL* | [Открыть](https://quaternius.com/packs/rpg.html) |
+| 96 | Quaternius | Персонажи | Animated Man Pack | Анимированный мужчина | QAL* | [Открыть](https://quaternius.com/packs/animatedman.html) |
+| 97 | Quaternius | Персонажи | Animated Woman Pack | Анимированная женщина | QAL* | [Открыть](https://quaternius.com/packs/animatedwoman.html) |
+| 98 | Quaternius | Оружие | Sci-Fi Gun Pack | 7 моделей фантастического оружия | QAL* | [Открыть](https://quaternius.com/packs/scifigun.html) |
+| 99 | Quaternius | Здания | Buildings Pack | 9 зданий | QAL* | [Открыть](https://quaternius.com/packs/buildings.html) |
+| 100 | Quaternius | Транспорт | Spaceships Pack | 5 космических кораблей | QAL* | [Открыть](https://quaternius.com/packs/spaceships.html) |
 
 ## Приоритеты дальнейшей проверки
 1. Пакеты для драконов / виверн / орков / эльфов с анимацией и понятной лицензией.
