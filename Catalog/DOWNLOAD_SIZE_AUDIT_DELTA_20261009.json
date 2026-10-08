@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-09",
+  "baseline": "Catalog/DOWNLOAD_SIZE_AUDIT.json",
+  "baseline_unique_pages": 597,
+  "new_unique_pages": 7,
+  "combined_unique_pages_if_merged": 604,
+  "measured_total_download_bytes": null,
+  "notes": "Append-only overlay; original 597-entry audit not rewritten due to write protection. All byte counts unknown, even when page displays rounded KB/Mb. Dedupe by normalized URL when merging.",
+  "entries": [
+    {
+      "url": "https://poly.pizza/m/77K2TCL5Lz",
+      "kind": "model_or_pack",
+      "source": "Poly Pizza",
+      "size_bytes": null,
+      "download_variant": null,
+      "size_status": "UNKNOWN",
+      "publisher_display_size": null,
+      "size_source_url": null,
+      "size_verified_on": null,
+      "actual_file_downloaded": false,
+      "archive_contents_checked": false
+    },
+    {
+      "url": "https://3dassets.dev/assets/computers-and-desk-gadgets-printer-laser-mono-2f4f58ae",
+      "kind": "model_or_pack",
+      "source": "3DAssets.dev",
+      "size_bytes": null,
+      "download_variant": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_display_size": "34.7 KB",
+      "size_source_url": "https://3dassets.dev/assets/computers-and-desk-gadgets-printer-laser-mono-2f4f58ae",
+      "size_verified_on": "2026-10-09",
+      "actual_file_downloaded": false,
+      "archive_contents_checked": false
+    },
+    {
+      "url": "https://sketchfab.com/3d-models/mfp-office-printer-d55f6fca7c3d45c883bbff770672970d",
+      "kind": "model_or_pack",
+      "source": "Sketchfab",
+      "size_bytes": null,
+      "download_variant": null,
+      "size_status": "UNKNOWN",
+      "publisher_display_size": null,
+      "size_source_url": null,
+      "size_verified_on": null,
+      "actual_file_downloaded": false,
+      "archive_contents_checked": false
+    },
+    {
+      "url": "https://sketchfab.com/3d-models/printer-low-poly-8a3a68f84f4d4a34973b527875a7314b",
+      "kind": "model_or_pack",
+      "source": "Sketchfab",
+      "size_bytes": null,
+      "download_variant": null,
+      "size_status": "UNKNOWN",
+      "publisher_display_size": null,
+      "size_source_url": null,
+      "size_verified_on": null,
+      "actual_file_downloaded": false,
+      "archive_contents_checked": false
+    },
+    {
+      "url": "https://opengameart.org/content/clouds-with-transparency",
+      "kind": "2d_texture",
+      "source": "OpenGameArt",
+      "size_bytes": null,
+      "download_variant": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_display_size": "28.5 Mb",
+      "size_source_url": "https://opengameart.org/content/clouds-with-transparency",
+      "size_verified_on": "2026-10-09",
+      "actual_file_downloaded": false,
+      "archive_contents_checked": false
+    },
+    {
+      "url": "https://opengameart.org/content/clouds-6",
+      "kind": "2d_texture",
+      "source": "OpenGameArt",
+      "size_bytes": null,
+      "download_variant": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_display_size": "201.8 Mb",
+      "size_source_url": "https://opengameart.org/content/clouds-6",
+      "size_verified_on": "2026-10-09",
+      "actual_file_downloaded": false,
+      "archive_contents_checked": false
+    },
+    {
+      "url": "https://opengameart.org/content/clouds-skybox-1",
+      "kind": "skybox",
+      "source": "OpenGameArt",
+      "size_bytes": null,
+      "download_variant": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_display_size": "8.7 Mb",
+      "size_source_url": "https://opengameart.org/content/clouds-skybox-1",
+      "size_verified_on": "2026-10-09",
+      "actual_file_downloaded": false,
+      "archive_contents_checked": false
+    }
+  ]
+}
