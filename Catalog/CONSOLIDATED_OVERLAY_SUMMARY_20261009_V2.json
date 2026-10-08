@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.1",
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "baseline_audit": "Catalog/DOWNLOAD_SIZE_AUDIT.json",
+  "baseline_unique_pages": 639,
+  "overlays": [
+    {
+      "path": "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009.json",
+      "unique_added": 6,
+      "duplicate_url": "https://opengameart.org/content/clouds-6"
+    },
+    {
+      "path": "Catalog/Expansion/INDEX_20261009.json",
+      "unique_added": 20,
+      "size_metadata": "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009_B.json"
+    },
+    {
+      "path": "Materials/C006_DELTA_INDEX.json",
+      "unique_added": 3
+    },
+    {
+      "path": "Catalog/Expansion/NEW_2D_SEASONS_VFX_20261009.json",
+      "unique_added": 11
+    },
+    {
+      "path": "Catalog/Expansion/NEW_3D_25D_ROCK_BUILDINGS_20261009.json",
+      "unique_added": 9
+    }
+  ],
+  "stats": {
+    "unique_source_urls": 688,
+    "unique_new_urls": 49,
+    "base_publisher_size_pages": 44,
+    "overlay_publisher_size_pages": 42,
+    "combined_publisher_size_pages": 86,
+    "unknown_size_pages": 602,
+    "measured_download_bytes": null,
+    "total_collection_download_bytes": null,
+    "blender_qa_pass": 0,
+    "unity_qa_pass": 0
+  },
+  "notes": "URL-level dedup only. Packs may contain many meshes; never treat URL counts as independent model counts. Publisher-stated size strings are not byte measurements. Large baseline index writes blocked by safety checks; use this overlay manifest as current logical index."
+}
