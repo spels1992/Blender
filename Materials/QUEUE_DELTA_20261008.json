@@ -1,0 +1,12 @@
+{
+  "run": "2026-10-08",
+  "MTASK-011": "SOURCE_FOUND_NOT_TESTED",
+  "MTASK-012": "NONPBR_CANDIDATES_LEGAL_REVIEW",
+  "MTASK-013": {
+    "status": "PARTIAL_ICE004_NOT_DIRTY",
+    "source_url": "https://ambientcg.com/view?id=Ice004",
+    "qa": "NOT_TESTED"
+  },
+  "next_material": "MTASK-014",
+  "note": "Materials/NEXT_100_QUEUE.json full rewrite was blocked; delta authoritative for this run."
+}

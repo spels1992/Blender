@@ -76,3 +76,8 @@
 - 3 уникальные страницы Sketchfab: tankop1, MaX3Dd, Reflex_Entertainment; CC Attribution с обязательной атрибуцией; версия CC BY требует проверки.
 - Магнитная функциональность не подтверждена: статус PARTIAL_WHITEBOARD_MAGNETIC_GAP. Архивы не скачивались, Blender/Unity не тестировались.
 - Основной каталог пополнен тремя ссылками, очередь C006-004 обновлена. Отчёт: Research/C006/C006-004.md.
+
+## 2026-10-08: MTASK-013 — Ice004
+- New source: ambientCG Ice004 CC0, 4K. Dirty ice not proven; card Materials/Cards/166.md.
+- Materials INDEX synchronized with existing MAT-163–165 cards: 162 to 166 distinct URLs. Only Ice004 newly researched this run.
+- Maps identified in third-party 4K file listing; current ZIP, seams, Blender/Unity NOT_TESTED.
