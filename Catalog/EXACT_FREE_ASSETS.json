@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "updated": "2026-10-08",
   "about": "Direct, source-page-verified CC0 links for common Blender/Unity objects; sources are free. Pack source page may contain multiple items. Neither archives nor Unity tested. IMPORTANT: a generic bicycle ('bike') is not necessarily a motorcycle; excluded uncertain category.",
-  "entry_count": 163,
-  "unique_resource_pages": 146,
+  "entry_count": 167,
+  "unique_resource_pages": 150,
   "entries": [
     {
       "id": "EX-001",
@@ -2449,6 +2449,66 @@
       "blender_tested": false,
       "unity_tested": false,
       "match_type": "PACK_CONTENTS_STATED"
+    },
+    {
+      "id": "EX-164",
+      "task_id": 56,
+      "name": "Wooden Logs .blend/.obj",
+      "url": "https://opengameart.org/content/wooden-logs",
+      "source": "OpenGameArt",
+      "license": "CC0",
+      "price": "FREE",
+      "commercial_use": true,
+      "source_page_content_verified": true,
+      "archive_inspected": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "match_type": "MODEL_PAGE"
+    },
+    {
+      "id": "EX-165",
+      "task_id": 56,
+      "name": "Low Poly Wood Log",
+      "url": "https://opengameart.org/content/low-poly-wood-log",
+      "source": "OpenGameArt",
+      "license": "CC0",
+      "price": "FREE",
+      "commercial_use": true,
+      "source_page_content_verified": true,
+      "archive_inspected": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "match_type": "MODEL_PAGE"
+    },
+    {
+      "id": "EX-166",
+      "task_id": 56,
+      "name": "Medieval Props Pack — firewood and log",
+      "url": "https://opengameart.org/content/medieval-props-pack",
+      "source": "OpenGameArt",
+      "license": "CC0",
+      "price": "FREE",
+      "commercial_use": true,
+      "source_page_content_verified": true,
+      "archive_inspected": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "match_type": "PACK_CONTENTS_STATED"
+    },
+    {
+      "id": "EX-167",
+      "task_id": 63,
+      "name": "3D Retro Wizard — rigged + animation",
+      "url": "https://opengameart.org/content/3d-retro-wizard",
+      "source": "OpenGameArt",
+      "license": "CC0",
+      "price": "FREE",
+      "commercial_use": true,
+      "source_page_content_verified": true,
+      "archive_inspected": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "match_type": "MODEL_PAGE"
     }
   ]
 }
