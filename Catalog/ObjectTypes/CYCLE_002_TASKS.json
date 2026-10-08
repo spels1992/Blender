@@ -921,8 +921,8 @@
       "polyHavenIds": [],
       "searchEn": null,
       "status": "SOURCE_CARD_SAVED",
-      "exact_match_count": 0,
-      "detail_status": "EXACT_MATCH_SEARCH_PENDING",
+      "exact_match_count": 3,
+      "detail_status": "EXACT_PAGES_INDEXED_UNTESTED",
       "unity_status": "NOT_TESTED"
     },
     {
@@ -1033,8 +1033,8 @@
       "polyHavenIds": [],
       "searchEn": null,
       "status": "SOURCE_CARD_SAVED",
-      "exact_match_count": 0,
-      "detail_status": "EXACT_MATCH_SEARCH_PENDING",
+      "exact_match_count": 1,
+      "detail_status": "EXACT_PAGES_INDEXED_UNTESTED",
       "unity_status": "NOT_TESTED"
     },
     {
@@ -1631,8 +1631,8 @@
     }
   ],
   "completed_card_tasks": 100,
-  "cards_with_exact_pages": 86,
+  "cards_with_exact_pages": 88,
   "card_tasks_remaining": 0,
   "quality_checks_remaining": 100,
-  "note": "100 GitHub source cards saved sequentially; NOT 100 tested assets. 3 pack candidates per task are search suggestions, not confirmed exact matches."
+  "note": "Free commercial use only. 100 source cards saved (individual commits). Currently 167 source-page matches across 88 types; NOT 100 verified assets or Unity tests."
 }
