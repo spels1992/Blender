@@ -1,7 +1,7 @@
 {
   "cycle": "003",
   "date_created": "2026-10-08",
-  "status": "PLANNED_NOT_STARTED",
+  "status": "100_RESEARCH_CARDS_SAVED_NOT_100_READY_ASSETS",
   "scope": "100 additional high-value object classes after C002; do not claim completed",
   "budget": "ZERO_COST_ONLY",
   "method": "For each task find at least 2 distinct specific FREE legally commercial-use models; if not found, record honest GAP rather than three generic portal links. Save each completed task immediately to GitHub.",
@@ -13,10 +13,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 2,
@@ -25,10 +28,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 3,
@@ -37,10 +43,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 4,
@@ -49,10 +58,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 5,
@@ -61,10 +73,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/3td-office-starter-pack"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 6,
@@ -73,10 +90,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 7,
@@ -85,10 +105,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 8,
@@ -97,10 +120,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/stapler",
+        "https://opengameart.org/content/pen-and-pencil"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 9,
@@ -109,10 +138,17 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/old-bookshelf-with-books",
+        "https://opengameart.org/content/3d-interior-home-assets",
+        "https://opengameart.org/content/lowpoly-bookshelf"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 10,
@@ -121,10 +157,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/low-poly-camping-assets"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 11,
@@ -133,10 +174,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/small-hospital-bed"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 12,
@@ -145,10 +191,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 13,
@@ -157,10 +206,17 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/first-aid-kit-3d",
+        "https://opengameart.org/content/medical-stuff",
+        "https://opengameart.org/content/health-kit"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 3,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 14,
@@ -169,10 +225,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/medical-stuff",
+        "https://opengameart.org/content/inventory-items"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 15,
@@ -181,10 +243,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 16,
@@ -193,10 +258,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 17,
@@ -205,10 +273,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/lab-assets"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 18,
@@ -217,10 +290,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 19,
@@ -229,10 +305,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 20,
@@ -241,10 +320,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/small-hospital-bed"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 21,
@@ -253,10 +337,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/inventory-items",
+        "https://opengameart.org/content/food-pack-0"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 22,
@@ -265,10 +355,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/inventory-items"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 23,
@@ -277,10 +372,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/inventory-items"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 24,
@@ -289,10 +389,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/food-kit"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 25,
@@ -301,10 +406,17 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/chicken-animated",
+        "https://opengameart.org/content/chicken-3",
+        "https://opengameart.org/content/rooster-animated"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 3,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 26,
@@ -313,10 +425,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/inventory-items"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 27,
@@ -325,10 +442,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/blender-models-for-freeciv-units"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 28,
@@ -337,10 +459,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/medieval-props-pack"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 29,
@@ -349,10 +476,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 30,
@@ -361,10 +491,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 31,
@@ -373,10 +506,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/inventory-items",
+        "https://opengameart.org/content/tool-pack-2"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 32,
@@ -385,10 +524,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/tool-pack-1"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 33,
@@ -397,10 +541,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/cordless-drill"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 34,
@@ -409,10 +558,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/tool-pack-1",
+        "https://opengameart.org/content/inventory-items"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 35,
@@ -421,10 +576,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/flathead-screwdriver"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 36,
@@ -433,10 +593,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/inventory-items",
+        "https://opengameart.org/content/32-low-poly-models"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 37,
@@ -445,10 +611,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/inventory-items"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 38,
@@ -457,10 +628,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/low-poly-iron-anvil"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 39,
@@ -469,10 +645,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/medieval-smith-pack",
+        "https://opengameart.org/content/medieval-blacksmith-interior"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 40,
@@ -481,10 +663,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 41,
@@ -493,10 +678,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 42,
@@ -505,10 +693,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/big-lowpoly-environment-pack"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 43,
@@ -517,10 +710,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/free-lowpoly-pond-kit"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 44,
@@ -529,10 +727,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/toon-waterfall",
+        "https://opengameart.org/content/nature-kit"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 45,
@@ -541,10 +745,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 46,
@@ -553,10 +760,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/free-bamboo-v1",
+        "https://opengameart.org/content/stylish-plants"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 47,
@@ -565,10 +778,17 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/exotic-palms-lowpoly-style",
+        "https://opengameart.org/content/low-spec-palm",
+        "https://opengameart.org/content/free-palm-treez-v3"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 3,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 48,
@@ -577,10 +797,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/the-mobile-cactus"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 49,
@@ -589,10 +814,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/mossy-rock-environment-pack"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 50,
@@ -601,10 +831,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 51,
@@ -613,10 +846,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/cauldron",
+        "https://opengameart.org/content/medieval-cauldron"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 52,
@@ -625,10 +864,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 53,
@@ -637,10 +879,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 54,
@@ -649,10 +894,17 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/3d-crystals",
+        "https://opengameart.org/content/simple-3d-crystals-unwrapped-simple-texture",
+        "https://opengameart.org/content/lowpoly-crystals"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 3,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 55,
@@ -661,10 +913,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 56,
@@ -673,10 +928,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 57,
@@ -685,10 +943,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 58,
@@ -697,10 +958,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 59,
@@ -709,10 +973,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 60,
@@ -721,10 +988,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 61,
@@ -733,10 +1003,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 62,
@@ -745,10 +1018,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/water-tower",
+        "https://opengameart.org/content/low-poly-water-tower"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 63,
@@ -757,10 +1036,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 64,
@@ -769,10 +1051,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 65,
@@ -781,10 +1066,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 66,
@@ -793,10 +1081,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 67,
@@ -805,10 +1096,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 68,
@@ -817,10 +1111,18 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/barrels",
+        "https://opengameart.org/content/barrel-0",
+        "https://opengameart.org/content/three-barrels",
+        "https://opengameart.org/content/3d-barrel"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 4,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 69,
@@ -829,10 +1131,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/crane-machine"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 70,
@@ -841,10 +1148,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 71,
@@ -853,10 +1163,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/soccer-field"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 72,
@@ -865,10 +1180,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 73,
@@ -877,10 +1195,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/skateboard",
+        "https://opengameart.org/content/mini-skate"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 74,
@@ -889,10 +1213,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/32-low-poly-models"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 75,
@@ -901,10 +1230,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 76,
@@ -913,10 +1245,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 77,
@@ -925,10 +1260,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 78,
@@ -937,10 +1275,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 79,
@@ -949,10 +1290,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/arcade-machine",
+        "https://opengameart.org/content/arcade-machine-pack"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 80,
@@ -961,10 +1308,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/bowling-pin"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 81,
@@ -973,10 +1325,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/blender-models-for-freeciv-units"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 82,
@@ -985,10 +1342,18 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/3d-rc-h%C3%A9licopter",
+        "https://opengameart.org/content/simple-helicopter",
+        "https://opengameart.org/content/helicopter-4",
+        "https://opengameart.org/content/cartoon-helicopter-0"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 4,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 83,
@@ -997,10 +1362,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/3d-rc-h%C3%A9licopter"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 84,
@@ -1009,10 +1379,17 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/ufo",
+        "https://opengameart.org/content/ufo-saucer",
+        "https://opengameart.org/content/low-poly-3d-flying-saucer-model"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 3,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 85,
@@ -1021,10 +1398,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/buransk-asset-pack-cc0"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 86,
@@ -1033,10 +1415,16 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/mars-rocket",
+        "https://opengameart.org/content/retro-toy-rocket"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 2,
+      "discovery_status": "AT_LEAST_TWO_EXACT_PAGES",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 87,
@@ -1045,10 +1433,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/teuthidae-space-ship-bridge"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 88,
@@ -1057,10 +1450,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 89,
@@ -1069,10 +1465,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 90,
@@ -1081,10 +1480,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 91,
@@ -1093,10 +1495,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/bus-stop-unfinishedno-texture"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 92,
@@ -1105,10 +1512,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 93,
@@ -1117,10 +1527,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 94,
@@ -1129,10 +1542,15 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
-      "asset_urls": [],
+      "status": "RESEARCH_CARD_SAVED",
+      "asset_urls": [
+        "https://opengameart.org/content/hospital-medical-center-from-moscow"
+      ],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 1,
+      "discovery_status": "ONE_EXACT_PAGE",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 95,
@@ -1141,10 +1559,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 96,
@@ -1153,10 +1574,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 97,
@@ -1165,10 +1589,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 98,
@@ -1177,10 +1604,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 99,
@@ -1189,10 +1619,13 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     },
     {
       "id": 100,
@@ -1201,10 +1634,17 @@
       "free_commercial_use_required": true,
       "min_distinct_exact_models": 2,
       "preferred_distinct_exact_models": 3,
-      "status": "PENDING",
+      "status": "RESEARCH_CARD_SAVED",
       "asset_urls": [],
       "license_evidence": [],
-      "unity_status": "NOT_TESTED"
+      "unity_status": "NOT_TESTED",
+      "confirmed_exact_source_pages": 0,
+      "discovery_status": "GAP_OR_CANDIDATE_ONLY",
+      "blender_status": "NOT_TESTED"
     }
-  ]
+  ],
+  "completed_research_cards": 100,
+  "tasks_with_exact_sources": 42,
+  "tasks_without_exact_sources": 58,
+  "note": "Each source/gap research card saved to GitHub. Zero-cost policy enforced. Technical checks and 2-3 actual different models per category still open."
 }
