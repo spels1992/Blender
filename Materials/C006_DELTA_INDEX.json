@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "created": "2026-10-08",
+  "base_index": "Materials/INDEX.json",
+  "merge_policy": "append only if original URL not present; these are specific materials, not collection pages",
+  "new_unique_material_pages": 3,
+  "entries": [
+    {
+      "id": "MAT-163",
+      "title": "Ice 001",
+      "group": "ICE",
+      "category_ru": "Лёд / замёрзшая вода",
+      "source": "ambientCG",
+      "author": "ambientCG / Lennart Demes",
+      "url": "https://ambientcg.com/view?id=Ice001",
+      "license": "CC0-1.0",
+      "license_page": "https://docs.ambientcg.com/license/",
+      "commercial_use_claim": true,
+      "free_download_claim": true,
+      "attribution_required": false,
+      "download_formats_declared": [
+        "JPG",
+        "PNG"
+      ],
+      "max_free_resolution_declared": "4K",
+      "maps": {
+        "BaseColor": null,
+        "NormalGL": null,
+        "NormalDX": null,
+        "Roughness": null,
+        "Metallic": null,
+        "AO": null,
+        "Height": null,
+        "Opacity": null
+      },
+      "map_availability_evidence": "PBR maps indicated by publisher; per-map contents not inspected",
+      "tileability": "NOT_TESTED",
+      "transparency": "NOT_VERIFIED",
+      "material_type": "PBR_SURFACE_TEXTURE_NOT_GEOMETRIC_ICE",
+      "blender_tested": false,
+      "unity_urp_tested": false,
+      "card": "Materials/Cards/163.md"
+    },
+    {
+      "id": "MAT-164",
+      "title": "Ice 002",
+      "group": "ICE",
+      "category_ru": "Лёд / замёрзшая вода",
+      "source": "ambientCG",
+      "author": "ambientCG / Lennart Demes",
+      "url": "https://ambientcg.com/view?id=Ice002",
+      "license": "CC0-1.0",
+      "license_page": "https://docs.ambientcg.com/license/",
+      "commercial_use_claim": true,
+      "free_download_claim": true,
+      "attribution_required": false,
+      "download_formats_declared": [
+        "JPG",
+        "PNG"
+      ],
+      "max_free_resolution_declared": "4K",
+      "maps": {
+        "BaseColor": null,
+        "NormalGL": null,
+        "NormalDX": null,
+        "Roughness": null,
+        "Metallic": null,
+        "AO": null,
+        "Height": null,
+        "Opacity": null
+      },
+      "map_availability_evidence": "PBR maps indicated by publisher; per-map contents not inspected",
+      "tileability": "NOT_TESTED",
+      "transparency": "NOT_VERIFIED",
+      "material_type": "PBR_SURFACE_TEXTURE_NOT_GEOMETRIC_ICE",
+      "blender_tested": false,
+      "unity_urp_tested": false,
+      "card": "Materials/Cards/164.md"
+    },
+    {
+      "id": "MAT-165",
+      "title": "Ice 003",
+      "group": "ICE",
+      "category_ru": "Лёд / замёрзшая вода",
+      "source": "ambientCG",
+      "author": "ambientCG / Lennart Demes",
+      "url": "https://ambientcg.com/view?id=Ice003",
+      "license": "CC0-1.0",
+      "license_page": "https://docs.ambientcg.com/license/",
+      "commercial_use_claim": true,
+      "free_download_claim": true,
+      "attribution_required": false,
+      "download_formats_declared": [
+        "JPG",
+        "PNG"
+      ],
+      "max_free_resolution_declared": "4K",
+      "maps": {
+        "BaseColor": null,
+        "NormalGL": null,
+        "NormalDX": null,
+        "Roughness": null,
+        "Metallic": null,
+        "AO": null,
+        "Height": null,
+        "Opacity": null
+      },
+      "map_availability_evidence": "PBR maps indicated by publisher; per-map contents not inspected",
+      "tileability": "NOT_TESTED",
+      "transparency": "NOT_VERIFIED",
+      "material_type": "PBR_SURFACE_TEXTURE_NOT_GEOMETRIC_ICE",
+      "blender_tested": false,
+      "unity_urp_tested": false,
+      "card": "Materials/Cards/165.md"
+    }
+  ],
+  "stats_note": "Base materials: 162 original URLs; delta: 3 new URLs, 165 combined if base unchanged."
+}
