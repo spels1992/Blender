@@ -298,6 +298,16 @@
         "notes": "Page listed asset; archive not checked.",
         "downloaded": false,
         "unity_tested": false
+      },
+      {
+        "title": "Medieval Gatehouse portcullis",
+        "url": "https://opengameart.org/content/medieval-gatehouse",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "notes": "portcullis bars, not actual prison gates",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+        "downloaded": false,
+        "unity_tested": false
       }
     ],
     "29": [
@@ -392,6 +402,16 @@
         "notes": "Page listed asset; archive not checked.",
         "downloaded": false,
         "unity_tested": false
+      },
+      {
+        "title": "Gold Coin Blank",
+        "url": "https://opengameart.org/content/gold-coin-blank",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "notes": "single coin, not treasure pile",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+        "downloaded": false,
+        "unity_tested": false
       }
     ],
     "31": [
@@ -402,6 +422,16 @@
         "match": "RELATED_ONLY",
         "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
         "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Magic Hat & Stick from OGA collection",
+        "url": "https://opengameart.org/content/3d-assets-cc0",
+        "license": "CC0",
+        "match": "COLLECTION_ONLY",
+        "notes": "collection entry not a page proving exact wand",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
         "downloaded": false,
         "unity_tested": false
       }
@@ -552,6 +582,18 @@
         "unity_tested": false
       }
     ],
+    "50": [
+      {
+        "title": "Abstract RTS Pack - airfield",
+        "url": "https://opengameart.org/content/abstract-rts-model-pack",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "notes": "airfield, not a dedicated aircraft hangar",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
     "51": [
       {
         "title": "Suburb Asset Pt 1 gas station",
@@ -570,6 +612,42 @@
         "match": "SAME_GEOMETRY",
         "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
         "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "52": [
+      {
+        "title": "Kenney Mini Market interior objects",
+        "url": "https://opengameart.org/content/mini-market",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "notes": "20 retail/supermarket props, NOT the entire supermarket building",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "53": [
+      {
+        "title": "School from Moscow low-poly building",
+        "url": "https://opengameart.org/content/school-from-moscow-lowpoly-building",
+        "license": "UNKNOWN",
+        "match": "LICENSE_NOT_VERIFIED",
+        "notes": "Cannot claim commercial permission",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "56": [
+      {
+        "title": "Kenney City Kit Industrial buildings",
+        "url": "https://opengameart.org/content/city-kit-industrial",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "notes": "industrial buildings, police department not confirmed",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
         "downloaded": false,
         "unity_tested": false
       }
@@ -724,6 +802,16 @@
         "match": "EXACT_MODEL",
         "evidence": "CURRENT_WEB_SOURCE_PAGE_2026-10-08",
         "notes": "Page listed asset; archive not checked.",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Free3DAsylum mattress/corridor",
+        "url": "https://opengameart.org/content/free3dasylum",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "notes": "not purpose-built hospital bed",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
         "downloaded": false,
         "unity_tested": false
       }
@@ -928,6 +1016,16 @@
         "match": "EXACT_MODEL",
         "evidence": "PREVIOUS_RESEARCH_OR_CURRENT_WEB",
         "notes": "Page description or prior indexed find; recheck download/contents",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Kenney Nature Kit includes waterfall tag",
+        "url": "https://opengameart.org/content/nature-kit",
+        "license": "CC0",
+        "match": "TAG_ONLY",
+        "notes": "do not count as exact without archive inspection",
+        "evidence": "CURRENT_WEB_OR_PRIOR_REVIEW",
         "downloaded": false,
         "unity_tested": false
       }
