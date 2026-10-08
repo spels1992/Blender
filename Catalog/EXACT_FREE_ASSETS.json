@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "updated": "2026-10-08",
-  "about": "Direct, source-page-verified CC0 links for common Blender/Unity objects; sources are free. Pack source page may contain multiple items. Neither archives nor Unity tested.",
-  "entry_count": 77,
+  "about": "Direct, source-page-verified CC0 links for common Blender/Unity objects; sources are free. Pack source page may contain multiple items. Neither archives nor Unity tested. IMPORTANT: a generic bicycle ('bike') is not necessarily a motorcycle; excluded uncertain category.",
+  "entry_count": 76,
   "unique_resource_pages": 65,
   "entries": [
     {
@@ -1027,21 +1027,6 @@
     },
     {
       "id": "EX-069",
-      "task_id": 94,
-      "name": "3D Vehicles Pack (bike)",
-      "url": "https://opengameart.org/content/3d-vehicles-pack",
-      "source": "OpenGameArt",
-      "license": "CC0",
-      "price": "FREE",
-      "commercial_use": true,
-      "source_page_content_verified": true,
-      "archive_inspected": false,
-      "blender_tested": false,
-      "unity_tested": false,
-      "match_type": "PACK_CONTENTS_STATED"
-    },
-    {
-      "id": "EX-070",
       "task_id": 96,
       "name": "Watercraft Kit (boats)",
       "url": "https://opengameart.org/content/watercraft-kit",
@@ -1056,7 +1041,7 @@
       "match_type": "PACK_CONTENTS_STATED"
     },
     {
-      "id": "EX-071",
+      "id": "EX-070",
       "task_id": 96,
       "name": "Fishing Boat",
       "url": "https://opengameart.org/content/fishing-boat-low-poly",
@@ -1071,7 +1056,7 @@
       "match_type": "MODEL_PAGE"
     },
     {
-      "id": "EX-072",
+      "id": "EX-071",
       "task_id": 96,
       "name": "Medieval Boat",
       "url": "https://opengameart.org/content/medieval-boat",
@@ -1086,7 +1071,7 @@
       "match_type": "MODEL_PAGE"
     },
     {
-      "id": "EX-073",
+      "id": "EX-072",
       "task_id": 97,
       "name": "Low poly cartoon plane",
       "url": "https://opengameart.org/content/low-poly-cartoon-plane",
@@ -1101,7 +1086,7 @@
       "match_type": "MODEL_PAGE"
     },
     {
-      "id": "EX-074",
+      "id": "EX-073",
       "task_id": 97,
       "name": "Light aircraft",
       "url": "https://opengameart.org/content/light-aircraft",
@@ -1116,7 +1101,7 @@
       "match_type": "MODEL_PAGE"
     },
     {
-      "id": "EX-075",
+      "id": "EX-074",
       "task_id": 99,
       "name": "Robot Character",
       "url": "https://opengameart.org/content/robot-character",
@@ -1131,7 +1116,7 @@
       "match_type": "MODEL_PAGE"
     },
     {
-      "id": "EX-076",
+      "id": "EX-075",
       "task_id": 99,
       "name": "Robot pack 3D (2 models)",
       "url": "https://opengameart.org/content/robot-pack-3d",
@@ -1146,7 +1131,7 @@
       "match_type": "PACK_CONTENTS_STATED"
     },
     {
-      "id": "EX-077",
+      "id": "EX-076",
       "task_id": 99,
       "name": "Shamgar animated robot",
       "url": "https://opengameart.org/content/shamgar-the-killer-robot",
