@@ -1821,5 +1821,32 @@
   "global_rules": "GLOBAL_ASSET_SEARCH_POLICY.md",
   "min_variants_per_type": 3,
   "max_variants_per_type": null,
-  "max_unlimited": true
+  "max_unlimited": true,
+  "rules_override_2026_10_09": {
+    "canonical_policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+    "user_intent": "Collect every useful distinct free legal asset in every representation, genre and style; minimum 2-3 per specific type; maximum unbounded; include ALL textures 3D 2.5D 2D.",
+    "minimum_per_type": 3,
+    "minimum_interpretation": "Aim for 2–3 where feasible; 3 is target, not terminal condition",
+    "maximum_per_type": null,
+    "search_continues_after_minimum": true,
+    "formats": [
+      "3D",
+      "2.5D",
+      "2D",
+      "isometric",
+      "sprites",
+      "voxel",
+      "procedural",
+      "PBR",
+      "HDri",
+      "VFX",
+      "other useful representations"
+    ],
+    "unlimited_genres_and_styles": true,
+    "websites": "any legal source, not restricted to SOURCE_PORTALS",
+    "download_size_bytes": "RECORD_VERIFIED_PER_DOWNLOAD_VARIANT_WHEN_KNOWN",
+    "any_missing_size": "UNKNOWN—not zero",
+    "status_preservation": "Previous queue is historical grouping; add new categories and unlimited variants continuously after existing hundred.",
+    "existing_task_definition_not_a_cap": true
+  }
 }
