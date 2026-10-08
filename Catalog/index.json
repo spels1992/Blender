@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "catalog": "Blender Unity free 3D pack links",
   "updated": "2026-10-08",
   "verification_level": "SOURCE_VERIFIED_ONLY",
@@ -20,7 +20,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "персонажи",
+        "prototype kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-002",
@@ -38,7 +51,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "stylized/low-poly",
+      "tags": [
+        "персонажи",
+        "animated characters protagonists",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-003",
@@ -56,7 +82,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "stylized/low-poly",
+      "tags": [
+        "персонажи",
+        "animated characters retro",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-004",
@@ -74,7 +113,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "stylized/low-poly",
+      "tags": [
+        "персонажи",
+        "animated characters survivors",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-005",
@@ -92,7 +144,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "персонажи",
+        "mini characters",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-006",
@@ -110,7 +175,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "персонажи",
+        "mini arena",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-007",
@@ -128,7 +206,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "природа",
+        "nature kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-008",
@@ -146,7 +237,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "здания",
+        "building kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-009",
@@ -164,7 +268,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "здания",
+        "modular buildings",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-010",
@@ -182,7 +299,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "здания",
+        "city kit (suburban)",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-011",
@@ -200,7 +330,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "здания",
+        "city kit (industrial)",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-012",
@@ -218,7 +361,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "здания",
+        "fantasy town kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-013",
@@ -236,7 +392,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "здания",
+        "retro medieval kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-014",
@@ -254,7 +423,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "здания",
+        "retro fantasy kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-015",
@@ -272,7 +454,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "город",
+        "city kit (roads)",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-016",
@@ -290,7 +485,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "подземелья",
+        "mini dungeon",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-017",
@@ -308,7 +516,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "подземелья",
+        "modular dungeon kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-018",
@@ -326,7 +547,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "подземелья",
+        "modular cave kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-019",
@@ -344,7 +578,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "sci-fi",
+        "space kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-020",
@@ -362,7 +609,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "sci-fi",
+        "space station kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-021",
@@ -380,7 +640,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "sci-fi",
+        "modular space kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-022",
@@ -398,7 +671,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "транспорт",
+        "toy car kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-023",
@@ -416,7 +702,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "транспорт",
+        "car kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-024",
@@ -434,7 +733,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "транспорт",
+        "racing kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-025",
@@ -452,7 +764,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "транспорт",
+        "train kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-026",
@@ -470,7 +795,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "мир/игра",
+        "pirate kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-027",
@@ -488,7 +826,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "мир/игра",
+        "platformer kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-028",
@@ -506,7 +857,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "blaster kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-029",
@@ -524,7 +888,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "food kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-030",
@@ -542,7 +919,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "factory kit",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-031",
@@ -560,7 +950,20 @@
       "formats": "check_downloaded_pack",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "mini market",
+        "kenney"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-032",
@@ -578,7 +981,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": true,
+      "animated": true,
+      "style": "stylized/low-poly",
+      "tags": [
+        "персонажи",
+        "character pack: adventurers",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-033",
@@ -596,7 +1012,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": true,
+      "animated": true,
+      "style": "stylized/low-poly",
+      "tags": [
+        "персонажи",
+        "character pack: skeletons",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-034",
@@ -614,7 +1043,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": true,
+      "style": "stylized/low-poly",
+      "tags": [
+        "анимации",
+        "character animations",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-035",
@@ -632,7 +1074,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "подземелья",
+        "dungeon pack remastered",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-036",
@@ -650,7 +1105,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "мир/игра",
+        "platformer pack",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-037",
@@ -668,7 +1136,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "resource bits",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-038",
@@ -686,7 +1167,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "furniture bits",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-039",
@@ -704,7 +1198,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "rpg tools",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-040",
@@ -722,7 +1229,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "prototype bits",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-041",
@@ -740,7 +1260,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "природа",
+        "block bits",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-042",
@@ -758,7 +1291,20 @@
       "formats": "FBX; glTF (check each pack)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": false,
+      "rigged": null,
+      "animated": null,
+      "style": "stylized/low-poly",
+      "tags": [
+        "предметы",
+        "holiday bits",
+        "kaykit"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "PUBLISHER_CLAIM_ONLY"
     },
     {
       "id": "3D-043",
@@ -776,7 +1322,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "существа",
+        "ultimate monsters",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-044",
@@ -794,7 +1353,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "существа",
+        "animated monster pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-045",
@@ -812,7 +1384,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "существа",
+        "animated dinosaur pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-046",
@@ -830,7 +1415,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "природа",
+        "stylized nature megakit",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-047",
@@ -848,7 +1446,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "природа",
+        "simple nature pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-048",
@@ -866,7 +1477,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "природа",
+        "texture fantasy nature pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-049",
@@ -884,7 +1508,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "здания",
+        "medieval village pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-050",
@@ -902,7 +1539,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "транспорт",
+        "cars pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-051",
@@ -920,7 +1570,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "транспорт",
+        "public transport pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-052",
@@ -938,7 +1601,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "мир/игра",
+        "3d card kit fantasy",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-053",
@@ -956,7 +1632,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": true,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "персонажи",
+        "ultimate modular women pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-054",
@@ -974,7 +1663,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "животные",
+        "ultimate animated animal pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-055",
@@ -992,7 +1694,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "животные",
+        "farm animal pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-056",
@@ -1010,7 +1725,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "существа",
+        "cute animated monsters pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-057",
@@ -1028,7 +1756,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "животные",
+        "animated fish pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-058",
@@ -1046,7 +1787,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "здания",
+        "ultimate fantasy rts",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-059",
@@ -1064,7 +1818,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "существа",
+        "easy enemy pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-060",
@@ -1082,7 +1849,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": true,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "персонажи",
+        "ultimate modular men pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-061",
@@ -1100,7 +1880,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "оружие",
+        "sci-fi modular gun pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-062",
@@ -1118,7 +1911,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "транспорт",
+        "ultimate spaceships pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-063",
@@ -1136,7 +1942,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "интерьеры",
+        "ultimate house interior pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-064",
@@ -1154,7 +1973,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": true,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "персонажи",
+        "rpg character pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-065",
@@ -1172,7 +2004,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "предметы",
+        "ultimate rpg pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-066",
@@ -1190,7 +2035,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "персонажи",
+        "animated knight pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-067",
@@ -1208,7 +2066,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "оружие",
+        "modular weapons pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-068",
@@ -1226,7 +2097,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "роботы",
+        "animated mech pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-069",
@@ -1244,7 +2128,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "роботы",
+        "animated robot pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-070",
@@ -1262,7 +2159,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "существа",
+        "animated alien pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-071",
@@ -1280,7 +2190,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "природа",
+        "stylized tree pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-072",
@@ -1298,7 +2221,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "животные",
+        "animated cute fish pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-073",
@@ -1316,7 +2252,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "предметы",
+        "ultimate food pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-074",
@@ -1334,7 +2283,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "природа",
+        "ultimate crops pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-075",
@@ -1352,7 +2314,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "подземелья",
+        "ultimate modular ruins pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-076",
@@ -1370,7 +2345,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "sci-fi",
+        "ultimate modular sci-fi pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-077",
@@ -1388,7 +2376,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "подземелья",
+        "modular dungeons pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-078",
@@ -1406,7 +2407,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "здания",
+        "modular medieval building pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-079",
@@ -1424,7 +2438,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "природа",
+        "ultimate nature pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-080",
@@ -1442,7 +2469,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "интерьеры",
+        "ultimate furniture pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-081",
@@ -1460,7 +2500,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "оружие",
+        "ultimate guns pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-082",
@@ -1478,7 +2531,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "здания",
+        "ultimate buildings pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-083",
@@ -1496,7 +2562,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "транспорт",
+        "ships pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-084",
@@ -1514,7 +2593,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "транспорт",
+        "modular train pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-085",
@@ -1532,7 +2624,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "оружие",
+        "steampunk turret pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-086",
@@ -1550,7 +2655,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "персонажи",
+        "animated zombie pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-087",
@@ -1568,7 +2686,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "предметы",
+        "survival pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-088",
@@ -1586,7 +2717,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "оружие",
+        "animated guns pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-089",
@@ -1604,7 +2748,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "город",
+        "modular streets pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-090",
@@ -1622,7 +2779,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "здания",
+        "simple buildings pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-091",
@@ -1640,7 +2810,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "предметы",
+        "junk food pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-092",
@@ -1658,7 +2841,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "здания",
+        "farm buildings pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-093",
@@ -1676,7 +2872,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "мир/игра",
+        "modular platformer pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-094",
@@ -1694,7 +2903,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "интерьеры",
+        "furniture pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-095",
@@ -1712,7 +2934,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "предметы",
+        "rpg essentials pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-096",
@@ -1730,7 +2965,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "персонажи",
+        "animated man pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-097",
@@ -1748,7 +2996,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": true,
+      "style": "varies_by_pack",
+      "tags": [
+        "персонажи",
+        "animated woman pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-098",
@@ -1766,7 +3027,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "оружие",
+        "sci-fi gun pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-099",
@@ -1784,7 +3058,20 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "здания",
+        "buildings pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     },
     {
       "id": "3D-100",
@@ -1802,7 +3089,21 @@
       "formats": "FBX; OBJ; blend (pack-dependent)",
       "blender_unity_test": "NOT_TESTED",
       "status": "SOURCE_VERIFIED",
-      "checked_on": "2026-10-08"
+      "checked_on": "2026-10-08",
+      "free_tier_available": true,
+      "original_blend_in_free_tier": null,
+      "rigged": null,
+      "animated": null,
+      "style": "varies_by_pack",
+      "tags": [
+        "транспорт",
+        "spaceships pack",
+        "quaternius"
+      ],
+      "file_contents_inspected": false,
+      "last_real_unity_test": null,
+      "license_evidence_status": "CONFLICT_HISTORIC_CC0_VS_CURRENT_QAL"
     }
-  ]
+  ],
+  "description": "Catalog of source-verified external 3D asset packs. Null means unknown, not false."
 }
