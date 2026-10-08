@@ -12,7 +12,7 @@
 | Roughness | Roughness | URP smoothness = **1 - roughness**; для Metallic workflow часто упаковать в альфа-канал metallic map | **Linear** |
 | Metallic / Metalness | Metallic | Metallic (часто R в metallic-map; проверить выбранный workflow/версию URP) | **Linear** |
 | Ambient Occlusion / AO | В diffuse или mix/shader по необходимости; отдельного AO-входа Principled BSDF нет | Occlusion Map, проверить упаковку в канал и интенсивность | **Linear** |
-| Height / Displacement | Bump/Displacement nodes; настоящий displacement требует поддержки геометрии/рендера | Не все URP/Lit шейдеры применяют displacement без custom Shader Graph; не включать автоматически | **Linear** |
+| Height / Displacement | Bump/Displacement nodes; настоящий displacement требует поддержки геометрии/рендера | Некоторые версии URP/Lit поддерживают Height/Parallax, но это **не геометрический displacement**; проверить поддержку текущей версии, стоимость и визуальный результат | **Linear** |
 | Opacity / Alpha | Alpha + прозрачность материала | Surface Type Transparent/Cutout в зависимости от версии URP | **Linear alpha / sRGB RGB** |
 | Anisotropy Strength/Rotation | Principled BSDF Anisotropic/Anisotropic Rotation, если подходит версии Blender | Штатный URP/Lit может не повторять эффект; требуется Shader Graph или упрощение | **Linear** |
 
@@ -42,3 +42,8 @@
 
 ## Заключение
 Публикуем только **документацию, лицензии и источники**. Поля `blender_tested`, `unity_urp_tested`, `available_maps_checked_in_archive` в [INDEX.json](INDEX.json) менять на true только при фактическом испытании и наличии логов/доказательств.
+
+## Официальные справочники для повторных проверок
+- [Unity URP Lit shader](https://docs.unity.com/en-us/engine/7000.0/manual/materials-and-shaders/built-in/shaders-in-universalrp/reference/lit-shader): свойства Base Map / Normal Map / Metallic / Smoothness. Документация для конкретной версии Unity может отличаться.
+- [URP packed channels](https://docs.unity.cn/Manual/urp/lit-shader.html): стандартная упаковка RGBA может иметь **R=Metallic, G=Occlusion, B=unused, A=Smoothness**; в текущем материале проверить workflow и импорт.
+- [Blender 4.5 Normal Map](https://docs.blender.org/manual/en/4.5/render/shader_nodes/vector/normal_map.html): использовать Non-Color для normal map и согласованные UV-координаты.
