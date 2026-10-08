@@ -1,6 +1,6 @@
 # Каталог готовых наборов моделей и анимаций
 
-Обновлено: **2026-10-08**. **52 прямых ссылок на конкретные страницы наборов**. Статус всех строк: **SOURCE_VERIFIED** по открытой публичной странице, **НЕ** INTEGRATION_TESTED. Никакие ZIP/FBX из этих наборов пока не тестировались в Unity. Отдельные файлы не загружались в GitHub.
+Обновлено: **2026-10-08**. **82 прямых ссылок на конкретные страницы наборов**. Статус всех строк: **SOURCE_VERIFIED** по открытой публичной странице, **НЕ** INTEGRATION_TESTED. Никакие ZIP/FBX из этих наборов пока не тестировались в Unity. Отдельные файлы не загружались в GitHub.
 
 Поля: *Источник / Категория / Набор / Что искать / Лицензия / Ссылка*. Используйте Ctrl+F по словам «драконы», «машины», «скелеты», «данжи», «деревья», «маг» и т.п.
 
@@ -60,6 +60,36 @@
 | 50 | Quaternius | Транспорт | Cars Pack | 8 моделей машин | QAL* | [Открыть](https://quaternius.com/packs/cars.html) |
 | 51 | Quaternius | Транспорт | Public Transport Pack | 12 видов общественного транспорта | QAL* | [Открыть](https://quaternius.com/packs/publictransport.html) |
 | 52 | Quaternius | Мир/игра | 3D Card Kit Fantasy | Фэнтези-сцены и объекты карточной игры | QAL* | [Открыть](https://quaternius.com/packs/3dcardkitfantasy.html) |
+| 53 | Quaternius | Персонажи | Ultimate Modular Women Pack | 10 женских персонажей; сменные части и анимации | QAL* | [Открыть](https://quaternius.com/packs/ultimatemodularwomen.html) |
+| 54 | Quaternius | Животные | Ultimate Animated Animal Pack | 12 анимированных животных и наборы движений | QAL* | [Открыть](https://quaternius.com/packs/ultimateanimatedanimals.html) |
+| 55 | Quaternius | Животные | Farm Animal Pack | 7 анимированных сельскохозяйственных животных | QAL* | [Открыть](https://quaternius.com/packs/farmanimal.html) |
+| 56 | Quaternius | Существа | Cute Animated Monsters Pack | 21 анимированный стилизованный монстр | QAL* | [Открыть](https://quaternius.com/packs/cutemonsters.html) |
+| 57 | Quaternius | Животные | Animated Fish Pack | 7 анимированных рыб и морских животных | QAL* | [Открыть](https://quaternius.com/packs/animatedfish.html) |
+| 58 | Quaternius | Здания | Ultimate Fantasy RTS | 128 фэнтези-зданий, развитие баз и природные объекты | QAL* | [Открыть](https://quaternius.com/packs/ultimatefantasyrts.html) |
+| 59 | Quaternius | Существа | Easy Enemy Pack | 5 анимированных базовых врагов | QAL* | [Открыть](https://quaternius.com/packs/easyenemy.html) |
+| 60 | Quaternius | Персонажи | Ultimate Modular Men Pack | 11 мужских персонажей, 24 анимации, сменные части | QAL* | [Открыть](https://quaternius.com/packs/ultimatemodularcharacters.html) |
+| 61 | Quaternius | Оружие | Sci-Fi Modular Gun Pack | 78 деталей и вариантов фантастического оружия | QAL* | [Открыть](https://quaternius.com/packs/scifimodularguns.html) |
+| 62 | Quaternius | Транспорт | Ultimate Spaceships Pack | 10 космических кораблей в нескольких цветах | QAL* | [Открыть](https://quaternius.com/packs/ultimatespaceships.html) |
+| 63 | Quaternius | Интерьеры | Ultimate House Interior Pack | 123 предмета мебели и интерьера | QAL* | [Открыть](https://quaternius.com/packs/ultimatehomeinterior.html) |
+| 64 | Quaternius | Персонажи | RPG Character Pack | 6 ригованных анимированных RPG-героев | QAL* | [Открыть](https://quaternius.com/packs/rpgcharacters.html) |
+| 65 | Quaternius | Предметы | Ultimate RPG Pack | 106 RPG-предметов, оружие, зелья | QAL* | [Открыть](https://quaternius.com/packs/ultimaterpg.html) |
+| 66 | Quaternius | Персонажи | Animated Knight Pack | Рыцарь с анимациями и снаряжением | QAL* | [Открыть](https://quaternius.com/packs/knightcharacter.html) |
+| 67 | Quaternius | Оружие | Modular Weapons Pack | 24 модульных средневековых оружия | QAL* | [Открыть](https://quaternius.com/packs/medievalweapons.html) |
+| 68 | Quaternius | Роботы | Animated Mech Pack | 4 анимированных боевых робота-меха | QAL* | [Открыть](https://quaternius.com/packs/animatedmech.html) |
+| 69 | Quaternius | Роботы | Animated Robot Pack | Анимированный робот | QAL* | [Открыть](https://quaternius.com/packs/animatedrobot.html) |
+| 70 | Quaternius | Существа | Animated Alien Pack | Анимированные инопланетяне | QAL* | [Открыть](https://quaternius.com/packs/animatedalien.html) |
+| 71 | Quaternius | Природа | Stylized Tree Pack | 45 стилизованных деревьев | QAL* | [Открыть](https://quaternius.com/packs/stylizedtree.html) |
+| 72 | Quaternius | Животные | Animated Cute Fish Pack | 52 мультяшные рыбы и принадлежности | QAL* | [Открыть](https://quaternius.com/packs/cutefish.html) |
+| 73 | Quaternius | Предметы | Ultimate Food Pack | 103 модели еды и расходников | QAL* | [Открыть](https://quaternius.com/packs/ultimatefood.html) |
+| 74 | Quaternius | Природа | Ultimate Crops Pack | 102 модели культур в 5 стадиях роста | QAL* | [Открыть](https://quaternius.com/packs/ultimatecrops.html) |
+| 75 | Quaternius | Подземелья | Ultimate Modular Ruins Pack | 90 модульных руин и подземелий | QAL* | [Открыть](https://quaternius.com/packs/ultimatemodularruins.html) |
+| 76 | Quaternius | Sci-Fi | Ultimate Modular Sci-Fi Pack | 46 частей модульного Sci-Fi интерьера | QAL* | [Открыть](https://quaternius.com/packs/ultimatemodularscifi.html) |
+| 77 | Quaternius | Подземелья | Modular Dungeons Pack | 48 модульных деталей | QAL* | [Открыть](https://quaternius.com/packs/modulardungeon.html) |
+| 78 | Quaternius | Здания | Modular Medieval Building Pack | 30 деталей средневековых зданий | QAL* | [Открыть](https://quaternius.com/packs/modularmedievalbuildings.html) |
+| 79 | Quaternius | Природа | Ultimate Nature Pack | 150 моделей природы | QAL* | [Открыть](https://quaternius.com/packs/ultimatenature.html) |
+| 80 | Quaternius | Интерьеры | Ultimate Furniture Pack | 20 мебельных моделей | QAL* | [Открыть](https://quaternius.com/packs/ultimatefurniture.html) |
+| 81 | Quaternius | Оружие | Ultimate Guns Pack | 40 моделей оружия | QAL* | [Открыть](https://quaternius.com/packs/ultimategun.html) |
+| 82 | Quaternius | Здания | Ultimate Buildings Pack | 76 деталей модульных зданий с атласами | QAL* | [Открыть](https://quaternius.com/packs/ultimatetexturedbuildings.html) |
 
 ## Приоритеты дальнейшей проверки
 1. Пакеты для драконов / виверн / орков / эльфов с анимацией и понятной лицензией.
