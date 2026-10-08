@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "last_checkpoint": "Research/C006/PROGRESS_20261009_HOURLY.md",
+  "done": [
+    {
+      "id": "C006-EXP-01-PARTIAL",
+      "result": "Logical dedupe 679 URLs; baseline JSON physical merge blocked",
+      "source": "Catalog/CONSOLIDATED_OVERLAY_SUMMARY_20261009.json"
+    },
+    {
+      "id": "C006-2D-SEASONS-01",
+      "result": "11 distinct CC0 source pages recorded",
+      "source": "Catalog/Expansion/NEW_2D_SEASONS_VFX_20261009.json"
+    }
+  ],
+  "next": [
+    {
+      "id": "C006-EXP-01-CONTINUE",
+      "priority": "P0",
+      "status": "OPEN",
+      "goal": "Safely integrate 40 overlay URLs into master/material/audit without duplicating baseline; maintain backup and no false verified sizes"
+    },
+    {
+      "id": "C006-EXP-02",
+      "priority": "P0",
+      "status": "OPEN",
+      "goal": "Expand 3D and 2.5D vegetation, clouds, characters, voxel and animated assets; no maximum"
+    },
+    {
+      "id": "MTASK-EXP-01",
+      "priority": "P0",
+      "status": "OPEN",
+      "goal": "Continue PBR, 2D and procedural bark/grass/fur/cloud/brick/snow/ice/water sources; distinguish texture from mesh and fur groom"
+    },
+    {
+      "id": "QA-EXP-01",
+      "priority": "P1",
+      "status": "OPEN",
+      "goal": "Check exact download bytes, contents, Blender/Unity only on real test; CC BY license versions and AI provenance"
+    }
+  ],
+  "limits": {
+    "minimum_per_type": 3,
+    "maximum": null,
+    "commercial_cost_rub": 0
+  },
+  "last_known_unique_pages": 679,
+  "unknown_download_size_pages": 602,
+  "exact_download_bytes_total": null
+}
