@@ -76,9 +76,18 @@
           "source": "OpenGameArt",
           "match_type": "MODEL_PAGE",
           "unity_tested": false
+        },
+        {
+          "id": "EX-077",
+          "title": "Office Chair",
+          "url": "https://opengameart.org/content/office-chair",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
         }
       ],
-      "exact_page_count": 4,
+      "exact_page_count": 5,
       "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
@@ -1069,9 +1078,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-078",
+          "title": "Old kettle",
+          "url": "https://opengameart.org/content/old-keetle",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1109,9 +1128,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-079",
+          "title": "Ceiling Lamp",
+          "url": "https://opengameart.org/content/ceiling-lamp",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-080",
+          "title": "Antique Lamp",
+          "url": "https://opengameart.org/content/antique-lamp",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-081",
+          "title": "Simple Ceiling Lamp",
+          "url": "https://opengameart.org/content/simple-ceiling-lamp-obj",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1149,9 +1196,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-082",
+          "title": "CRT TV Asset",
+          "url": "https://opengameart.org/content/crt-tv-asset",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-083",
+          "title": "Old CRT Monitor-TV",
+          "url": "https://opengameart.org/content/old-crt-monitor-tv",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-084",
+          "title": "Low Poly Old CRT TV",
+          "url": "https://opengameart.org/content/low-poly-old-crt-tv",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1248,9 +1323,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-138",
+          "title": "Open Books — 16 opened books",
+          "url": "https://opengameart.org/content/open-books",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-163",
+          "title": "Mini Library (closed books)",
+          "url": "https://opengameart.org/content/mini-library",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1368,9 +1462,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-085",
+          "title": "Wall Clock 3",
+          "url": "https://opengameart.org/content/wall-clock-3",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1408,9 +1512,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-086",
+          "title": "3D Interior Home Assets (vase)",
+          "url": "https://opengameart.org/content/3d-interior-home-assets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1507,9 +1621,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-087",
+          "title": "Fireplace",
+          "url": "https://opengameart.org/content/fireplace-0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1547,9 +1671,46 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-088",
+          "title": "Modular 3D village houses",
+          "url": "https://opengameart.org/content/modular-3d-village-houses",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-089",
+          "title": "Pixel Houses 3D",
+          "url": "https://opengameart.org/content/pixel-houses-3d",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-090",
+          "title": "Modular Medieval House Pack 01 (16 houses)",
+          "url": "https://opengameart.org/content/modular-medieval-house-pack-01",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-091",
+          "title": "Medieval Medium House Interior",
+          "url": "https://opengameart.org/content/medieval-medium-house-interior",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 4,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1587,9 +1748,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-092",
+          "title": "House Exterior Kit",
+          "url": "https://opengameart.org/content/house-exterior-kit",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1627,9 +1798,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-139",
+          "title": "Simple Castle .blend",
+          "url": "https://opengameart.org/content/simple-castle",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-140",
+          "title": "Modular Castle Level Construction Kit",
+          "url": "https://opengameart.org/content/modular-castle-level-construction-kit",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1717,9 +1907,46 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-093",
+          "title": "Bridges and Stuff",
+          "url": "https://opengameart.org/content/bridges-and-stuff",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-094",
+          "title": "Stone Bridge",
+          "url": "https://opengameart.org/content/stone-bridge-0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-095",
+          "title": "Concrete bridge",
+          "url": "https://opengameart.org/content/concrete-bridge",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-096",
+          "title": "Big stone bridge",
+          "url": "https://opengameart.org/content/big-stone-bridge",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 4,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1757,9 +1984,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-097",
+          "title": "Breakable Doors and Windows (doors)",
+          "url": "https://opengameart.org/content/breakable-doors-and-windows",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-098",
+          "title": "Modular House (doors)",
+          "url": "https://opengameart.org/content/modular-house-3d-models",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1797,9 +2043,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-099",
+          "title": "Breakable Doors and Windows (windows)",
+          "url": "https://opengameart.org/content/breakable-doors-and-windows",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-100",
+          "title": "Modular House (windows)",
+          "url": "https://opengameart.org/content/modular-house-3d-models",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1837,9 +2102,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-101",
+          "title": "Set of Stairs",
+          "url": "https://opengameart.org/content/set-of-stairs",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-102",
+          "title": "Low-poly Stairs",
+          "url": "https://opengameart.org/content/low-poly-stairs",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-103",
+          "title": "Modular House (steps)",
+          "url": "https://opengameart.org/content/modular-house-3d-models",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1917,9 +2210,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-104",
+          "title": "Basic Wooden Fence",
+          "url": "https://opengameart.org/content/basic-wooden-fence",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -1957,9 +2260,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-105",
+          "title": "3D Road Tile Pack",
+          "url": "https://opengameart.org/content/3d-road-tile-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-106",
+          "title": "Traffic Road Assets",
+          "url": "https://opengameart.org/content/traffic-road-assets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2246,9 +2568,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-141",
+          "title": "Low Poly Textured Mailbox",
+          "url": "https://opengameart.org/content/low-poly-textured-mailbox",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2326,9 +2658,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-107",
+          "title": "Factory Kit (conveyor tagged)",
+          "url": "https://opengameart.org/content/conveyor-kit",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2366,9 +2708,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-142",
+          "title": "Concrete Pipes",
+          "url": "https://opengameart.org/content/concrete-pipes",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-143",
+          "title": "Modular Low Poly Pipes",
+          "url": "https://opengameart.org/content/modular-low-poly-pipes",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2406,9 +2767,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-108",
+          "title": "Tree",
+          "url": "https://opengameart.org/content/tree",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-109",
+          "title": "Fox Trees Pack (9 trees)",
+          "url": "https://opengameart.org/content/fox-trees-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-110",
+          "title": "Tree and plants low poly 3d models",
+          "url": "https://opengameart.org/content/tree-and-plants-low-poly-3d-models",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2446,9 +2835,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-111",
+          "title": "Free plant pack (bush/shrub)",
+          "url": "https://opengameart.org/content/free-plant-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2486,9 +2885,46 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-112",
+          "title": "Grass patch",
+          "url": "https://opengameart.org/content/grass-patch",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-113",
+          "title": "Grass Pack 01",
+          "url": "https://opengameart.org/content/grass-pack-01",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-114",
+          "title": "Grass Pack 02",
+          "url": "https://opengameart.org/content/grass-pack-02",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-115",
+          "title": "Grass Pack 03",
+          "url": "https://opengameart.org/content/grass-pack-03",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 4,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2526,9 +2962,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-116",
+          "title": "Free plant pack (flowers)",
+          "url": "https://opengameart.org/content/free-plant-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2566,9 +3012,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-117",
+          "title": "Low poly cave assets (stone)",
+          "url": "https://opengameart.org/content/low-poly-cave-assets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2686,9 +3142,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-118",
+          "title": "Low poly cave assets",
+          "url": "https://opengameart.org/content/low-poly-cave-assets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-119",
+          "title": "Mines and cave set",
+          "url": "https://opengameart.org/content/mines-and-cave-set",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-120",
+          "title": "Voxel low-poly hybrid cave pack",
+          "url": "https://opengameart.org/content/voxel-low-poly-hybrid-cave-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2766,9 +3250,46 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-121",
+          "title": "Mushroom",
+          "url": "https://opengameart.org/content/mushroom-3",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-122",
+          "title": "Low Poly Mushroom Kit",
+          "url": "https://opengameart.org/content/low-poly-mushroom-kit",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-123",
+          "title": "Mushroom low-poly",
+          "url": "https://opengameart.org/content/mushroom-1",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-124",
+          "title": "LowPoly Mushroom FBX OBJ",
+          "url": "https://opengameart.org/content/lowpoly-mushroom",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 4,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -2856,9 +3377,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-125",
+          "title": "Cave Man Creation (rigged character variants)",
+          "url": "https://opengameart.org/content/cave-man-creation",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3116,9 +3647,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-144",
+          "title": "Male City Zombie Animated Rigged",
+          "url": "https://opengameart.org/content/male-city-zombie-ready-for-use-in-game-engines",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3441,9 +3982,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-126",
+          "title": "Rigged Horse",
+          "url": "https://opengameart.org/content/rigged-horse",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3481,9 +4032,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-127",
+          "title": "Low Poly Cow",
+          "url": "https://opengameart.org/content/low-poly-cow",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3521,9 +4082,46 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-158",
+          "title": "Deer Female Rigged Animated FBX",
+          "url": "https://opengameart.org/content/deer-female",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-159",
+          "title": "Low Poly Deer",
+          "url": "https://opengameart.org/content/low-poly-deer",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-160",
+          "title": "Deer Low Poly Rigged",
+          "url": "https://opengameart.org/content/deer-low-poly-rigged",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-161",
+          "title": "Old Deer Male Rigged Animated",
+          "url": "https://opengameart.org/content/old-deer-male",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 4,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3561,9 +4159,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-162",
+          "title": "White Bear Low Poly (non-rigged)",
+          "url": "https://lpc.opengameart.org/content/white-bear-low-poly",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3601,9 +4209,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-128",
+          "title": "Bird animated rigged",
+          "url": "https://opengameart.org/content/bird",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-129",
+          "title": "Bird (7 animations)",
+          "url": "https://opengameart.org/content/bird-1",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3641,9 +4268,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-130",
+          "title": "Fish animated rigged",
+          "url": "https://opengameart.org/content/fish-animated",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-131",
+          "title": "Fish (Swim)",
+          "url": "https://opengameart.org/content/fish-1",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3681,9 +4327,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-132",
+          "title": "Albertosaurus",
+          "url": "https://opengameart.org/content/albertosaurus",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3798,9 +4454,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-133",
+          "title": "Axe low-poly",
+          "url": "https://opengameart.org/content/axe-3",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-134",
+          "title": "Axe",
+          "url": "https://opengameart.org/content/axe-0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-135",
+          "title": "HandAxe",
+          "url": "https://opengameart.org/content/handaxe",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3838,9 +4522,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-145",
+          "title": "Bow Arrow Quiver Rigged",
+          "url": "https://opengameart.org/content/bow-arrow-quiver",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-146",
+          "title": "Low Poly Composite Bow",
+          "url": "https://opengameart.org/content/low-poly-composite-bow",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-147",
+          "title": "Archery Set with Bow/Arrows",
+          "url": "https://opengameart.org/content/archery-set",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -4146,9 +4858,55 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-148",
+          "title": "Potion 3D FBX",
+          "url": "https://opengameart.org/content/potion-3d",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-149",
+          "title": "N64 Potions GLB",
+          "url": "https://opengameart.org/content/n64-potions",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-150",
+          "title": "Potions",
+          "url": "https://opengameart.org/content/potions-6",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-151",
+          "title": "Potion Bottle",
+          "url": "https://opengameart.org/content/potion-bottle-0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-152",
+          "title": "Low Poly Potions",
+          "url": "https://opengameart.org/content/low-poly-potions-0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 5,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -4254,9 +5012,18 @@
           "source": "OpenGameArt",
           "match_type": "PACK_CONTENTS_STATED",
           "unity_tested": false
+        },
+        {
+          "id": "EX-137",
+          "title": "Car VW Corradon 2",
+          "url": "https://opengameart.org/content/car-vw-corradon-2",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
         }
       ],
-      "exact_page_count": 1,
+      "exact_page_count": 2,
       "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
@@ -4413,9 +5180,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-153",
+          "title": "Fancy Motorcycle .blend/.obj",
+          "url": "https://opengameart.org/content/fancy-motorcycle",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -4453,9 +5230,28 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-154",
+          "title": "Train Kit — nearly 50 trains",
+          "url": "https://opengameart.org/content/train-kit",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-155",
+          "title": "Toy Train Lowpoly",
+          "url": "https://opengameart.org/content/toy-train-lowpoly",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -4620,9 +5416,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-136",
+          "title": "New Star Ship X-002",
+          "url": "https://opengameart.org/content/new-star-ship-x-002",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -4728,11 +5534,36 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-156",
+          "title": "Mech Character Model rigged for Unity",
+          "url": "https://opengameart.org/content/mech-character-model",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-157",
+          "title": "Robot Head Character Mechanical",
+          "url": "https://opengameart.org/content/robot-head-character",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     }
-  ]
+  ],
+  "updated": "2026-10-08",
+  "description": "Free commercial use only; individual source pages vs thematic pack candidates. No Blender/Unity validation.",
+  "exact_source_page_entries": 163,
+  "unique_exact_resource_pages": 146,
+  "types_with_exact_page": 86,
+  "types_with_only_candidates": 14
 }
