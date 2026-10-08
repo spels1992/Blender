@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "model_queue_patch": {
+    "task": "C006-001",
+    "name": "Принтер",
+    "status": "MINIMUM_MET_SEARCH_CONTINUES",
+    "independent_exact_pages": 4,
+    "verified_source_urls": [
+      "https://poly.pizza/m/77K2TCL5Lz",
+      "https://3dassets.dev/assets/computers-and-desk-gadgets-printer-laser-mono-2f4f58ae",
+      "https://sketchfab.com/3d-models/mfp-office-printer-d55f6fca7c3d45c883bbff770672970d",
+      "https://sketchfab.com/3d-models/printer-low-poly-8a3a68f84f4d4a34973b527875a7314b"
+    ],
+    "license_gaps": [
+      "AI-generated provenance review on 3DAssets.dev",
+      "Sketchfab CC BY version unknown"
+    ],
+    "report": "Research/C006/PRINTER_NEW_SOURCES_20261009.json",
+    "next": "Continue search for more printers in 2D/2.5D/3D without ceiling; proceed C006-002 keyboard."
+  },
+  "materials_queue_patch": {
+    "task": "CLOUDS_EXPANSION",
+    "status": "MINIMUM_MET_SEARCH_CONTINUES",
+    "independent_exact_pages": 3,
+    "report": "Materials/CLOUDS_RESEARCH_20261009.md",
+    "next": "Find more independent cloud textures, alpha sprites, HDRI skyboxes, volumetric clouds; then return to MTASK-001 short cat fur."
+  },
+  "note": "Queue overlay because direct large JSON update blocked; main queue files retain previous state until reconciled."
+}
