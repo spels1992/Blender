@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "baseline": {
+    "audit": "Catalog/DOWNLOAD_SIZE_AUDIT.json",
+    "unique_urls": 639,
+    "publisher_sizes": 44,
+    "unknown_sizes": 595
+  },
+  "overlays": [
+    {
+      "file": "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009.json",
+      "urls": 7,
+      "new_unique_after_baseline": 6,
+      "already_in_baseline": [
+        "https://opengameart.org/content/clouds-6"
+      ]
+    },
+    {
+      "file": "Catalog/Expansion/INDEX_20261009.json",
+      "new_unique": 20,
+      "size_file": "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009_B.json"
+    },
+    {
+      "file": "Materials/C006_DELTA_INDEX.json",
+      "new_unique": 3
+    },
+    {
+      "file": "Catalog/Expansion/NEW_2D_SEASONS_VFX_20261009.json",
+      "new_unique": 11
+    }
+  ],
+  "combined": {
+    "unique_source_pages": 679,
+    "new_unique_over_baseline": 40,
+    "publisher_stated_size_pages": 77,
+    "unknown_size_pages": 602,
+    "measured_download_bytes": null,
+    "exact_total_download_bytes": null,
+    "blender_pass": 0,
+    "unity_pass": 0
+  },
+  "deduplication": "Original URLs only; 7-page older overlay has one baseline duplicate; underlying mesh identity and pack contents not yet independently checked.",
+  "integration": "Logical consolidated index; oversized baseline JSON updates blocked by safety checks. Never add these overlays twice. Publisher sizes are rounded strings, not exact measured bytes."
+}
