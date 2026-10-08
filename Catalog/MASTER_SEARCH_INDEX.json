@@ -2,16 +2,17 @@
   "schema_version": "1.0",
   "updated": "2026-10-08",
   "source_policy": "100% no-cost and commercial rights claimed on publisher pages, all original licenses must be checked before use",
-  "verification": "Source page only; zero archives actually inspected or Unity/Blender tested",
+  "verification": "Source pages only: 0 downloaded asset archive QA, 0 Unity or Blender asset import tests in these research cycles.",
   "stats": {
-    "total_source_references": 445,
-    "unique_source_pages": 406,
-    "duplicate_page_references": 39,
+    "total_source_references": 543,
+    "unique_source_pages": 435,
+    "duplicate_page_references": 108,
     "cycle_001_source_packs": 100,
     "cycle_002_source_entries": 176,
     "cycle_003_exact_page_references": 69,
     "cycle_004_source_cards": 100,
-    "unity_tested": 0
+    "unity_tested": 0,
+    "cycle_005_source_references": 98
   },
   "sources": [
     {
@@ -2324,6 +2325,14 @@
           "record": "C004-033",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Диван 01",
+          "category": "Диван",
+          "record": "C005-089",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -2658,6 +2667,14 @@
           "record": "EX-028",
           "match": "PACK_CONTENTS_STATED",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Tiny Treats kitchen counters",
+          "category": "Кухонные шкафчики",
+          "record": "C005-098",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -2679,6 +2696,14 @@
           "category": "C002-013",
           "record": "EX-021",
           "match": "PACK_CONTENTS_STATED",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Free Yoko Redux Models microwave",
+          "category": "Микроволновка",
+          "record": "C005-096",
+          "match": "EXACT_PACK_CONTENT",
           "high_complexity_warning": false
         }
       ],
@@ -2747,6 +2772,14 @@
           "category": "C002-016",
           "record": "EX-027",
           "match": "PACK_CONTENTS_STATED",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Modular bathroom voxel bath tub",
+          "category": "Ванна",
+          "record": "C005-097",
+          "match": "EXACT_PACK_CONTENT",
           "high_complexity_warning": false
         }
       ],
@@ -3777,6 +3810,14 @@
           "category": "C002-020",
           "record": "EX-078",
           "match": "MODEL_PAGE",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Old Kettle",
+          "category": "Чайник",
+          "record": "C005-099",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -5976,6 +6017,22 @@
           "record": "C003-020",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Hospital bed",
+          "category": "Больничная кровать",
+          "record": "C005-066",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Small Hospital Bed",
+          "category": "Больничная мебель",
+          "record": "C005-068",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -6136,6 +6193,38 @@
           "record": "C003-037",
           "match": "EXACT_PACK_CONTENT",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Inventory Items apples",
+          "category": "Яблоко",
+          "record": "C005-069",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Inventory Items carrots",
+          "category": "Морковь",
+          "record": "C005-070",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Inventory Items Eggs",
+          "category": "Яйца",
+          "record": "C005-071",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Inventory items iron pickaxe",
+          "category": "Кирка",
+          "record": "C005-075",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -6156,6 +6245,14 @@
           "title": "Lab Assets — flasks, beakers and glasswares",
           "category": "Пробирки",
           "record": "C003-017",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Lab Assets glassware",
+          "category": "Пробирки",
+          "record": "C005-067",
           "match": "EXACT_PACK_CONTENT",
           "high_complexity_warning": false
         }
@@ -6298,6 +6395,14 @@
           "record": "C003-034",
           "match": "EXACT_PACK_CONTENT",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Tool Pack 1 adjustable wrench",
+          "category": "Гаечный ключ",
+          "record": "C005-072",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -6320,6 +6425,14 @@
           "record": "C003-033",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Cordless Drill",
+          "category": "Дрель",
+          "record": "C005-073",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -6340,6 +6453,14 @@
           "title": "Flathead Screwdriver",
           "category": "Отвёртка",
           "record": "C003-035",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Flathead screwdriver",
+          "category": "Отвёртка",
+          "record": "C005-074",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
@@ -6372,6 +6493,14 @@
           "record": "C003-074",
           "match": "EXACT_PACK_TAG",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "32 Low Poly Models bicycle",
+          "category": "Велосипед",
+          "record": "C005-083",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -6392,6 +6521,14 @@
           "title": "Low poly iron anvil",
           "category": "Наковальня",
           "record": "C003-038",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Low Poly Iron Anvil",
+          "category": "Наковальня",
+          "record": "C005-076",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
@@ -6416,6 +6553,14 @@
           "record": "C003-043",
           "match": "EXACT_PACK_CONTENT",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Free Lowpoly Pond Kit",
+          "category": "Пруд",
+          "record": "C005-077",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -6438,6 +6583,14 @@
           "record": "C003-044",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Toon Waterfall",
+          "category": "Водопад",
+          "record": "C005-078",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -6458,6 +6611,14 @@
           "title": "Free Bamboo v1",
           "category": "Бамбук",
           "record": "C003-046",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Free Bamboo v1",
+          "category": "Бамбук",
+          "record": "C005-079",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
@@ -6546,6 +6707,14 @@
           "title": "Mossy Rock Environment Pack",
           "category": "Валун со мхом",
           "record": "C003-049",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Mossy Rock Environment Pack",
+          "category": "Валун со мхом",
+          "record": "C005-080",
           "match": "EXACT_PACK_CONTENT",
           "high_complexity_warning": false
         }
@@ -6812,6 +6981,14 @@
           "record": "C003-069",
           "match": "EXACT_MODEL_ORIGINAL_LICENSE_NEEDS_RECHECK",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Crane Machine",
+          "category": "Подъёмный кран",
+          "record": "C005-081",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -6832,6 +7009,14 @@
           "title": "Skateboard OBJ",
           "category": "Скейтборд",
           "record": "C003-073",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Skateboard",
+          "category": "Скейтборд",
+          "record": "C005-082",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
@@ -7076,6 +7261,14 @@
           "record": "C003-085",
           "match": "EXACT_PACK_CONTENT",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Buransk Satellite",
+          "category": "Спутник",
+          "record": "C005-085",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7142,6 +7335,14 @@
           "record": "C003-087",
           "match": "EXACT_SCENE_LEGAL_REVIEW",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Teuthidae Space Ship Bridge",
+          "category": "Кабина космического корабля",
+          "record": "C005-086",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": true,
@@ -7162,6 +7363,14 @@
           "title": "Bus Stop unfinished, untextured",
           "category": "Автобусная остановка",
           "record": "C003-091",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Bus Stop unfinished",
+          "category": "Автобусная остановка",
+          "record": "C005-087",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
@@ -7186,6 +7395,14 @@
           "record": "C003-094",
           "match": "EXACT_MODEL",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Hospital Medical Center from Moscow",
+          "category": "Больница — здание",
+          "record": "C005-088",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7207,6 +7424,14 @@
           "category": "C004-001",
           "record": "C004-001",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Ноутбук",
+          "category": "Ноутбук",
+          "record": "C005-004",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7230,6 +7455,14 @@
           "record": "C004-002",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Зеркало",
+          "category": "Зеркало",
+          "record": "C005-061",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7251,6 +7484,14 @@
           "category": "C004-003",
           "record": "C004-003",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Микроскоп",
+          "category": "Микроскоп",
+          "record": "C005-010",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7274,6 +7515,14 @@
           "record": "C004-004",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Портативный генератор",
+          "category": "Электрогенератор",
+          "record": "C005-033",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7295,6 +7544,14 @@
           "category": "C004-005",
           "record": "C004-005",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Электрические опоры",
+          "category": "Линия электропередач",
+          "record": "C005-034",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7318,6 +7575,14 @@
           "record": "C004-006",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Модульные кабели",
+          "category": "Линия электропередач",
+          "record": "C005-034",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7339,6 +7604,14 @@
           "category": "C004-007",
           "record": "C004-007",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Набор химической посуды",
+          "category": "Пробирки",
+          "record": "C005-067",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7414,6 +7687,22 @@
           "record": "C004-010",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Металлический офисный стол",
+          "category": "Офисный шкаф",
+          "record": "C005-065",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Металлический офисный стол",
+          "category": "Рабочий стол",
+          "record": "C005-095",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7436,6 +7725,14 @@
           "record": "C004-011",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": true
+        },
+        {
+          "cycle": "005",
+          "title": "Сухой ствол дерева",
+          "category": "Поваленное дерево",
+          "record": "C005-024",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7458,6 +7755,14 @@
           "record": "C004-012",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": true
+        },
+        {
+          "cycle": "005",
+          "title": "Сухой ствол дерева 02",
+          "category": "Поваленное дерево",
+          "record": "C005-024",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7480,6 +7785,14 @@
           "record": "C004-013",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": true
+        },
+        {
+          "cycle": "005",
+          "title": "Береговой утёс 04",
+          "category": "Утёс",
+          "record": "C005-021",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7510,6 +7823,14 @@
           "record": "C004-048",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Утёс Namaqualand 01",
+          "category": "Утёс",
+          "record": "C005-021",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7532,6 +7853,14 @@
           "record": "C004-015",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": true
+        },
+        {
+          "cycle": "005",
+          "title": "Утёс Namaqualand 02",
+          "category": "Утёс",
+          "record": "C005-021",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7554,6 +7883,14 @@
           "record": "C004-016",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": true
+        },
+        {
+          "cycle": "005",
+          "title": "Береговой утёс 01",
+          "category": "Утёс",
+          "record": "C005-021",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7575,6 +7912,14 @@
           "category": "C004-017",
           "record": "C004-017",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Тыква low-poly",
+          "category": "Тыква",
+          "record": "C005-013",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7598,6 +7943,14 @@
           "record": "C004-018",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Тыква PBR",
+          "category": "Тыква",
+          "record": "C005-013",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7619,6 +7972,14 @@
           "category": "C004-019",
           "record": "C004-019",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Набор хэллоуинских тыкв",
+          "category": "Тыква",
+          "record": "C005-013",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7642,6 +8003,14 @@
           "record": "C004-020",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Orc 3D animated",
+          "category": "Орк",
+          "record": "C005-063",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": true,
@@ -7664,6 +8033,14 @@
           "record": "C004-021",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Elf animated",
+          "category": "Эльф",
+          "record": "C005-062",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": true,
@@ -7685,6 +8062,14 @@
           "category": "C004-022",
           "record": "C004-022",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Elven archer lower poly",
+          "category": "Эльф",
+          "record": "C005-062",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7737,6 +8122,14 @@
           "category": "C004-025",
           "record": "C004-025",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Картины low-poly",
+          "category": "Картина",
+          "record": "C005-100",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7804,6 +8197,14 @@
           "record": "C004-028",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": true
+        },
+        {
+          "cycle": "005",
+          "title": "Береговой утёс 02",
+          "category": "Утёс",
+          "record": "C005-021",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7900,6 +8301,14 @@
           "record": "C004-032",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Сухое дерево Quiver",
+          "category": "Поваленное дерево",
+          "record": "C005-024",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7921,6 +8330,14 @@
           "category": "C004-034",
           "record": "C004-034",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Диван 02",
+          "category": "Диван",
+          "record": "C005-089",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -7944,6 +8361,14 @@
           "record": "C004-035",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Стеллаж металлический 01",
+          "category": "Стеллаж",
+          "record": "C005-093",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7966,6 +8391,14 @@
           "record": "C004-036",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Стеллаж металлический 02",
+          "category": "Стеллаж",
+          "record": "C005-093",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -7987,6 +8420,14 @@
           "category": "C004-037",
           "record": "C004-037",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Стеллаж металлический 03",
+          "category": "Стеллаж",
+          "record": "C005-093",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -8186,6 +8627,14 @@
           "record": "C004-050",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Винтажная микроволновка",
+          "category": "Микроволновка",
+          "record": "C005-096",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -8207,6 +8656,14 @@
           "category": "C004-051",
           "record": "C004-051",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Винтажный электрочайник",
+          "category": "Чайник",
+          "record": "C005-099",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -8318,6 +8775,14 @@
           "record": "C004-057",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Плоская отвёртка",
+          "category": "Отвёртка",
+          "record": "C005-074",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -8340,6 +8805,14 @@
           "record": "C004-058",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Трубный ключ",
+          "category": "Гаечный ключ",
+          "record": "C005-072",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -8361,6 +8834,14 @@
           "category": "C004-059",
           "record": "C004-059",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Разводной ключ",
+          "category": "Гаечный ключ",
+          "record": "C005-072",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -8634,6 +9115,14 @@
           "record": "C004-072",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Декор: голова льва",
+          "category": "Памятник",
+          "record": "C005-058",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -8655,6 +9144,14 @@
           "category": "C004-073",
           "record": "C004-073",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Статуэтка акулы",
+          "category": "Памятник",
+          "record": "C005-058",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -8854,6 +9351,22 @@
           "record": "C004-082",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Современный деревянный шкаф",
+          "category": "Офисный шкаф",
+          "record": "C005-065",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Современный деревянный шкаф",
+          "category": "Шкаф",
+          "record": "C005-091",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -8941,6 +9454,14 @@
           "category": "C004-086",
           "record": "C004-086",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Кушетка",
+          "category": "Кровать",
+          "record": "C005-090",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
@@ -9162,6 +9683,14 @@
           "record": "C004-096",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Аккумуляторная дрель",
+          "category": "Дрель",
+          "record": "C005-073",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -9206,6 +9735,14 @@
           "record": "C004-098",
           "match": "SPECIFIC_ITEM",
           "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Рамка для картины",
+          "category": "Картина",
+          "record": "C005-100",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
         }
       ],
       "commercial_use_requires_review": false,
@@ -9249,6 +9786,660 @@
           "category": "C004-100",
           "record": "C004-100",
           "match": "SPECIFIC_ITEM",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/low-poly-cart",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Low Poly Cart",
+          "category": "Телега",
+          "record": "C005-015",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/50-fantasy-rpg-asset-models",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "50 fantasy RPG models - wooden cart",
+          "category": "Телега",
+          "record": "C005-015",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/simple-market-stall",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-3.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Simple Market Stall",
+          "category": "Рыночная палатка",
+          "record": "C005-017",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/low-poly-cacti",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-SA-3.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Low Poly Cacti",
+          "category": "Кактус",
+          "record": "C005-023",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/low-poly-cacti-0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-SA-3.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Low-poly Cacti variants",
+          "category": "Кактус",
+          "record": "C005-023",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/saguaro-cactus-model",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-3.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Saguaro Cactus",
+          "category": "Кактус",
+          "record": "C005-023",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/altar",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Altar",
+          "category": "Алтарь",
+          "record": "C005-025",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/star-altar-opendungeons",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Star Altar OpenDungeons",
+          "category": "Алтарь",
+          "record": "C005-025",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/bloody-altar",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Bloody Altar",
+          "category": "Алтарь",
+          "record": "C005-025",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/basic-3d-torch",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Basic 3D Torch",
+          "category": "Факел",
+          "record": "C005-029",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/3d-torch",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "3D Torch",
+          "category": "Факел",
+          "record": "C005-029",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/wall-torch",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Wall Torch",
+          "category": "Факел",
+          "record": "C005-029",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/basic-torch-particles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Basic Torch With Particles",
+          "category": "Факел",
+          "record": "C005-029",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/torch",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Torch",
+          "category": "Факел",
+          "record": "C005-029",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/fantasy-torch-pack-2",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Fantasy Torch Pack 2",
+          "category": "Факел",
+          "record": "C005-029",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/pile-coins-w-procedural-node-material-blender-25",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Pile of gold coins",
+          "category": "Сокровища россыпью",
+          "record": "C005-030",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/treasure-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Treasure Pack",
+          "category": "Сокровища россыпью",
+          "record": "C005-030",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/crates-chests-coins-and-barrels-collection",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Crates Chests Coins and Barrels",
+          "category": "Сокровища россыпью",
+          "record": "C005-030",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/environmental-suburbia-pack-low-poly",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-SA-3.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Environmental Suburbia electric pole",
+          "category": "Линия электропередач",
+          "record": "C005-034",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Environmental Suburbia solar panels",
+          "category": "Солнечная панель",
+          "record": "C005-035",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        },
+        {
+          "cycle": "005",
+          "title": "Environmental Suburbia wind turbine",
+          "category": "Ветрогенератор",
+          "record": "C005-036",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/solar-panel",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-4.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Solar Panel",
+          "category": "Солнечная панель",
+          "record": "C005-035",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/forklift-jungheinrich-dfg-425s",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-4.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Forklift Jungheinrich DFG425s",
+          "category": "Автопогрузчик",
+          "record": "C005-038",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/overscore-proxy-modular-low-poly-female-character-creation-set",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "OverScore Proxy boxing gloves",
+          "category": "Боксёрские перчатки",
+          "record": "C005-043",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/submarine-low-poly",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Submarine low poly",
+          "category": "Подводная лодка",
+          "record": "C005-046",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/ballistic-missile-submarine",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Ballistic missile submarine",
+          "category": "Подводная лодка",
+          "record": "C005-046",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/yellow-submersible",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Yellow submersible",
+          "category": "Подводная лодка",
+          "record": "C005-046",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/suburb-asset-pt1",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Suburb Asset Pt 1 gas station",
+          "category": "Заправочная станция",
+          "record": "C005-051",
+          "match": "EXACT_PACK_CONTENT",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/dark-elf-game-ready-and-animated",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-SA-3.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Dark Elf animated",
+          "category": "Эльф",
+          "record": "C005-062",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/wyvern-1",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-SA-3.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Wyvern animated",
+          "category": "Виверна",
+          "record": "C005-064",
+          "match": "EXACT_MODEL",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/wyvern-low-poly",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC-BY-3.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "005",
+          "title": "Wyvern Low Poly",
+          "category": "Виверна",
+          "record": "C005-064",
+          "match": "EXACT_MODEL",
           "high_complexity_warning": false
         }
       ],
