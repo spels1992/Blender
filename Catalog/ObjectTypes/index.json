@@ -3062,9 +3062,37 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-164",
+          "title": "Wooden Logs .blend/.obj",
+          "url": "https://opengameart.org/content/wooden-logs",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-165",
+          "title": "Low Poly Wood Log",
+          "url": "https://opengameart.org/content/low-poly-wood-log",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-166",
+          "title": "Medieval Props Pack — firewood and log",
+          "url": "https://opengameart.org/content/medieval-props-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -3427,9 +3455,19 @@
           "contains_exact_item_confirmed": false
         }
       ],
-      "verified_item_pages": [],
-      "exact_page_count": 0,
-      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "verified_item_pages": [
+        {
+          "id": "EX-167",
+          "title": "3D Retro Wizard — rigged + animation",
+          "url": "https://opengameart.org/content/3d-retro-wizard",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
       "archive_test_status": "NOT_TESTED",
       "unity_test_status": "NOT_TESTED"
     },
@@ -5562,8 +5600,8 @@
   ],
   "updated": "2026-10-08",
   "description": "Free commercial use only; individual source pages vs thematic pack candidates. No Blender/Unity validation.",
-  "exact_source_page_entries": 163,
-  "unique_exact_resource_pages": 146,
-  "types_with_exact_page": 86,
-  "types_with_only_candidates": 14
+  "exact_source_page_entries": 167,
+  "unique_exact_resource_pages": 150,
+  "types_with_exact_page": 88,
+  "types_with_only_candidates": 12
 }
