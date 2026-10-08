@@ -1,0 +1,1333 @@
+{
+  "cycle": "002",
+  "date": "2026-10-08",
+  "scope": "100 common game object types",
+  "task_definition": "Create item discovery card with three pack candidates; distinguish exact model from collection candidate; no tests claimed.",
+  "tasks": [
+    {
+      "id": 1,
+      "ru": "Стул",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "ArmChair_01",
+        "GreenChair_01",
+        "WoodenChair_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 2,
+      "ru": "Диван",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "Sofa_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 3,
+      "ru": "Кровать",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "GothicBed_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 4,
+      "ru": "Стол",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "WoodenTable_01",
+        "WoodenTable_02",
+        "CoffeeTable_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 5,
+      "ru": "Шкаф",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "GothicCabinet_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 6,
+      "ru": "Комод",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "GothicCommode_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 7,
+      "ru": "Стеллаж",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "Shelf_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 8,
+      "ru": "Тумбочка",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "ClassicNightstand_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 9,
+      "ru": "Рабочий стол",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "SchoolDesk_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 10,
+      "ru": "Кресло",
+      "group": "Мебель и комнаты",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [
+        "ArmChair_01",
+        "Rockingchair_01"
+      ],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 11,
+      "ru": "Холодильник",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 12,
+      "ru": "Кухонная плита",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 13,
+      "ru": "Микроволновка",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 14,
+      "ru": "Раковина",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 15,
+      "ru": "Унитаз",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 16,
+      "ru": "Ванна",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 17,
+      "ru": "Душевая кабина",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 18,
+      "ru": "Стиральная машина",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 19,
+      "ru": "Кухонные шкафчики",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 20,
+      "ru": "Чайник",
+      "group": "Кухня и ванная",
+      "packIds": [
+        63,
+        29,
+        73
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 21,
+      "ru": "Лампа",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 22,
+      "ru": "Телевизор",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        63,
+        38,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 23,
+      "ru": "Компьютер",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        63,
+        20,
+        76
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 24,
+      "ru": "Книга",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 25,
+      "ru": "Картина",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 26,
+      "ru": "Зеркало",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 27,
+      "ru": "Часы",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 28,
+      "ru": "Ваза",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        38,
+        63,
+        80
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 29,
+      "ru": "Посуда",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        29,
+        73,
+        63
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 30,
+      "ru": "Камин",
+      "group": "Интерьерные предметы",
+      "packIds": [
+        63,
+        38,
+        49
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 31,
+      "ru": "Жилой дом",
+      "group": "Здания и конструкция",
+      "packIds": [
+        10,
+        49,
+        90
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 32,
+      "ru": "Коттедж",
+      "group": "Здания и конструкция",
+      "packIds": [
+        10,
+        12,
+        49
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 33,
+      "ru": "Замок",
+      "group": "Здания и конструкция",
+      "packIds": [
+        12,
+        13,
+        58
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 34,
+      "ru": "Сторожевая башня",
+      "group": "Здания и конструкция",
+      "packIds": [
+        12,
+        58,
+        49
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 35,
+      "ru": "Мост",
+      "group": "Здания и конструкция",
+      "packIds": [
+        12,
+        89,
+        15
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 36,
+      "ru": "Дверь",
+      "group": "Здания и конструкция",
+      "packIds": [
+        8,
+        9,
+        63
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 37,
+      "ru": "Окно",
+      "group": "Здания и конструкция",
+      "packIds": [
+        8,
+        9,
+        63
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 38,
+      "ru": "Лестница",
+      "group": "Здания и конструкция",
+      "packIds": [
+        8,
+        9,
+        78
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 39,
+      "ru": "Крыша",
+      "group": "Здания и конструкция",
+      "packIds": [
+        8,
+        9,
+        78
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 40,
+      "ru": "Забор",
+      "group": "Здания и конструкция",
+      "packIds": [
+        10,
+        49,
+        78
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 41,
+      "ru": "Дорога",
+      "group": "Город и промышленность",
+      "packIds": [
+        15,
+        89,
+        24
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 42,
+      "ru": "Уличный фонарь",
+      "group": "Город и промышленность",
+      "packIds": [
+        15,
+        89,
+        10
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 43,
+      "ru": "Дорожный знак",
+      "group": "Город и промышленность",
+      "packIds": [
+        15,
+        89,
+        10
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 44,
+      "ru": "Уличная скамейка",
+      "group": "Город и промышленность",
+      "packIds": [
+        10,
+        15,
+        89
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 45,
+      "ru": "Мусорный контейнер",
+      "group": "Город и промышленность",
+      "packIds": [
+        10,
+        11,
+        89
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 46,
+      "ru": "Светофор",
+      "group": "Город и промышленность",
+      "packIds": [
+        15,
+        89,
+        10
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 47,
+      "ru": "Почтовый ящик",
+      "group": "Город и промышленность",
+      "packIds": [
+        10,
+        89,
+        63
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 48,
+      "ru": "Склад",
+      "group": "Город и промышленность",
+      "packIds": [
+        11,
+        30,
+        82
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 49,
+      "ru": "Конвейер",
+      "group": "Город и промышленность",
+      "packIds": [
+        30,
+        11,
+        82
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 50,
+      "ru": "Трубы",
+      "group": "Город и промышленность",
+      "packIds": [
+        30,
+        11,
+        76
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 51,
+      "ru": "Дерево",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        46,
+        71
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 52,
+      "ru": "Кустарник",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        46,
+        79
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 53,
+      "ru": "Трава",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        46,
+        79
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 54,
+      "ru": "Цветы",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        46,
+        79
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 55,
+      "ru": "Камень",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        46,
+        47
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 56,
+      "ru": "Бревно",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        46,
+        79
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 57,
+      "ru": "Гора",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        79,
+        46
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 58,
+      "ru": "Пещера",
+      "group": "Природа и местность",
+      "packIds": [
+        18,
+        47,
+        79
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 59,
+      "ru": "Ручей или река",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        79,
+        46
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 60,
+      "ru": "Грибы",
+      "group": "Природа и местность",
+      "packIds": [
+        7,
+        46,
+        79
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 61,
+      "ru": "Человек",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        2,
+        32,
+        60
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 62,
+      "ru": "Воин",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        32,
+        64,
+        66
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 63,
+      "ru": "Маг",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        32,
+        64,
+        65
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 64,
+      "ru": "Рыцарь",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        66,
+        64,
+        32
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 65,
+      "ru": "Эльф",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        32,
+        64,
+        60
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 66,
+      "ru": "Орк",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        43,
+        44,
+        59
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 67,
+      "ru": "Скелет",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        33,
+        43,
+        59
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 68,
+      "ru": "Зомби",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        86,
+        43,
+        44
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 69,
+      "ru": "Дракон",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        43,
+        44,
+        56
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 70,
+      "ru": "Виверна",
+      "group": "Люди и фэнтези",
+      "packIds": [
+        43,
+        44,
+        56
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 71,
+      "ru": "Кошка",
+      "group": "Животные и существа",
+      "packIds": [
+        54,
+        55,
+        7
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 72,
+      "ru": "Собака",
+      "group": "Животные и существа",
+      "packIds": [
+        54,
+        55,
+        7
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 73,
+      "ru": "Волк",
+      "group": "Животные и существа",
+      "packIds": [
+        54,
+        43,
+        55
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 74,
+      "ru": "Лошадь",
+      "group": "Животные и существа",
+      "packIds": [
+        54,
+        55,
+        92
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 75,
+      "ru": "Корова",
+      "group": "Животные и существа",
+      "packIds": [
+        55,
+        54,
+        92
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 76,
+      "ru": "Олень",
+      "group": "Животные и существа",
+      "packIds": [
+        54,
+        55,
+        7
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 77,
+      "ru": "Медведь",
+      "group": "Животные и существа",
+      "packIds": [
+        54,
+        43,
+        55
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 78,
+      "ru": "Птица",
+      "group": "Животные и существа",
+      "packIds": [
+        54,
+        55,
+        7
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 79,
+      "ru": "Рыба",
+      "group": "Животные и существа",
+      "packIds": [
+        57,
+        72,
+        26
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 80,
+      "ru": "Динозавр",
+      "group": "Животные и существа",
+      "packIds": [
+        45,
+        54,
+        43
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 81,
+      "ru": "Меч",
+      "group": "Оружие и RPG",
+      "packIds": [
+        67,
+        65,
+        32
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 82,
+      "ru": "Топор",
+      "group": "Оружие и RPG",
+      "packIds": [
+        67,
+        65,
+        32
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 83,
+      "ru": "Лук",
+      "group": "Оружие и RPG",
+      "packIds": [
+        67,
+        65,
+        32
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 84,
+      "ru": "Щит",
+      "group": "Оружие и RPG",
+      "packIds": [
+        67,
+        65,
+        66
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 85,
+      "ru": "Магический посох",
+      "group": "Оружие и RPG",
+      "packIds": [
+        65,
+        32,
+        95
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 86,
+      "ru": "Пистолет",
+      "group": "Оружие и RPG",
+      "packIds": [
+        81,
+        88,
+        28
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 87,
+      "ru": "Винтовка",
+      "group": "Оружие и RPG",
+      "packIds": [
+        81,
+        88,
+        61
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 88,
+      "ru": "Сундук",
+      "group": "Оружие и RPG",
+      "packIds": [
+        16,
+        35,
+        65
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 89,
+      "ru": "Зелье",
+      "group": "Оружие и RPG",
+      "packIds": [
+        65,
+        95,
+        16
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 90,
+      "ru": "Монета",
+      "group": "Оружие и RPG",
+      "packIds": [
+        65,
+        95,
+        16
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 91,
+      "ru": "Легковой автомобиль",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        23,
+        50,
+        22
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 92,
+      "ru": "Автобус",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        51,
+        23,
+        50
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 93,
+      "ru": "Грузовик",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        51,
+        23,
+        50
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 94,
+      "ru": "Мотоцикл",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        23,
+        50,
+        24
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 95,
+      "ru": "Поезд",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        25,
+        84,
+        51
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 96,
+      "ru": "Лодка",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        26,
+        83,
+        51
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 97,
+      "ru": "Самолёт",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        51,
+        19,
+        62
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 98,
+      "ru": "Космический корабль",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        62,
+        100,
+        19
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 99,
+      "ru": "Робот",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        69,
+        68,
+        70
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    },
+    {
+      "id": 100,
+      "ru": "Боевой мех",
+      "group": "Транспорт и роботы",
+      "packIds": [
+        68,
+        69,
+        70
+      ],
+      "polyHavenIds": [],
+      "searchEn": null,
+      "status": "PENDING"
+    }
+  ]
+}
