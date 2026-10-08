@@ -1,18 +1,25 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "source_policy": "100% no-cost and commercial rights claimed on publisher pages, all original licenses must be checked before use",
   "verification": "Source pages only: 0 downloaded asset archive QA, 0 Unity or Blender asset import tests in these research cycles.",
   "stats": {
-    "total_source_references": 543,
-    "unique_source_pages": 435,
+    "total_source_references": 585,
+    "unique_source_pages": 477,
     "duplicate_page_references": 108,
     "cycle_001_source_packs": 100,
     "cycle_002_source_entries": 176,
     "cycle_003_exact_page_references": 69,
     "cycle_004_source_cards": 100,
     "unity_tested": 0,
-    "cycle_005_source_references": 98
+    "cycle_005_source_references": 98,
+    "cycle_multiformat_2d_2_5d_pages": 42,
+    "previous_3d_related_page_count": 435,
+    "distinct_representations": [
+      "3D",
+      "2.5D",
+      "2D"
+    ]
   },
   "sources": [
     {
@@ -10448,6 +10455,1225 @@
       "download_tested": false,
       "blender_tested": false,
       "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/isometric-tiles-buildings",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric Tiles Buildings",
+          "category": "изометрические здания",
+          "record": "MF-2026-001",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Kenney",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/isometric-tiles-buildings",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/isometric-tiles-vehicles",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric Tiles Vehicles",
+          "category": "изометрический транспорт",
+          "record": "MF-2026-002",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Kenney",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/isometric-tiles-vehicles",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/isometric-tiles-landscape",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric Tiles Landscape",
+          "category": "изометрические ландшафты",
+          "record": "MF-2026-003",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Kenney",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/isometric-tiles-landscape",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/abstract-platformer",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Abstract Platformer",
+          "category": "платформер, плитки и персонажи",
+          "record": "MF-2026-004",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/abstract-platformer",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/pixel-platformer",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Pixel Platformer",
+          "category": "пиксельный платформер",
+          "record": "MF-2026-005",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/pixel-platformer",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/new-platformer-pack",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "New Platformer Pack",
+          "category": "платформер, анимация",
+          "record": "MF-2026-006",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/new-platformer-pack",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/platformer-art-pixel",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Platformer Art Pixel",
+          "category": "пиксельный платформер",
+          "record": "MF-2026-007",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/platformer-art-pixel",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/platformer-art-deluxe",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Platformer Art Deluxe",
+          "category": "спрайты платформера",
+          "record": "MF-2026-008",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/platformer-art-deluxe",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/platformer-art-buildings",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Platformer Art Buildings",
+          "category": "пиксельные здания",
+          "record": "MF-2026-009",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/platformer-art-buildings",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/platformer-art-requests",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Platformer Art Requests",
+          "category": "декорации платформера",
+          "record": "MF-2026-010",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/platformer-art-requests",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/platformer-bricks",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Platformer Bricks",
+          "category": "кирпичные платформы и тайлы",
+          "record": "MF-2026-011",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/platformer-bricks",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/simplified-platformer-pack",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Simplified Platformer Pack",
+          "category": "упрощённые платформенные тайлы",
+          "record": "MF-2026-012",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/simplified-platformer-pack",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/input-prompts-pixel",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Input Prompts Pixel",
+          "category": "пиксельные значки управления",
+          "record": "MF-2026-013",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/input-prompts-pixel",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/input-prompts-pixel-1-bit",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Input Prompts Pixel 1-Bit",
+          "category": "чёрно-белые значки управления",
+          "record": "MF-2026-014",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Kenney",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": null,
+      "size_status": "UNKNOWN",
+      "size_source": "https://kenney.nl/assets/input-prompts-pixel-1-bit",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-objects",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric Objects",
+          "category": "изометрические предметы",
+          "record": "MF-2026-015",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Tio Aimar",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 1.9,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/isometric-objects",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-city-0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric City",
+          "category": "изометрический город, здания, дороги, дерево, озеро",
+          "record": "MF-2026-016",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "JanaChumi",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.9798,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/isometric-city-0",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-tiles-cubes",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric Cubes",
+          "category": "земля, трава, листья, вода, деревянные блоки",
+          "record": "MF-2026-017",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "InanZen",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0881,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/isometric-tiles-cubes",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-city",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric City (Kenney)",
+          "category": "город, изометрические спрайты",
+          "record": "MF-2026-018",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Kenney",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.9906,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/isometric-city",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-blocks",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric Blocks (Kenney)",
+          "category": "блоки ландшафта, изометрия, vector",
+          "record": "MF-2026-019",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Kenney",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 7.3,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/isometric-blocks",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-miniature-library",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric Miniature Library",
+          "category": "изометрическая библиотека интерьер",
+          "record": "MF-2026-020",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Kenney",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 5.8,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/isometric-miniature-library",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/300-isometric-object-tiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "300+ Isometric Object Tiles",
+          "category": "изометрические ступени, ящики, камни",
+          "record": "MF-2026-021",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Screaming Brain Studios",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 4,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/300-isometric-object-tiles",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-props-and-tents",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric Props and Tents",
+          "category": "изометрические палатки и лагерь",
+          "record": "MF-2026-022",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "rubberduck",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 6.4,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/isometric-props-and-tents",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/updated-grassland-tileset-stylized",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Grassland Tileset Updated",
+          "category": "стилизованные луга, скалы и вода",
+          "record": "MF-2026-023",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "rubberduck",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 17.7,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/updated-grassland-tileset-stylized",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/grassland-tileset-1",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Grassland Tileset",
+          "category": "изометрическая трава и ландшафт",
+          "record": "MF-2026-024",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "rubberduck",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 11.5,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/grassland-tileset-1",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/basic-isometric-tiles-128x128",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Basic Isometric Tiles 128",
+          "category": "базовые изометрические плитки",
+          "record": "MF-2026-025",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "ToxSickProductions.com",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.095,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/basic-isometric-tiles-128x128",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-2d-tiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Isometric 2D Tiles",
+          "category": "изометрические 34px плитки",
+          "record": "MF-2026-026",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2.5D",
+      "author": "Guy",
+      "asset_type": "ISOMETRIC_2D_SPRITE",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0025,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/isometric-2d-tiles",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/2d-simple-grass-tileset",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "2D Simple Grass TileSet",
+          "category": "пиксельная трава 16×16",
+          "record": "MF-2026-027",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Gustavo Saraiva",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0082,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/2d-simple-grass-tileset",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/grass-tileset-128px",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Grass Tileset 128px",
+          "category": "трава и тропинки 128×128",
+          "record": "MF-2026-028",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Sekyria",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0555,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/grass-tileset-128px",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/grasstileset-32-x-32",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "GrassTileSet 32",
+          "category": "трава 32px",
+          "record": "MF-2026-029",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "RodHakGames",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0037,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/grasstileset-32-x-32",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/grass-tiles-3",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Grass Tiles",
+          "category": "платформер 16px",
+          "record": "MF-2026-030",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "HorusKDI",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0026,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/grass-tiles-3",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/grass-on-dirt-stone-tileset",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Grass on Dirt Stone",
+          "category": "трава, земля, камень",
+          "record": "MF-2026-031",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "hitmanrec",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0041,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/grass-on-dirt-stone-tileset",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/16x16-grassland-tileset",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "16x16 Grassland Tileset",
+          "category": "трава 16px",
+          "record": "MF-2026-032",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Gerald Burke",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0014,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/16x16-grassland-tileset",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/cloud-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Cloud Pack",
+          "category": "облака 3 штуки",
+          "record": "MF-2026-033",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "MonoTone",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 1,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/cloud-pack",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/cloud-1",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Cloud",
+          "category": "четыре облака",
+          "record": "MF-2026-034",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "nyarlko",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 4.8,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/cloud-1",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/clouds-7",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Clouds 2D",
+          "category": "небо и облака",
+          "record": "MF-2026-035",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "sketcherskt",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.2317,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/clouds-7",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/2d-pixel-clouds",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "2D Pixel Clouds",
+          "category": "пиксельные облака",
+          "record": "MF-2026-036",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Dan Ryder",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0015,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/2d-pixel-clouds",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/cloud-set",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Cloud Set SVG",
+          "category": "6 векторных облаков",
+          "record": "MF-2026-037",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Sam",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.1989,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/cloud-set",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/clouds-and-gust",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Clouds and Gust",
+          "category": "анимированные облака и порывы ветра",
+          "record": "MF-2026-038",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "UrieW",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0465,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/clouds-and-gust",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/vector-clouds",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Vector Clouds",
+          "category": "векторные облака, svg и png",
+          "record": "MF-2026-039",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Modanung",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0878,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/vector-clouds",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/clouds-6",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Clouds 2000",
+          "category": "2000 PNG облаков",
+          "record": "MF-2026-040",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "zelun",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 201.8,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/clouds-6",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/cloud-platform-0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Cloud Platform",
+          "category": "пиксельная платформа-облако",
+          "record": "MF-2026-041",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "ARoachIFoundOnMyPillow",
+      "asset_type": "CLOUD_2D",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.000429,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/cloud-platform-0",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/clouds-3",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "MULTIFORMAT-2026-10-09",
+          "title": "Clouds Pixel",
+          "category": "маленький облачный фон",
+          "record": "MF-2026-042",
+          "match": "ORIGINAL_2D_2_5D_SOURCE_PAGE",
+          "high_complexity_warning": false
+        }
+      ],
+      "representation": "2D",
+      "author": "Chasersgaming",
+      "asset_type": "2D_SPRITES_TILESET",
+      "source_page_only": true,
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "publisher_stated_download_size_MB": 0.0036,
+      "size_status": "PUBLISHER_STATED_ROUNDED_MB",
+      "size_source": "https://opengameart.org/content/clouds-3",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
     }
-  ]
+  ],
+  "classification_caution": "2D isometric sprites are 2.5D visual assets, not true 3D geometry. Source pages are not downloads or independent model counts."
 }
