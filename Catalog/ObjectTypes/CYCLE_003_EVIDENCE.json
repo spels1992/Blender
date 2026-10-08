@@ -22,7 +22,28 @@
     ],
     "6": [],
     "7": [],
-    "8": [],
+    "8": [
+      {
+        "title": "Stapler 3D",
+        "url": "https://opengameart.org/content/stapler",
+        "license": "CC0",
+        "evidence": "EXACT_MODEL",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Pen and Pencil",
+        "url": "https://opengameart.org/content/pen-and-pencil",
+        "license": "CC0",
+        "evidence": "EXACT_PACK_CONTENT",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      }
+    ],
     "9": [
       {
         "title": "Old Bookshelf with Books",
@@ -135,7 +156,18 @@
       }
     ],
     "15": [],
-    "16": [],
+    "16": [
+      {
+        "title": "Microscope (found in collection listing, not individual page checked)",
+        "url": "https://opengameart.org/content/low-poly-game-assets",
+        "license": "UNVERIFIED",
+        "evidence": "COLLECTION_TITLE_ONLY",
+        "cost": "NOT_CONFIRMED",
+        "commercial_allowed": null,
+        "download_verified": false,
+        "unity_tested": false
+      }
+    ],
     "17": [
       {
         "title": "Lab Assets — flasks, beakers and glasswares",
@@ -208,8 +240,50 @@
         "unity_tested": false
       }
     ],
-    "24": [],
-    "25": [],
+    "24": [
+      {
+        "title": "Kenney Food Kit — general food, pumpkin not explicitly listed",
+        "url": "https://opengameart.org/content/food-kit",
+        "license": "CC0",
+        "evidence": "RELATED_NOT_EXACT",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      }
+    ],
+    "25": [
+      {
+        "title": "Chicken Animated",
+        "url": "https://opengameart.org/content/chicken-animated",
+        "license": "CC0",
+        "evidence": "EXACT_MODEL",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Chicken 8 animations",
+        "url": "https://opengameart.org/content/chicken-3",
+        "license": "CC0",
+        "evidence": "EXACT_MODEL",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Rooster Animated — male chicken",
+        "url": "https://opengameart.org/content/rooster-animated",
+        "license": "CC0",
+        "evidence": "EXACT_DIFFERENT_SUBTYPE",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      }
+    ],
     "26": [
       {
         "title": "Inventory items — egg",
@@ -316,7 +390,18 @@
         "unity_tested": false
       }
     ],
-    "35": [],
+    "35": [
+      {
+        "title": "Flathead Screwdriver",
+        "url": "https://opengameart.org/content/flathead-screwdriver",
+        "license": "CC0",
+        "evidence": "EXACT_MODEL",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      }
+    ],
     "36": [
       {
         "title": "Inventory Items — shovel",
@@ -669,7 +754,18 @@
       }
     ],
     "70": [],
-    "71": [],
+    "71": [
+      {
+        "title": "Soccer Field with soccer equipment — ball not confirmed",
+        "url": "https://opengameart.org/content/soccer-field",
+        "license": "CC0",
+        "evidence": "RELATED_NOT_EXACT",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      }
+    ],
     "72": [],
     "73": [
       {
@@ -797,7 +893,18 @@
         "unity_tested": false
       }
     ],
-    "83": [],
+    "83": [
+      {
+        "title": "3D RC helicopter, not necessarily quadcopter",
+        "url": "https://opengameart.org/content/3d-rc-h%C3%A9licopter",
+        "license": "CC0",
+        "evidence": "RELATED_DIFFERENT",
+        "cost": "FREE",
+        "commercial_allowed": true,
+        "download_verified": false,
+        "unity_tested": false
+      }
+    ],
     "84": [
       {
         "title": "UFO OBJ",
@@ -905,7 +1012,18 @@
         "unity_tested": false
       }
     ],
-    "95": [],
+    "95": [
+      {
+        "title": "School from Moscow — 3D school building, license not yet individually reviewed",
+        "url": "https://opengameart.org/content/school-from-moscow-lowpoly-building",
+        "license": "UNVERIFIED",
+        "evidence": "UNVERIFIED_POSSIBLE",
+        "cost": "NOT_CONFIRMED",
+        "commercial_allowed": null,
+        "download_verified": false,
+        "unity_tested": false
+      }
+    ],
     "96": [],
     "97": [],
     "98": [],
