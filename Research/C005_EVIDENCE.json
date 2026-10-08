@@ -1,0 +1,444 @@
+{
+  "cycle": "005",
+  "created": "2026-10-08",
+  "policy": "FREE_ONLY_COMMERCIAL_USE",
+  "evidence_level": "SOURCE_PAGES_AND_PREVIOUS_VERIFIED_CARDS_NO_ARCHIVES_DOWNLOADED",
+  "items_by_task": {
+    "4": [
+      {
+        "title": "Ноутбук",
+        "url": "https://polyhaven.com/a/classic_laptop",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-001; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "6": [
+      {
+        "title": "Школьная парта без скамейки",
+        "url": "https://polyhaven.com/a/SchoolDesk_01",
+        "license": "CC0",
+        "match": "RELATED_ONLY",
+        "evidence": "C004_RECORD",
+        "notes": "C004-023; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "10": [
+      {
+        "title": "Микроскоп",
+        "url": "https://polyhaven.com/a/vintage_microscope",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-003; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "13": [
+      {
+        "title": "Тыква low-poly",
+        "url": "https://opengameart.org/content/pumpkin-3d",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-017; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Тыква PBR",
+        "url": "https://opengameart.org/content/pumpkin-0",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-018; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Набор хэллоуинских тыкв",
+        "url": "https://opengameart.org/content/low-poly-halloween-kit",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-019; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "21": [
+      {
+        "title": "Береговой утёс 04",
+        "url": "https://polyhaven.com/a/coastal_cliff_04",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-013; possible high-poly optimization",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Утёс Namaqualand 01",
+        "url": "https://polyhaven.com/a/namaqualand_cliff_01",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-014; possible high-poly optimization",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Утёс Namaqualand 02",
+        "url": "https://polyhaven.com/a/namaqualand_cliff_02",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-015; possible high-poly optimization",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Береговой утёс 01",
+        "url": "https://polyhaven.com/a/coastal_cliff_01",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-016; possible high-poly optimization",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Береговой утёс 02",
+        "url": "https://polyhaven.com/a/coastal_cliff_02",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-028; possible high-poly optimization",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "24": [
+      {
+        "title": "Сухой ствол дерева",
+        "url": "https://polyhaven.com/a/dead_tree_trunk",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-011; possible high-poly optimization",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Сухой ствол дерева 02",
+        "url": "https://polyhaven.com/a/dead_tree_trunk_02",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-012; possible high-poly optimization",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Сухое дерево Quiver",
+        "url": "https://polyhaven.com/a/dead_quiver_trunk",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-032; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "33": [
+      {
+        "title": "Портативный генератор",
+        "url": "https://polyhaven.com/a/portable_generator",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-004; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "34": [
+      {
+        "title": "Электрические опоры",
+        "url": "https://polyhaven.com/a/modular_electricity_poles",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-005; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Модульные кабели",
+        "url": "https://polyhaven.com/a/modular_electric_cables",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-006; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "58": [
+      {
+        "title": "Декор: голова льва",
+        "url": "https://polyhaven.com/a/lion_head",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-072; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Статуэтка акулы",
+        "url": "https://polyhaven.com/a/bronze_shark_statue",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-073; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "61": [
+      {
+        "title": "Зеркало",
+        "url": "https://polyhaven.com/a/ornate_mirror_01",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-002; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "65": [
+      {
+        "title": "Металлический офисный стол",
+        "url": "https://polyhaven.com/a/metal_office_desk",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-010; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Современный деревянный шкаф",
+        "url": "https://polyhaven.com/a/modern_wooden_cabinet",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-082; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "67": [
+      {
+        "title": "Набор химической посуды",
+        "url": "https://polyhaven.com/a/chemistry_set",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-007; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "72": [
+      {
+        "title": "Трубный ключ",
+        "url": "https://polyhaven.com/a/pipe_wrench",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-058; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Разводной ключ",
+        "url": "https://polyhaven.com/a/adjustable_wrench",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-059; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "73": [
+      {
+        "title": "Аккумуляторная дрель",
+        "url": "https://polyhaven.com/a/Drill_01",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-096; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "74": [
+      {
+        "title": "Плоская отвёртка",
+        "url": "https://polyhaven.com/a/flathead_screwdriver",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-057; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "89": [
+      {
+        "title": "Диван 01",
+        "url": "https://polyhaven.com/a/Sofa_01",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-033; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Диван 02",
+        "url": "https://polyhaven.com/a/sofa_02",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-034; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "90": [
+      {
+        "title": "Кушетка",
+        "url": "https://polyhaven.com/a/vintage_day_bed",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-086; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "91": [
+      {
+        "title": "Современный деревянный шкаф",
+        "url": "https://polyhaven.com/a/modern_wooden_cabinet",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-082; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "93": [
+      {
+        "title": "Стеллаж металлический 01",
+        "url": "https://polyhaven.com/a/steel_frame_shelves_01",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-035; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Стеллаж металлический 02",
+        "url": "https://polyhaven.com/a/steel_frame_shelves_02",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-036; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Стеллаж металлический 03",
+        "url": "https://polyhaven.com/a/steel_frame_shelves_03",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-037; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "95": [
+      {
+        "title": "Металлический офисный стол",
+        "url": "https://polyhaven.com/a/metal_office_desk",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-010; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "96": [
+      {
+        "title": "Винтажная микроволновка",
+        "url": "https://polyhaven.com/a/vintage_microwave",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-050; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "99": [
+      {
+        "title": "Винтажный электрочайник",
+        "url": "https://polyhaven.com/a/vintage_electric_kettle",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-051; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ],
+    "100": [
+      {
+        "title": "Картины low-poly",
+        "url": "https://opengameart.org/content/cge-low-poly-paintings",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-025; ",
+        "downloaded": false,
+        "unity_tested": false
+      },
+      {
+        "title": "Рамка для картины",
+        "url": "https://polyhaven.com/a/standing_picture_frame_01",
+        "license": "CC0",
+        "match": "EXACT_MODEL",
+        "evidence": "C004_RECORD",
+        "notes": "C004-098; ",
+        "downloaded": false,
+        "unity_tested": false
+      }
+    ]
+  }
+}
