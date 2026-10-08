@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "last_checkpoint": "Research/C006/PROGRESS_20261009_HOURLY_V2.md",
+  "completed_this_run": {
+    "new_exact_pages": 20,
+    "asset_2d": 11,
+    "asset_2_5d": 5,
+    "asset_3d": 4,
+    "texture_material_new": 0,
+    "logical_url_dedupe_complete": true
+  },
+  "current_unique_urls": 688,
+  "next": [
+    {
+      "id": "C006-EXP-01",
+      "status": "OPEN",
+      "goal": "Integrate 49 URL overlays into physical baseline JSON indexes when safe; dedupe by original URL and underlying mesh"
+    },
+    {
+      "id": "C006-EXP-02",
+      "status": "OPEN",
+      "goal": "Find unlimited new 3D, 2.5D, 2D, voxel, animation, VFX, skybox, HDRI across all genres and authors"
+    },
+    {
+      "id": "MTASK-EXP-01",
+      "status": "OPEN",
+      "goal": "Expand all PBR and 2D/3D/procedural materials, grass, clouds, fur, bark, brick, ice and more"
+    },
+    {
+      "id": "QA-EXP-01",
+      "status": "OPEN",
+      "goal": "Verify true downloaded bytes, license variants, source provenance, and Blender/Unity imports; no fake PASS"
+    }
+  ],
+  "unknown_download_size_pages": 602,
+  "measured_total_download_bytes": null
+}
