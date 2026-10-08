@@ -1,0 +1,171 @@
+{
+ "schema_version": "1.0",
+ "date": "2026-10-09",
+ "base": "Catalog/DOWNLOAD_SIZE_AUDIT.json",
+ "entries": [
+  {
+   "url": "https://opengameart.org/content/low-poly-tree-1",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "35 Kb",
+   "size_source": "https://opengameart.org/content/low-poly-tree-1",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/very-low-poly-and-texture-tree",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "390.8 Kb",
+   "size_source": "https://opengameart.org/content/very-low-poly-and-texture-tree",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/lowpoly-tree-with-hole",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "568.6 Kb",
+   "size_source": "https://opengameart.org/content/lowpoly-tree-with-hole",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/vegetation-low-poly",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "1.2 Mb",
+   "size_source": "https://opengameart.org/content/vegetation-low-poly",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/2d-trees-and-leaf-textures-64x",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "104.1 Kb",
+   "size_source": "https://opengameart.org/content/2d-trees-and-leaf-textures-64x",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/plant-tileset",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "7.4 Kb PNG; 27.1 Kb ZIP",
+   "size_source": "https://opengameart.org/content/plant-tileset",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/oasis-palm-trees",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "143.5 Mb",
+   "size_source": "https://opengameart.org/content/oasis-palm-trees",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/foliage-sprites",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "2.4 Mb",
+   "size_source": "https://opengameart.org/content/foliage-sprites",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/kudzu-leaves-pixel-art",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "1.5 Kb ZIP; 1 Kb PNG; 586 b GIF",
+   "size_source": "https://opengameart.org/content/kudzu-leaves-pixel-art",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/2d-sunny-grassland-sprites-platformer-sidescroller",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "338.5 Kb",
+   "size_source": "https://opengameart.org/content/2d-sunny-grassland-sprites-platformer-sidescroller",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/layered-space-background",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "10.9 Mb",
+   "size_source": "https://opengameart.org/content/layered-space-background",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://kenney.nl/assets/pixel-platformer-industrial-expansion",
+   "download_size_bytes": null,
+   "size_status": "UNKNOWN",
+   "publisher_stated_size": null,
+   "size_source": null,
+   "size_verified_on": null
+  },
+  {
+   "url": "https://opengameart.org/content/seamless-brick-textures",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "10.8 Mb",
+   "size_source": "https://opengameart.org/content/seamless-brick-textures",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/seamless-brickconcrete-textures",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "490.5, 746.3, 147.5, 503.6, 547.6 Kb",
+   "size_source": "https://opengameart.org/content/seamless-brickconcrete-textures",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/seamless-brick-textures-0",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "433.4, 128.9, 520.2, 562.3 Kb",
+   "size_source": "https://opengameart.org/content/seamless-brick-textures-0",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/grass-textureseamless-2d",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "701.4, 707.5 Kb",
+   "size_source": "https://opengameart.org/content/grass-textureseamless-2d",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/tileable-grass-textures-set-1",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "4.8 Mb",
+   "size_source": "https://opengameart.org/content/tileable-grass-textures-set-1",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/high-res-texture-pack-1",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "161.9, 141.6 Mb (two ZIPs)",
+   "size_source": "https://opengameart.org/content/high-res-texture-pack-1",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/hand-painted-grass",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "1.3, 1.3, 1.4 Mb",
+   "size_source": "https://opengameart.org/content/hand-painted-grass",
+   "size_verified_on": "2026-10-09"
+  },
+  {
+   "url": "https://opengameart.org/content/foliage-branches-and-leafs-toon",
+   "download_size_bytes": null,
+   "size_status": "PUBLISHER_STATED",
+   "publisher_stated_size": "512 Kb",
+   "size_source": "https://opengameart.org/content/foliage-branches-and-leafs-toon",
+   "size_verified_on": "2026-10-09"
+  }
+ ],
+ "count": 20,
+ "measured_bytes": 0,
+ "measured_count": 0,
+ "note": "No exact byte sizes verified. Multiple file sizes are not summed as one chosen download. Source-page claims only."
+}
