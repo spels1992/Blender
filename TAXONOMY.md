@@ -1,4 +1,4 @@
-# Полный классификатор 3D-ресурсов
+# Открытый классификатор ВСЕХ игровых 3D / 2.5D / 2D-ресурсов
 
 Это карта поиска по жанрам. **Категория не означает, что подходящий бесплатный набор уже найден**.
 
@@ -53,3 +53,17 @@
 `category`, `subcategory`, `style` (realistic/stylized/lowpoly/voxel), `genre`, `format`, `rigged`, `animated`, `license`, `price`, `commercial`, `attribution`, `direct_url`, `source`, `verified_date`, `status`.
 
 В остальных задачах (навигация, AI/NPC, физика, генерация поведения) искать в [spels1992/Unity](https://github.com/spels1992/Unity), а не дублировать здесь.
+
+## Глобальный охват 2026-10-09 (переопределяет ограничение только 3D)
+
+**Форматы представления:** `3D_MESH`, `3D_RIG`, `3D_ANIMATION`, `3D_VOXEL`, `POINT_CLOUD`, `CAD_SOURCE`, `VOLUMETRIC`, `2_5D_ISOMETRIC`, `2_5D_BILLBOARD`, `2_5D_MULTIDIRECTION_SPRITE`, `2D_SPRITE`, `2D_SPRITESHEET`, `2D_TILESET`, `2D_VECTOR`, `2D_PIXEL_ART`, `PBR_MATERIAL`, `2D_TEXTURE`, `3D_VOLUME_TEXTURE`, `PROCEDURAL_TEXTURE`, `TRIM_SHEET`, `FOLIAGE_ATLAS`, `SKYBOX`, `HDRI`, `DECAL`, `SHADER`, `VFX`, `UI_ART` и будущие полезные типы.
+
+**Все стили:** realistic, photoreal, stylized, cartoon, anime-inspired, cel shaded, hand-painted, low-poly, high-poly, voxel, PS1/PS2/retro, pixel art, isometric, pre-rendered, clay, watercolor, vector, minimalist, fantasy, sci-fi. Добавление стилей не ограничено.
+
+**Все жанры:** RPG, JRPG, action, survival, horror, sandbox, city-builder, farming, management, shooter, strategy/RTS, tactics, tower defense, platformer, race, sport, puzzles, adventure, educational, life-sim, metroidvania, roguelike, visual novel, games for PC/mobile/browser/VR/AR. Новые не исключать.
+
+**Текстуры/поверхности:** дерево и кора любых пород, листья/хвоя, трава, мох, почва/грязь/песок/скалы, лед/снег/вода, облака/дым/туман, кирпич/плитка/бетон, металл/ржавчина/пластик/стекло, кожа/шерсть/мех/ткань, дороги, стены, полы/потолки/крыши, decals, PBR, trim sheets, alpha/foliage atlases, animated/projected/volumetric textures. Разделение на 2D/2.5D/3D обязательно сохранять.
+
+**Варианты:** минимум 2–3 независимых ресурса каждого типа, без верхнего предела; продолжать искать после минимума. Ссылки на набор без доказательств наличия точного предмета не засчитывать.
+
+[Главное правило](GLOBAL_ASSET_SEARCH_POLICY.md) · [Источник материалов](Materials/INDEX.md) · [Открытый список сайтов](Catalog/SOURCE_PORTALS.md).
