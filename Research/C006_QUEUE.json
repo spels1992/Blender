@@ -1,7 +1,7 @@
 {
   "cycle": "006",
   "created": "2026-10-08",
-  "status": "QUEUED_NOT_STARTED",
+  "status": "IN_PROGRESS",
   "reuses_prior_work": "Read Research/C005/INDEX.json and MASTER_SEARCH_INDEX first; do not repeat prior searches.",
   "scope": {
     "without_exact": 43,
@@ -52,10 +52,15 @@
       "priority": "P0",
       "kind": "FIND_FIRST_EXACT_ASSET",
       "definition": "Find at least 2 specific independently authored free commercial-use 3D models, with exact page and license proof.",
-      "status": "PENDING",
+      "status": "PARTIAL_WHITEBOARD_MAGNETIC_GAP",
       "free_budget": true,
-      "github_report": null,
-      "real_unity_test": "NOT_TESTED"
+      "github_report": "Research/C006/C006-004.md",
+      "real_unity_test": "NOT_TESTED",
+      "source_urls": [
+        "https://sketchfab.com/3d-models/low-poly-whiteboard-1cbf089ec4b741ad9d092d15db6d55ba",
+        "https://sketchfab.com/3d-models/whiteboard-low-poly-f69949960b5049f0b7a733e47d9da489",
+        "https://sketchfab.com/3d-models/whiteboard-eff6059c0f654aa3a5ba5e10eb59591e"
+      ]
     },
     {
       "id": "C006-005",

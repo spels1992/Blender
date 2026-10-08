@@ -2,17 +2,18 @@
   "schema_version": "1.0",
   "updated": "2026-10-08",
   "source_policy": "100% no-cost and commercial rights claimed on publisher pages, all original licenses must be checked before use",
-  "verification": "Source pages only: 0 downloaded asset archive QA, 0 Unity or Blender asset import tests in these research cycles.",
+  "verification": "Source pages only: 0 downloaded asset archive QA, 0 Unity or Blender asset import tests in these research cycles. C006-004: three distinct whiteboard pages; magnetic board functionality unverified; CC BY version pending.",
   "stats": {
-    "total_source_references": 543,
-    "unique_source_pages": 435,
+    "total_source_references": 546,
+    "unique_source_pages": 438,
     "duplicate_page_references": 108,
     "cycle_001_source_packs": 100,
     "cycle_002_source_entries": 176,
     "cycle_003_exact_page_references": 69,
     "cycle_004_source_cards": 100,
     "unity_tested": 0,
-    "cycle_005_source_references": 98
+    "cycle_005_source_references": 98,
+    "cycle_006_source_references": 3
   },
   "sources": [
     {
@@ -10448,6 +10449,90 @@
       "download_tested": false,
       "blender_tested": false,
       "unity_tested": false
+    },
+    {
+      "url": "https://sketchfab.com/3d-models/low-poly-whiteboard-1cbf089ec4b741ad9d092d15db6d55ba",
+      "source": "Sketchfab",
+      "license_claims": [
+        "CC Attribution (version not verified)"
+      ],
+      "appearances": [
+        {
+          "cycle": "006",
+          "title": "Low Poly Whiteboard",
+          "category": "Whiteboard; magnetic property NOT verified",
+          "record": "C006-004",
+          "match": "EXACT_WHITEBOARD_NOT_CONFIRMED_MAGNETIC",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "author": "tankop1",
+      "triangles_claimed": 2400,
+      "notes": "FBX; separated labeled parts",
+      "attribution_required": true,
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_verified": false
+    },
+    {
+      "url": "https://sketchfab.com/3d-models/whiteboard-low-poly-f69949960b5049f0b7a733e47d9da489",
+      "source": "Sketchfab",
+      "license_claims": [
+        "CC Attribution (version not verified)"
+      ],
+      "appearances": [
+        {
+          "cycle": "006",
+          "title": "Whiteboard Low-poly",
+          "category": "Whiteboard; magnetic property NOT verified",
+          "record": "C006-004",
+          "match": "EXACT_WHITEBOARD_NOT_CONFIRMED_MAGNETIC",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "author": "MaX3Dd",
+      "triangles_claimed": 966,
+      "notes": "2048x2048 PNG PBR claimed",
+      "attribution_required": true,
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_verified": false
+    },
+    {
+      "url": "https://sketchfab.com/3d-models/whiteboard-eff6059c0f654aa3a5ba5e10eb59591e",
+      "source": "Sketchfab",
+      "license_claims": [
+        "CC Attribution (version not verified)"
+      ],
+      "appearances": [
+        {
+          "cycle": "006",
+          "title": "Whiteboard",
+          "category": "Whiteboard; magnetic property NOT verified",
+          "record": "C006-004",
+          "match": "EXACT_WHITEBOARD_NOT_CONFIRMED_MAGNETIC",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "author": "Reflex_Entertainment",
+      "triangles_claimed": 952,
+      "notes": "Blender/Quixel Mixer; UE4 PBR; requires Unity conversion",
+      "attribution_required": true,
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "license_version_verified": false
     }
   ]
 }
