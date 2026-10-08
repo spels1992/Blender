@@ -1,0 +1,4738 @@
+{
+  "schema_version": "2.0",
+  "cycle": "002",
+  "date": "2026-10-08",
+  "total_tasks": 100,
+  "price_policy": "ONLY_FREE_COMMERCIAL_USE",
+  "verification_policy": "SOURCE_PAGE_MATCH_NOT_UNITY_TEST",
+  "objects": [
+    {
+      "task_id": "C002-001",
+      "name_ru": "Стул",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/001.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-001",
+          "title": "Arm Chair 01",
+          "url": "https://polyhaven.com/a/ArmChair_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-002",
+          "title": "Green Chair 01",
+          "url": "https://polyhaven.com/a/GreenChair_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-003",
+          "title": "Wooden Chair 01",
+          "url": "https://polyhaven.com/a/WoodenChair_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-004",
+          "title": "Chair 3D",
+          "url": "https://opengameart.org/content/chair-3d",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 4,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-002",
+      "name_ru": "Диван",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/002.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-005",
+          "title": "Sofa 01",
+          "url": "https://polyhaven.com/a/Sofa_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-003",
+      "name_ru": "Кровать",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/003.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-006",
+          "title": "Gothic Bed 01",
+          "url": "https://polyhaven.com/a/GothicBed_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-004",
+      "name_ru": "Стол",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/004.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-007",
+          "title": "Wooden Table 01",
+          "url": "https://polyhaven.com/a/WoodenTable_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-008",
+          "title": "Coffee Table 01",
+          "url": "https://polyhaven.com/a/CoffeeTable_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-009",
+          "title": "3d Table and Chair",
+          "url": "https://opengameart.org/content/3d-table-and-chair",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-005",
+      "name_ru": "Шкаф",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/005.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-010",
+          "title": "Gothic Cabinet 01",
+          "url": "https://polyhaven.com/a/GothicCabinet_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-006",
+      "name_ru": "Комод",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/006.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-011",
+          "title": "Gothic Commode 01",
+          "url": "https://polyhaven.com/a/GothicCommode_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-007",
+      "name_ru": "Стеллаж",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/007.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-012",
+          "title": "Shelf 01",
+          "url": "https://polyhaven.com/a/Shelf_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-008",
+      "name_ru": "Тумбочка",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/008.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-013",
+          "title": "Classic Nightstand 01",
+          "url": "https://polyhaven.com/a/ClassicNightstand_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-009",
+      "name_ru": "Рабочий стол",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/009.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-014",
+          "title": "School Desk 01",
+          "url": "https://polyhaven.com/a/SchoolDesk_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-010",
+      "name_ru": "Кресло",
+      "category": "Мебель и комнаты",
+      "card": "Catalog/ObjectTypes/010.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-015",
+          "title": "Rockingchair 01",
+          "url": "https://polyhaven.com/a/Rockingchair_01",
+          "license": "CC0",
+          "source": "Poly Haven",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-016",
+          "title": "Office Chair",
+          "url": "https://opengameart.org/content/office-chair",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-011",
+      "name_ru": "Холодильник",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/011.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-017",
+          "title": "Cooking Assets (refrigerator)",
+          "url": "https://opengameart.org/content/cooking-assets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-018",
+          "title": "Tiny Treats Kitchen (large fridge)",
+          "url": "https://opengameart.org/content/tiny-treats-charming-kitchen-set",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-012",
+      "name_ru": "Кухонная плита",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/012.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-019",
+          "title": "Cooking Assets (oven)",
+          "url": "https://opengameart.org/content/cooking-assets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-020",
+          "title": "Tiny Treats Kitchen (stove)",
+          "url": "https://opengameart.org/content/tiny-treats-charming-kitchen-set",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-013",
+      "name_ru": "Микроволновка",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/013.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-021",
+          "title": "Free Yoko Redux Models (microwave)",
+          "url": "https://opengameart.org/content/free-yoko-redux-models",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-014",
+      "name_ru": "Раковина",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/014.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-022",
+          "title": "Toilets set (three sinks)",
+          "url": "https://opengameart.org/node/165996",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-023",
+          "title": "Modular Bathroom Voxel (sink)",
+          "url": "https://opengameart.org/content/modular-bathroom-voxel-art",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-015",
+      "name_ru": "Унитаз",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/015.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-024",
+          "title": "Toilet",
+          "url": "https://opengameart.org/content/toilet",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-025",
+          "title": "Toilets (six toilet bowls)",
+          "url": "https://opengameart.org/node/165996",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-026",
+          "title": "Modular Bathroom Voxel (toilet)",
+          "url": "https://opengameart.org/content/modular-bathroom-voxel-art",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-016",
+      "name_ru": "Ванна",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/016.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-027",
+          "title": "Modular Bathroom Voxel (bathtub)",
+          "url": "https://opengameart.org/content/modular-bathroom-voxel-art",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-017",
+      "name_ru": "Душевая кабина",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/017.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-018",
+      "name_ru": "Стиральная машина",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/018.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-019",
+      "name_ru": "Кухонные шкафчики",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/019.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-028",
+          "title": "Tiny Treats Kitchen (counters)",
+          "url": "https://opengameart.org/content/tiny-treats-charming-kitchen-set",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-020",
+      "name_ru": "Чайник",
+      "category": "Кухня и ванная",
+      "card": "Catalog/ObjectTypes/020.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-029",
+          "title": "Food Kit",
+          "url": "https://kenney.nl/assets/food-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-073",
+          "title": "Ultimate Food Pack",
+          "url": "https://quaternius.com/packs/ultimatefood.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-021",
+      "name_ru": "Лампа",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/021.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-022",
+      "name_ru": "Телевизор",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/022.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-023",
+      "name_ru": "Компьютер",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/023.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-020",
+          "title": "Space Station Kit",
+          "url": "https://kenney.nl/assets/space-station-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-076",
+          "title": "Ultimate Modular Sci-Fi Pack",
+          "url": "https://quaternius.com/packs/ultimatemodularscifi.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-029",
+          "title": "Computer Screen Low Poly",
+          "url": "https://opengameart.org/content/computer-screen-low-poly-0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-030",
+          "title": "Low-poly Monitor",
+          "url": "https://opengameart.org/content/low-poly-monitor",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-024",
+      "name_ru": "Книга",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/024.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-025",
+      "name_ru": "Картина",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/025.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-026",
+      "name_ru": "Зеркало",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/026.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-027",
+      "name_ru": "Часы",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/027.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-028",
+      "name_ru": "Ваза",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/028.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-080",
+          "title": "Ultimate Furniture Pack",
+          "url": "https://quaternius.com/packs/ultimatefurniture.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-029",
+      "name_ru": "Посуда",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/029.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-029",
+          "title": "Food Kit",
+          "url": "https://kenney.nl/assets/food-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-073",
+          "title": "Ultimate Food Pack",
+          "url": "https://quaternius.com/packs/ultimatefood.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-031",
+          "title": "Kitchen Stuff",
+          "url": "https://opengameart.org/content/kitchen-stuff",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-032",
+          "title": "11 Common Household Items",
+          "url": "https://opengameart.org/content/11-common-household-items",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-030",
+      "name_ru": "Камин",
+      "category": "Интерьерные предметы",
+      "card": "Catalog/ObjectTypes/030.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-038",
+          "title": "Furniture Bits",
+          "url": "https://www.kaylousberg.com/game-assets/furniture-bits",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-049",
+          "title": "Medieval Village Pack",
+          "url": "https://quaternius.com/packs/medievalvillage.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-031",
+      "name_ru": "Жилой дом",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/031.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-049",
+          "title": "Medieval Village Pack",
+          "url": "https://quaternius.com/packs/medievalvillage.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-090",
+          "title": "Simple Buildings Pack",
+          "url": "https://quaternius.com/packs/simplebuildings.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-032",
+      "name_ru": "Коттедж",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/032.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-012",
+          "title": "Fantasy Town Kit",
+          "url": "https://kenney.nl/assets/fantasy-town-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-049",
+          "title": "Medieval Village Pack",
+          "url": "https://quaternius.com/packs/medievalvillage.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-033",
+      "name_ru": "Замок",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/033.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-012",
+          "title": "Fantasy Town Kit",
+          "url": "https://kenney.nl/assets/fantasy-town-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-013",
+          "title": "Retro Medieval Kit",
+          "url": "https://kenney.nl/assets/retro-medieval-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-058",
+          "title": "Ultimate Fantasy RTS",
+          "url": "https://quaternius.com/packs/ultimatefantasyrts.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-034",
+      "name_ru": "Сторожевая башня",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/034.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-012",
+          "title": "Fantasy Town Kit",
+          "url": "https://kenney.nl/assets/fantasy-town-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-058",
+          "title": "Ultimate Fantasy RTS",
+          "url": "https://quaternius.com/packs/ultimatefantasyrts.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-049",
+          "title": "Medieval Village Pack",
+          "url": "https://quaternius.com/packs/medievalvillage.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-033",
+          "title": "Mage Tower",
+          "url": "https://opengameart.org/content/mage-tower",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-035",
+      "name_ru": "Мост",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/035.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-012",
+          "title": "Fantasy Town Kit",
+          "url": "https://kenney.nl/assets/fantasy-town-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-089",
+          "title": "Modular Streets Pack",
+          "url": "https://quaternius.com/packs/modularstreets.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-015",
+          "title": "City Kit (Roads)",
+          "url": "https://kenney.nl/assets/city-kit-roads",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-036",
+      "name_ru": "Дверь",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/036.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-008",
+          "title": "Building Kit",
+          "url": "https://kenney.nl/assets/building-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-009",
+          "title": "Modular Buildings",
+          "url": "https://kenney.nl/assets/modular-buildings",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-037",
+      "name_ru": "Окно",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/037.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-008",
+          "title": "Building Kit",
+          "url": "https://kenney.nl/assets/building-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-009",
+          "title": "Modular Buildings",
+          "url": "https://kenney.nl/assets/modular-buildings",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-038",
+      "name_ru": "Лестница",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/038.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-008",
+          "title": "Building Kit",
+          "url": "https://kenney.nl/assets/building-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-009",
+          "title": "Modular Buildings",
+          "url": "https://kenney.nl/assets/modular-buildings",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-078",
+          "title": "Modular Medieval Building Pack",
+          "url": "https://quaternius.com/packs/modularmedievalbuildings.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-039",
+      "name_ru": "Крыша",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/039.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-008",
+          "title": "Building Kit",
+          "url": "https://kenney.nl/assets/building-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-009",
+          "title": "Modular Buildings",
+          "url": "https://kenney.nl/assets/modular-buildings",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-078",
+          "title": "Modular Medieval Building Pack",
+          "url": "https://quaternius.com/packs/modularmedievalbuildings.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-040",
+      "name_ru": "Забор",
+      "category": "Здания и конструкция",
+      "card": "Catalog/ObjectTypes/040.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-049",
+          "title": "Medieval Village Pack",
+          "url": "https://quaternius.com/packs/medievalvillage.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-078",
+          "title": "Modular Medieval Building Pack",
+          "url": "https://quaternius.com/packs/modularmedievalbuildings.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-041",
+      "name_ru": "Дорога",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/041.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-015",
+          "title": "City Kit (Roads)",
+          "url": "https://kenney.nl/assets/city-kit-roads",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-089",
+          "title": "Modular Streets Pack",
+          "url": "https://quaternius.com/packs/modularstreets.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-024",
+          "title": "Racing Kit",
+          "url": "https://kenney.nl/assets/racing-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-042",
+      "name_ru": "Уличный фонарь",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/042.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-015",
+          "title": "City Kit (Roads)",
+          "url": "https://kenney.nl/assets/city-kit-roads",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-089",
+          "title": "Modular Streets Pack",
+          "url": "https://quaternius.com/packs/modularstreets.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-034",
+          "title": "Street lights",
+          "url": "https://opengameart.org/content/street-lights",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-035",
+          "title": "Lamp Post Bench TrashCan (lamppost)",
+          "url": "https://opengameart.org/content/lamp-post-bench-trashcan",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-043",
+      "name_ru": "Дорожный знак",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/043.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-015",
+          "title": "City Kit (Roads)",
+          "url": "https://kenney.nl/assets/city-kit-roads",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-089",
+          "title": "Modular Streets Pack",
+          "url": "https://quaternius.com/packs/modularstreets.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-036",
+          "title": "Basic Street Signs",
+          "url": "https://opengameart.org/content/basic-street-signs",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-044",
+      "name_ru": "Уличная скамейка",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/044.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-015",
+          "title": "City Kit (Roads)",
+          "url": "https://kenney.nl/assets/city-kit-roads",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-089",
+          "title": "Modular Streets Pack",
+          "url": "https://quaternius.com/packs/modularstreets.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-037",
+          "title": "Lamp Post Bench TrashCan (bench)",
+          "url": "https://opengameart.org/content/lamp-post-bench-trashcan",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-045",
+      "name_ru": "Мусорный контейнер",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/045.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-011",
+          "title": "City Kit (Industrial)",
+          "url": "https://kenney.nl/assets/city-kit-industrial",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-089",
+          "title": "Modular Streets Pack",
+          "url": "https://quaternius.com/packs/modularstreets.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-038",
+          "title": "Lamp Post Bench TrashCan (trashcan)",
+          "url": "https://opengameart.org/content/lamp-post-bench-trashcan",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-046",
+      "name_ru": "Светофор",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/046.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-015",
+          "title": "City Kit (Roads)",
+          "url": "https://kenney.nl/assets/city-kit-roads",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-089",
+          "title": "Modular Streets Pack",
+          "url": "https://quaternius.com/packs/modularstreets.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-047",
+      "name_ru": "Почтовый ящик",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/047.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-010",
+          "title": "City Kit (Suburban)",
+          "url": "https://kenney.nl/assets/city-kit-suburban",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-089",
+          "title": "Modular Streets Pack",
+          "url": "https://quaternius.com/packs/modularstreets.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-063",
+          "title": "Ultimate House Interior Pack",
+          "url": "https://quaternius.com/packs/ultimatehomeinterior.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-048",
+      "name_ru": "Склад",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/048.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-011",
+          "title": "City Kit (Industrial)",
+          "url": "https://kenney.nl/assets/city-kit-industrial",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-030",
+          "title": "Factory Kit",
+          "url": "https://kenney.nl/assets/factory-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-082",
+          "title": "Ultimate Buildings Pack",
+          "url": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-049",
+      "name_ru": "Конвейер",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/049.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-030",
+          "title": "Factory Kit",
+          "url": "https://kenney.nl/assets/factory-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-011",
+          "title": "City Kit (Industrial)",
+          "url": "https://kenney.nl/assets/city-kit-industrial",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-082",
+          "title": "Ultimate Buildings Pack",
+          "url": "https://quaternius.com/packs/ultimatetexturedbuildings.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-050",
+      "name_ru": "Трубы",
+      "category": "Город и промышленность",
+      "card": "Catalog/ObjectTypes/050.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-030",
+          "title": "Factory Kit",
+          "url": "https://kenney.nl/assets/factory-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-011",
+          "title": "City Kit (Industrial)",
+          "url": "https://kenney.nl/assets/city-kit-industrial",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-076",
+          "title": "Ultimate Modular Sci-Fi Pack",
+          "url": "https://quaternius.com/packs/ultimatemodularscifi.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-051",
+      "name_ru": "Дерево",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/051.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-071",
+          "title": "Stylized Tree Pack",
+          "url": "https://quaternius.com/packs/stylizedtree.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-052",
+      "name_ru": "Кустарник",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/052.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-079",
+          "title": "Ultimate Nature Pack",
+          "url": "https://quaternius.com/packs/ultimatenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-053",
+      "name_ru": "Трава",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/053.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-079",
+          "title": "Ultimate Nature Pack",
+          "url": "https://quaternius.com/packs/ultimatenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-054",
+      "name_ru": "Цветы",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/054.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-079",
+          "title": "Ultimate Nature Pack",
+          "url": "https://quaternius.com/packs/ultimatenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-055",
+      "name_ru": "Камень",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/055.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-047",
+          "title": "Simple Nature Pack",
+          "url": "https://quaternius.com/packs/simplenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-056",
+      "name_ru": "Бревно",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/056.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-079",
+          "title": "Ultimate Nature Pack",
+          "url": "https://quaternius.com/packs/ultimatenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-057",
+      "name_ru": "Гора",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/057.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-079",
+          "title": "Ultimate Nature Pack",
+          "url": "https://quaternius.com/packs/ultimatenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-058",
+      "name_ru": "Пещера",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/058.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-018",
+          "title": "Modular Cave Kit",
+          "url": "https://kenney.nl/assets/modular-cave-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-047",
+          "title": "Simple Nature Pack",
+          "url": "https://quaternius.com/packs/simplenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-079",
+          "title": "Ultimate Nature Pack",
+          "url": "https://quaternius.com/packs/ultimatenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-059",
+      "name_ru": "Ручей или река",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/059.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-079",
+          "title": "Ultimate Nature Pack",
+          "url": "https://quaternius.com/packs/ultimatenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-060",
+      "name_ru": "Грибы",
+      "category": "Природа и местность",
+      "card": "Catalog/ObjectTypes/060.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-046",
+          "title": "Stylized Nature MegaKit",
+          "url": "https://quaternius.com/packs/stylizednaturemegakit.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-079",
+          "title": "Ultimate Nature Pack",
+          "url": "https://quaternius.com/packs/ultimatenature.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-061",
+      "name_ru": "Человек",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/061.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-002",
+          "title": "Animated Characters Protagonists",
+          "url": "https://kenney.nl/assets/animated-characters-protagonists",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-060",
+          "title": "Ultimate Modular Men Pack",
+          "url": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-039",
+          "title": "3D male rigged",
+          "url": "https://opengameart.org/content/3d-male-0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-062",
+      "name_ru": "Воин",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/062.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-064",
+          "title": "RPG Character Pack",
+          "url": "https://quaternius.com/packs/rpgcharacters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-066",
+          "title": "Animated Knight Pack",
+          "url": "https://quaternius.com/packs/knightcharacter.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-063",
+      "name_ru": "Маг",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/063.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-064",
+          "title": "RPG Character Pack",
+          "url": "https://quaternius.com/packs/rpgcharacters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-064",
+      "name_ru": "Рыцарь",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/064.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-066",
+          "title": "Animated Knight Pack",
+          "url": "https://quaternius.com/packs/knightcharacter.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-064",
+          "title": "RPG Character Pack",
+          "url": "https://quaternius.com/packs/rpgcharacters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-040",
+          "title": "Low Poly Knight",
+          "url": "https://opengameart.org/content/low-poly-knight",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-065",
+      "name_ru": "Эльф",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/065.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-064",
+          "title": "RPG Character Pack",
+          "url": "https://quaternius.com/packs/rpgcharacters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-060",
+          "title": "Ultimate Modular Men Pack",
+          "url": "https://quaternius.com/packs/ultimatemodularcharacters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-066",
+      "name_ru": "Орк",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/066.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-043",
+          "title": "Ultimate Monsters",
+          "url": "https://quaternius.com/packs/ultimatemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-044",
+          "title": "Animated Monster Pack",
+          "url": "https://quaternius.com/packs/animatedmonster.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-059",
+          "title": "Easy Enemy Pack",
+          "url": "https://quaternius.com/packs/easyenemy.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-067",
+      "name_ru": "Скелет",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/067.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-033",
+          "title": "Character Pack: Skeletons",
+          "url": "https://kaylousberg.itch.io/kaykit-skeletons",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-043",
+          "title": "Ultimate Monsters",
+          "url": "https://quaternius.com/packs/ultimatemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-059",
+          "title": "Easy Enemy Pack",
+          "url": "https://quaternius.com/packs/easyenemy.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-041",
+          "title": "Skeleton with rig",
+          "url": "https://opengameart.org/content/skeleton-with-rig",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-068",
+      "name_ru": "Зомби",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/068.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-086",
+          "title": "Animated Zombie Pack",
+          "url": "https://quaternius.com/packs/animatedzombie.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-043",
+          "title": "Ultimate Monsters",
+          "url": "https://quaternius.com/packs/ultimatemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-044",
+          "title": "Animated Monster Pack",
+          "url": "https://quaternius.com/packs/animatedmonster.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-069",
+      "name_ru": "Дракон",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/069.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-043",
+          "title": "Ultimate Monsters",
+          "url": "https://quaternius.com/packs/ultimatemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-044",
+          "title": "Animated Monster Pack",
+          "url": "https://quaternius.com/packs/animatedmonster.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-056",
+          "title": "Cute Animated Monsters Pack",
+          "url": "https://quaternius.com/packs/cutemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-042",
+          "title": "Cethiel's Dragon 3D animated",
+          "url": "https://opengameart.org/content/cethiels-dragon-3d",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-043",
+          "title": "Dragon blend",
+          "url": "https://opengameart.org/content/dragon",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-044",
+          "title": "Dragon low-poly 3ds",
+          "url": "https://opengameart.org/content/dragon-3",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-070",
+      "name_ru": "Виверна",
+      "category": "Люди и фэнтези",
+      "card": "Catalog/ObjectTypes/070.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-043",
+          "title": "Ultimate Monsters",
+          "url": "https://quaternius.com/packs/ultimatemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-044",
+          "title": "Animated Monster Pack",
+          "url": "https://quaternius.com/packs/animatedmonster.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-056",
+          "title": "Cute Animated Monsters Pack",
+          "url": "https://quaternius.com/packs/cutemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-071",
+      "name_ru": "Кошка",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/071.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-055",
+          "title": "Farm Animal Pack",
+          "url": "https://quaternius.com/packs/farmanimal.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-045",
+          "title": "Cat 3D Pixel Art",
+          "url": "https://opengameart.org/content/cat-3d-pixel-art",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-046",
+          "title": "Simple Cat",
+          "url": "https://opengameart.org/content/simple-cat",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-047",
+          "title": "Cube Pets animated cats",
+          "url": "https://opengameart.org/content/cube-pets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-072",
+      "name_ru": "Собака",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/072.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-055",
+          "title": "Farm Animal Pack",
+          "url": "https://quaternius.com/packs/farmanimal.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-048",
+          "title": "Cube Pets animated dogs",
+          "url": "https://opengameart.org/content/cube-pets",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-073",
+      "name_ru": "Волк",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/073.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-043",
+          "title": "Ultimate Monsters",
+          "url": "https://quaternius.com/packs/ultimatemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-055",
+          "title": "Farm Animal Pack",
+          "url": "https://quaternius.com/packs/farmanimal.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-049",
+          "title": "3D wolf rigged",
+          "url": "https://opengameart.org/content/3d-wolf",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-050",
+          "title": "Wolf low-poly",
+          "url": "https://opengameart.org/content/wolf-1",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-074",
+      "name_ru": "Лошадь",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/074.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-055",
+          "title": "Farm Animal Pack",
+          "url": "https://quaternius.com/packs/farmanimal.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-092",
+          "title": "Farm Buildings Pack",
+          "url": "https://quaternius.com/packs/farmbuildings.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-075",
+      "name_ru": "Корова",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/075.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-055",
+          "title": "Farm Animal Pack",
+          "url": "https://quaternius.com/packs/farmanimal.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-092",
+          "title": "Farm Buildings Pack",
+          "url": "https://quaternius.com/packs/farmbuildings.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-076",
+      "name_ru": "Олень",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/076.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-055",
+          "title": "Farm Animal Pack",
+          "url": "https://quaternius.com/packs/farmanimal.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-077",
+      "name_ru": "Медведь",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/077.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-043",
+          "title": "Ultimate Monsters",
+          "url": "https://quaternius.com/packs/ultimatemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-055",
+          "title": "Farm Animal Pack",
+          "url": "https://quaternius.com/packs/farmanimal.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-078",
+      "name_ru": "Птица",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/078.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-055",
+          "title": "Farm Animal Pack",
+          "url": "https://quaternius.com/packs/farmanimal.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-007",
+          "title": "Nature Kit",
+          "url": "https://kenney.nl/assets/nature-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-079",
+      "name_ru": "Рыба",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/079.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-057",
+          "title": "Animated Fish Pack",
+          "url": "https://quaternius.com/packs/animatedfish.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-072",
+          "title": "Animated Cute Fish Pack",
+          "url": "https://quaternius.com/packs/cutefish.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-026",
+          "title": "Pirate Kit",
+          "url": "https://kenney.nl/assets/pirate-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-080",
+      "name_ru": "Динозавр",
+      "category": "Животные и существа",
+      "card": "Catalog/ObjectTypes/080.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-045",
+          "title": "Animated Dinosaur Pack",
+          "url": "https://quaternius.com/packs/animateddinosaurs.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-054",
+          "title": "Ultimate Animated Animal Pack",
+          "url": "https://quaternius.com/packs/ultimateanimatedanimals.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-043",
+          "title": "Ultimate Monsters",
+          "url": "https://quaternius.com/packs/ultimatemonsters.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-081",
+      "name_ru": "Меч",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/081.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-067",
+          "title": "Modular Weapons Pack",
+          "url": "https://quaternius.com/packs/medievalweapons.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-051",
+          "title": "Low Poly Fantasy Swords (3)",
+          "url": "https://opengameart.org/content/low-poly-fantasy-swords",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-052",
+          "title": "Simple Low Poly Swords (12)",
+          "url": "https://opengameart.org/content/simple-low-poly-swords",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-053",
+          "title": "3D swords lowpol (CC0)",
+          "url": "https://opengameart.org/content/3d-swords-lowpol-cc0",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-054",
+          "title": "Knight's Sword",
+          "url": "https://opengameart.org/content/knights-sword",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 4,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-082",
+      "name_ru": "Топор",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/082.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-067",
+          "title": "Modular Weapons Pack",
+          "url": "https://quaternius.com/packs/medievalweapons.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-083",
+      "name_ru": "Лук",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/083.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-067",
+          "title": "Modular Weapons Pack",
+          "url": "https://quaternius.com/packs/medievalweapons.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-084",
+      "name_ru": "Щит",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/084.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-067",
+          "title": "Modular Weapons Pack",
+          "url": "https://quaternius.com/packs/medievalweapons.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-066",
+          "title": "Animated Knight Pack",
+          "url": "https://quaternius.com/packs/knightcharacter.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-055",
+          "title": "Sword and Shield",
+          "url": "https://opengameart.org/content/sword-and-shieldpixel-texture",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-085",
+      "name_ru": "Магический посох",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/085.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-032",
+          "title": "Character Pack: Adventurers",
+          "url": "https://kaylousberg.itch.io/kaykit-adventurers",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-095",
+          "title": "RPG Essentials Pack",
+          "url": "https://quaternius.com/packs/rpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-056",
+          "title": "Staff",
+          "url": "https://opengameart.org/content/staff-1",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-086",
+      "name_ru": "Пистолет",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/086.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-081",
+          "title": "Ultimate Guns Pack",
+          "url": "https://quaternius.com/packs/ultimategun.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-088",
+          "title": "Animated Guns Pack",
+          "url": "https://quaternius.com/packs/animatedguns.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-028",
+          "title": "Blaster Kit",
+          "url": "https://kenney.nl/assets/blaster-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-057",
+          "title": "Pistol",
+          "url": "https://opengameart.org/content/pistol-5",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-058",
+          "title": "Stylized Pistol",
+          "url": "https://opengameart.org/content/stylized-pistol",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-059",
+          "title": "3D Low Poly Pistol With Bullet Shell",
+          "url": "https://opengameart.org/content/3d-low-poly-pistol-with-bullet-shell",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-087",
+      "name_ru": "Винтовка",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/087.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-081",
+          "title": "Ultimate Guns Pack",
+          "url": "https://quaternius.com/packs/ultimategun.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-088",
+          "title": "Animated Guns Pack",
+          "url": "https://quaternius.com/packs/animatedguns.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-061",
+          "title": "Sci-Fi Modular Gun Pack",
+          "url": "https://quaternius.com/packs/scifimodularguns.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-060",
+          "title": "Various Small Arms (Rifles)",
+          "url": "https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-088",
+      "name_ru": "Сундук",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/088.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-016",
+          "title": "Mini Dungeon",
+          "url": "https://kenney.nl/assets/mini-dungeon",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-035",
+          "title": "Dungeon Pack Remastered",
+          "url": "https://kaylousberg.itch.io/kaykit-dungeon-pack",
+          "source": "KayKit",
+          "license": "CC0 (FREE tier)",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-061",
+          "title": "Chest",
+          "url": "https://opengameart.org/content/chest-1",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-089",
+      "name_ru": "Зелье",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/089.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-095",
+          "title": "RPG Essentials Pack",
+          "url": "https://quaternius.com/packs/rpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-016",
+          "title": "Mini Dungeon",
+          "url": "https://kenney.nl/assets/mini-dungeon",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-090",
+      "name_ru": "Монета",
+      "category": "Оружие и RPG",
+      "card": "Catalog/ObjectTypes/090.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-065",
+          "title": "Ultimate RPG Pack",
+          "url": "https://quaternius.com/packs/ultimaterpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-095",
+          "title": "RPG Essentials Pack",
+          "url": "https://quaternius.com/packs/rpg.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-016",
+          "title": "Mini Dungeon",
+          "url": "https://kenney.nl/assets/mini-dungeon",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-062",
+          "title": "Coins Collection",
+          "url": "https://opengameart.org/content/coins-collection",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-063",
+          "title": "Bag of coins",
+          "url": "https://opengameart.org/content/bag-of-coins",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-091",
+      "name_ru": "Легковой автомобиль",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/091.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-023",
+          "title": "Car Kit",
+          "url": "https://kenney.nl/assets/car-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-050",
+          "title": "Cars Pack",
+          "url": "https://quaternius.com/packs/cars.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-022",
+          "title": "Toy Car Kit",
+          "url": "https://kenney.nl/assets/toy-car-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-064",
+          "title": "3D Vehicles Pack (4 cars)",
+          "url": "https://opengameart.org/content/3d-vehicles-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-092",
+      "name_ru": "Автобус",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/092.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-051",
+          "title": "Public Transport Pack",
+          "url": "https://quaternius.com/packs/publictransport.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-023",
+          "title": "Car Kit",
+          "url": "https://kenney.nl/assets/car-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-050",
+          "title": "Cars Pack",
+          "url": "https://quaternius.com/packs/cars.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-065",
+          "title": "3D Vehicles Pack (bus)",
+          "url": "https://opengameart.org/content/3d-vehicles-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 1,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-093",
+      "name_ru": "Грузовик",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/093.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-051",
+          "title": "Public Transport Pack",
+          "url": "https://quaternius.com/packs/publictransport.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-023",
+          "title": "Car Kit",
+          "url": "https://kenney.nl/assets/car-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-050",
+          "title": "Cars Pack",
+          "url": "https://quaternius.com/packs/cars.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-066",
+          "title": "3D Vehicles Pack (5 trucks)",
+          "url": "https://opengameart.org/content/3d-vehicles-pack",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-067",
+          "title": "Semi-Trailer Truck (lowpoly)",
+          "url": "https://opengameart.org/content/semi-trailer-truck-lowpoly",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-068",
+          "title": "Mac Truck",
+          "url": "https://opengameart.org/content/mac-truck",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-094",
+      "name_ru": "Мотоцикл",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/094.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-023",
+          "title": "Car Kit",
+          "url": "https://kenney.nl/assets/car-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-050",
+          "title": "Cars Pack",
+          "url": "https://quaternius.com/packs/cars.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-024",
+          "title": "Racing Kit",
+          "url": "https://kenney.nl/assets/racing-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-095",
+      "name_ru": "Поезд",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/095.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-025",
+          "title": "Train Kit",
+          "url": "https://kenney.nl/assets/train-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-084",
+          "title": "Modular Train Pack",
+          "url": "https://quaternius.com/packs/modulartrain.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-051",
+          "title": "Public Transport Pack",
+          "url": "https://quaternius.com/packs/publictransport.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-096",
+      "name_ru": "Лодка",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/096.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-026",
+          "title": "Pirate Kit",
+          "url": "https://kenney.nl/assets/pirate-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-083",
+          "title": "Ships Pack",
+          "url": "https://quaternius.com/packs/ships.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-051",
+          "title": "Public Transport Pack",
+          "url": "https://quaternius.com/packs/publictransport.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-069",
+          "title": "Watercraft Kit (boats)",
+          "url": "https://opengameart.org/content/watercraft-kit",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-070",
+          "title": "Fishing Boat",
+          "url": "https://opengameart.org/content/fishing-boat-low-poly",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-071",
+          "title": "Medieval Boat",
+          "url": "https://opengameart.org/content/medieval-boat",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-097",
+      "name_ru": "Самолёт",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/097.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-051",
+          "title": "Public Transport Pack",
+          "url": "https://quaternius.com/packs/publictransport.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-019",
+          "title": "Space Kit",
+          "url": "https://kenney.nl/assets/space-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-062",
+          "title": "Ultimate Spaceships Pack",
+          "url": "https://quaternius.com/packs/ultimatespaceships.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-072",
+          "title": "Low poly cartoon plane",
+          "url": "https://opengameart.org/content/low-poly-cartoon-plane",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-073",
+          "title": "Light aircraft",
+          "url": "https://opengameart.org/content/light-aircraft",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 2,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-098",
+      "name_ru": "Космический корабль",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/098.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-062",
+          "title": "Ultimate Spaceships Pack",
+          "url": "https://quaternius.com/packs/ultimatespaceships.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-100",
+          "title": "Spaceships Pack",
+          "url": "https://quaternius.com/packs/spaceships.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-019",
+          "title": "Space Kit",
+          "url": "https://kenney.nl/assets/space-kit",
+          "source": "Kenney",
+          "license": "CC0",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-099",
+      "name_ru": "Робот",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/099.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-069",
+          "title": "Animated Robot Pack",
+          "url": "https://quaternius.com/packs/animatedrobot.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-068",
+          "title": "Animated Mech Pack",
+          "url": "https://quaternius.com/packs/animatedmech.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-070",
+          "title": "Animated Alien Pack",
+          "url": "https://quaternius.com/packs/animatedalien.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [
+        {
+          "id": "EX-074",
+          "title": "Robot Character",
+          "url": "https://opengameart.org/content/robot-character",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-075",
+          "title": "Robot pack 3D (2 models)",
+          "url": "https://opengameart.org/content/robot-pack-3d",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "PACK_CONTENTS_STATED",
+          "unity_tested": false
+        },
+        {
+          "id": "EX-076",
+          "title": "Shamgar animated robot",
+          "url": "https://opengameart.org/content/shamgar-the-killer-robot",
+          "license": "CC0",
+          "source": "OpenGameArt",
+          "match_type": "MODEL_PAGE",
+          "unity_tested": false
+        }
+      ],
+      "exact_page_count": 3,
+      "discovery_status": "EXACT_PAGE_FOUND",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    },
+    {
+      "task_id": "C002-100",
+      "name_ru": "Боевой мех",
+      "category": "Транспорт и роботы",
+      "card": "Catalog/ObjectTypes/100.md",
+      "candidate_packs": [
+        {
+          "asset_id": "3D-068",
+          "title": "Animated Mech Pack",
+          "url": "https://quaternius.com/packs/animatedmech.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-069",
+          "title": "Animated Robot Pack",
+          "url": "https://quaternius.com/packs/animatedrobot.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        },
+        {
+          "asset_id": "3D-070",
+          "title": "Animated Alien Pack",
+          "url": "https://quaternius.com/packs/animatedalien.html",
+          "source": "Quaternius",
+          "license": "QAL*",
+          "free_version": true,
+          "contains_exact_item_confirmed": false
+        }
+      ],
+      "verified_item_pages": [],
+      "exact_page_count": 0,
+      "discovery_status": "PACK_CANDIDATES_ONLY",
+      "archive_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED"
+    }
+  ]
+}
