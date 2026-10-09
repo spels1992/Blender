@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-09",
+  "source_pages": 10,
+  "exact_bytes_total": null,
+  "measured_file_count": 0,
+  "base_audit_count": 769,
+  "base_audit_unchanged": true,
+  "global_deduplicated_count": null,
+  "entries": [
+    {
+      "url": "https://opengameart.org/content/locomotive-1",
+      "download_size_bytes": null,
+      "publisher_stated_size": "3.5 Mb",
+      "size_status": "PUBLISHER_STATED",
+      "size_source": "https://opengameart.org/content/locomotive-1",
+      "download_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/backrooms-builder-kit",
+      "download_size_bytes": null,
+      "publisher_stated_size": "24.2 Mb",
+      "size_status": "PUBLISHER_STATED",
+      "size_source": "https://opengameart.org/content/backrooms-builder-kit",
+      "download_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-world-tiles",
+      "download_size_bytes": null,
+      "publisher_stated_size": "22.7 Kb",
+      "size_status": "PUBLISHER_STATED",
+      "size_source": "https://opengameart.org/content/isometric-world-tiles",
+      "download_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/pixel-art-isometric-tank",
+      "download_size_bytes": null,
+      "publisher_stated_size": "1.1 Kb",
+      "size_status": "PUBLISHER_STATED",
+      "size_source": "https://opengameart.org/content/pixel-art-isometric-tank",
+      "download_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/oga-sara-16x16-1bit-color",
+      "download_size_bytes": null,
+      "publisher_stated_size": "3.5 Kb",
+      "size_status": "PUBLISHER_STATED",
+      "size_source": "https://opengameart.org/content/oga-sara-16x16-1bit-color",
+      "download_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/red-spikes",
+      "download_size_bytes": null,
+      "publisher_stated_size": "661 b",
+      "size_status": "PUBLISHER_STATED",
+      "size_source": "https://opengameart.org/content/red-spikes",
+      "download_tested": false
+    },
+    {
+      "url": "https://3dtextures.me/2026/09/14/terracotta-floor-tiles-009/",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "size_source": null,
+      "download_tested": false
+    },
+    {
+      "url": "https://3dtextures.me/2026/05/27/glass-frosted-003-free-seamless-pbr-texture/",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "size_source": null,
+      "download_tested": false
+    },
+    {
+      "url": "https://www.texturecan.com/details/287/",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "size_source": null,
+      "download_tested": false
+    },
+    {
+      "url": "https://www.texturecan.com/details/238/",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "size_source": null,
+      "download_tested": false
+    }
+  ]
+}
