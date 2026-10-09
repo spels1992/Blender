@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "updated": "2026-10-09",
   "source_policy": "100% no-cost and commercial rights claimed on publisher pages, all original licenses must be checked before use",
-  "verification": "Source pages only: 0 downloaded asset archive QA, 0 Unity or Blender asset import tests in these research cycles.",
+  "verification": "Page research only; zero asset file or Unity/Blender test passes.",
   "stats": {
-    "total_source_references": 599,
-    "unique_source_pages": 491,
+    "total_source_references": 660,
+    "unique_source_pages": 552,
     "duplicate_page_references": 108,
     "cycle_001_source_packs": 100,
     "cycle_002_source_entries": 176,
@@ -20,7 +20,13 @@
       "2.5D",
       "2D"
     ],
-    "cycle_h6_new_exact_pages": 14
+    "cycle_h6_new_exact_pages": 14,
+    "popular_rescan_new_pages": 61,
+    "popular_rescan_by_modality": {
+      "2D": 34,
+      "2.5D": 10,
+      "3D": 17
+    }
   },
   "sources": [
     {
@@ -12080,6 +12086,1470 @@
       "download_tested": false,
       "blender_tested": false,
       "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/roguelike-characters",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Roguelike Characters",
+          "category": "CHARACTERS",
+          "record": "POPULAR-20261009-001",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/rpg-base",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "RPG Base",
+          "category": "RPG_TILES",
+          "record": "POPULAR-20261009-002",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/space-shooter-remastered",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Space Shooter Remastered",
+          "category": "SPACESHIPS",
+          "record": "POPULAR-20261009-003",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/space-shooter-extension",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Space Shooter Extension",
+          "category": "SPACESHIPS",
+          "record": "POPULAR-20261009-004",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/monochrome-rpg",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Monochrome RPG",
+          "category": "RPG_TILES",
+          "record": "POPULAR-20261009-005",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/desert-shooter-pack",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Desert Shooter Pack",
+          "category": "SHOOTER_TILES",
+          "record": "POPULAR-20261009-006",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/top-down-shooter",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Top-down Shooter",
+          "category": "ZOMBIES_SHOOTER",
+          "record": "POPULAR-20261009-007",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/tiny-town",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Tiny Town",
+          "category": "TOWN",
+          "record": "POPULAR-20261009-008",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/isometric-tiles-city",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Isometric Tiles City",
+          "category": "CITY",
+          "record": "POPULAR-20261009-009",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/roguelike-rpg-pack",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Roguelike RPG pack",
+          "category": "RPG_OBJECTS",
+          "record": "POPULAR-20261009-010",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/roguelike-indoors",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Roguelike Indoors",
+          "category": "FURNITURE",
+          "record": "POPULAR-20261009-011",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/rpg-urban-pack",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "RPG Urban Pack",
+          "category": "CITY",
+          "record": "POPULAR-20261009-012",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/scribble-dungeons",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Scribble Dungeons",
+          "category": "DUNGEONS",
+          "record": "POPULAR-20261009-013",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/block-pack",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Block Pack",
+          "category": "TERRAIN",
+          "record": "POPULAR-20261009-014",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/crosshair-pack",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Crosshair Pack",
+          "category": "UI",
+          "record": "POPULAR-20261009-015",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/pixel-platformer-farm-expansion",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Pixel Platformer Farm Expansion",
+          "category": "FARM",
+          "record": "POPULAR-20261009-016",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/platformer-pack-medieval",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Platformer Pack Medieval",
+          "category": "CASTLE",
+          "record": "POPULAR-20261009-017",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/platformer-pack-industrial",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Platformer Pack Industrial",
+          "category": "INDUSTRY",
+          "record": "POPULAR-20261009-018",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/medieval-rts",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Medieval RTS",
+          "category": "BUILDINGS",
+          "record": "POPULAR-20261009-019",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/sketch-town-expansion",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Sketch Town Expansion",
+          "category": "TOWN",
+          "record": "POPULAR-20261009-020",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/fantasy-ui-borders",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Fantasy UI Borders",
+          "category": "UI",
+          "record": "POPULAR-20261009-021",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/furniture-kit",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Furniture Kit",
+          "category": "FURNITURE",
+          "record": "POPULAR-20261009-022",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/tower-defense-kit",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Tower Defense Kit",
+          "category": "DEFENSE",
+          "record": "POPULAR-20261009-023",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://kenney.nl/assets/castle-kit",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Castle Kit",
+          "category": "CASTLE",
+          "record": "POPULAR-20261009-024",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/zombie-rpg-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Zombie RPG sprites",
+          "category": "ZOMBIES",
+          "record": "POPULAR-20261009-025",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/128x128-2d-zombies-spritesheet",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "128x128 2D Zombies Spritesheet",
+          "category": "ZOMBIES",
+          "record": "POPULAR-20261009-026",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-buildings-2",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Isometric buildings",
+          "category": "BUILDINGS",
+          "record": "POPULAR-20261009-027",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-trees-1",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Isometric trees",
+          "category": "TREES",
+          "record": "POPULAR-20261009-028",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/free-isometric-plants-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Free isometric plants pack",
+          "category": "PLANTS",
+          "record": "POPULAR-20261009-029",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/stylized-grassland-tileset",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Stylized grassland tileset",
+          "category": "TERRAIN",
+          "record": "POPULAR-20261009-030",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-medieval-buildings-2",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Isometric medieval buildings 2",
+          "category": "BUILDINGS",
+          "record": "POPULAR-20261009-031",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-furniture",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Isometric furniture",
+          "category": "FURNITURE",
+          "record": "POPULAR-20261009-032",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-furniture-and-walls",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Isometric furniture and walls",
+          "category": "FURNITURE",
+          "record": "POPULAR-20261009-033",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/medieval-stable-isometric-25d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Medieval Stable",
+          "category": "BUILDINGS",
+          "record": "POPULAR-20261009-034",
+          "representation": "2.5D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/cars-top-down-view",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Cars Top Down View",
+          "category": "CARS",
+          "record": "POPULAR-20261009-035",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/top-down-cars-0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Top Down Cars",
+          "category": "CARS",
+          "record": "POPULAR-20261009-036",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/topdowncarspecialedition",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "TopDownCar Special Edition",
+          "category": "CARS",
+          "record": "POPULAR-20261009-037",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/top-down-f1-cars",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Top Down F1 Cars",
+          "category": "CARS",
+          "record": "POPULAR-20261009-038",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/car-frames",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Car frames",
+          "category": "CARS",
+          "record": "POPULAR-20261009-039",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/top-down-sports-car-sprite",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Top-down sports car sprite",
+          "category": "CARS",
+          "record": "POPULAR-20261009-040",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/pixel-horse",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Pixel horse",
+          "category": "HORSES",
+          "record": "POPULAR-20261009-041",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/swords-cc0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Swords CC0",
+          "category": "WEAPONS",
+          "record": "POPULAR-20261009-042",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/pixel-art-brick-tiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Pixel Art Brick Tiles",
+          "category": "BRICKS",
+          "record": "POPULAR-20261009-043",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/block-tiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Block Tiles",
+          "category": "BRICKS",
+          "record": "POPULAR-20261009-044",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/sky-clouds",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Sky Clouds",
+          "category": "CLOUDS",
+          "record": "POPULAR-20261009-045",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/medieval-weapon-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Medieval Weapon Pack",
+          "category": "WEAPONS",
+          "record": "POPULAR-20261009-046",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/medieval-weapon-set",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Medieval Weapon set",
+          "category": "WEAPONS",
+          "record": "POPULAR-20261009-047",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/cethiels-weapons-3d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Cethiels Weapons 3D",
+          "category": "WEAPONS",
+          "record": "POPULAR-20261009-048",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/robot-enemy-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Robot Enemy Pack",
+          "category": "ROBOTS",
+          "record": "POPULAR-20261009-049",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/wolf-low-poly-rigged",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Wolf Low Poly",
+          "category": "WOLVES",
+          "record": "POPULAR-20261009-050",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/big-low-poly-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Big Low Poly Pack",
+          "category": "NATURE",
+          "record": "POPULAR-20261009-051",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/low-poly-tree-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Low Poly Tree Pack",
+          "category": "TREES",
+          "record": "POPULAR-20261009-052",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/free-vegetation-asset-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Free vegetation asset pack",
+          "category": "PLANTS",
+          "record": "POPULAR-20261009-053",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/3td-africa-savanna-pack-v10",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "3TD Africa Savanna Pack",
+          "category": "NATURE",
+          "record": "POPULAR-20261009-054",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/3td-starter-pack-1",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "3TD Starter Pack 1",
+          "category": "NATURE",
+          "record": "POPULAR-20261009-055",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/public-domain-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Public Domain Pack",
+          "category": "ANIMALS",
+          "record": "POPULAR-20261009-056",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/background-elements",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Background Elements",
+          "category": "BACKGROUND",
+          "record": "POPULAR-20261009-057",
+          "representation": "2D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/3d-nature-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "3D Nature Pack",
+          "category": "NATURE",
+          "record": "POPULAR-20261009-058",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/fantasy-props-megakit",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Fantasy Props MegaKit",
+          "category": "PROPS",
+          "record": "POPULAR-20261009-059",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/universal-animation-library",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Universal Animation Library",
+          "category": "ANIMATION",
+          "record": "POPULAR-20261009-060",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/sci-fi-essentials-kit",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009",
+          "title": "Sci-Fi Essentials Kit",
+          "category": "SCIFI",
+          "record": "POPULAR-20261009-061",
+          "representation": "3D",
+          "match": "SOURCE_PAGE_NOT_ARCHIVE_PROVEN",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
     }
   ],
   "classification_caution": "2D isometric sprites are 2.5D visual assets, not true 3D geometry. Source pages are not downloads or independent model counts."
