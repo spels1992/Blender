@@ -59,8 +59,9 @@
     },
     {
       "id": "H7-006",
-      "goal": "Consolidate H6 overlay into primary indexes after conflict-safe merge; continue research after minimum",
+      "goal": "Reconcile remaining 79 older overlay URLs into primary indexes without double counting; continue open-ended research",
       "status": "OPEN"
     }
-  ]
+  ],
+  "main_indexes_h6_merged": true
 }
