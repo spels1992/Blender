@@ -14784,6 +14784,86 @@
       "unity_tested": false,
       "derivative_or_related": null,
       "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/locomotive-1",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Fictional locomotive",
+          "category": "3D",
+          "record": "H8-20261009-003",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/backrooms-builder-kit",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Backrooms modular builder kit",
+          "category": "3D",
+          "record": "H8-20261009-004",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-world-tiles",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Isometric world tiles",
+          "category": "2.5D",
+          "record": "H8-20261009-007",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/pixel-art-isometric-tank",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Pixel art isometric tank",
+          "category": "2.5D",
+          "record": "H8-20261009-008",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
     }
   ],
   "classification_caution": "2D isometric sprites are 2.5D visual assets, not true 3D geometry. Source pages are not downloads or independent model counts."
