@@ -1,0 +1,90 @@
+{
+  "checkpoint": "H10-20261009",
+  "repository": "spels1992/Blender",
+  "source_page_only": true,
+  "items": [
+    {
+      "resource_id": "H10-2D-001",
+      "title": "OGA Sara 16x16 1bit & Color",
+      "category": "2D",
+      "subcategory": "animated character spritesheet",
+      "representation": "2D",
+      "style": "pixel art",
+      "genres": [
+        "universal"
+      ],
+      "source_url": "https://opengameart.org/content/oga-sara-16x16-1bit-color",
+      "author": "nightgane",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_allowed": true,
+      "attribution": "not required",
+      "free_download_url": "https://opengameart.org/content/oga-sara-16x16-1bit-color",
+      "files_and_formats": [
+        "PNG"
+      ],
+      "source_page_verified": true,
+      "exact_item_evidence": "Author lists walk/jump/attack/emotion/death sprites, 16x16",
+      "pack_contents_count": null,
+      "exact_variant_count": null,
+      "license_review": "SOURCE_STATED_CC0",
+      "found_on": "2026-10-09",
+      "duplicate_of": null,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "blender_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED",
+      "download_size_bytes": null,
+      "publisher_stated_size": "3.5 Kb (rounded)",
+      "size_source": "https://opengameart.org/content/oga-sara-16x16-1bit-color",
+      "size_verified_on": "2026-10-09",
+      "size_status": "PUBLISHER_STATED",
+      "download_variants": [],
+      "notes": "Original page lists single spritesheet; frame count unverified."
+    },
+    {
+      "resource_id": "H10-2D-002",
+      "title": "Red Spikes",
+      "category": "2D",
+      "subcategory": "animated hazard sprite sheet",
+      "representation": "2D",
+      "style": "pixel art",
+      "genres": [
+        "universal"
+      ],
+      "source_url": "https://opengameart.org/content/red-spikes",
+      "author": "MrOnion",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_allowed": true,
+      "attribution": "not required",
+      "free_download_url": "https://opengameart.org/content/red-spikes",
+      "files_and_formats": [
+        "PNG"
+      ],
+      "source_page_verified": true,
+      "exact_item_evidence": "Author describes two animated red spikes",
+      "pack_contents_count": null,
+      "exact_variant_count": null,
+      "license_review": "SOURCE_STATED_CC0",
+      "found_on": "2026-10-09",
+      "duplicate_of": null,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "blender_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED",
+      "download_size_bytes": null,
+      "publisher_stated_size": "661 b (publisher label; byte count NOT independently measured)",
+      "size_source": "https://opengameart.org/content/red-spikes",
+      "size_verified_on": "2026-10-09",
+      "size_status": "PUBLISHER_STATED",
+      "download_variants": [],
+      "notes": "Do not set download_size_bytes=661 without confirmed CDN content-length."
+    }
+  ],
+  "unique_source_pages": 2,
+  "measured_download_bytes": null,
+  "all_blender_unity_tests": "NOT_TESTED"
+}
