@@ -105,5 +105,5 @@
 ## 2026-10-09 — H6 source research
 - Added 20 exact CC0 source pages: 6 2D effects/sprite packs, 1 isometric vehicle sprites pack, 7 3D vehicle/spaceship pages, 6 grass/cloud/PBR material pages.
 - New cards: `Research/C006/H6_20261009_2D_VFX.md`, `Research/C006/H6_20261009_3D_VEHICLES.md`, `Materials/H6_20261009_GRASS_CLOUDS_ROOF_RUST.md`.
-- Size audit: `Catalog/H6_20261009_SIZE_AUDIT.md`. All 20 have publisher-listed rounded attachment sizes; 0 verified exact byte counts. 602 pre-existing unknown sizes unresolved. Provisional unique page count 738 (718 previous + 20 H6), pending full machine consolidation.
+- Size audit: `Catalog/H6_20261009_SIZE_AUDIT.md`. All 20 have publisher-listed rounded attachment sizes; 0 verified exact byte counts. 602 pre-existing unknown sizes unresolved. Provisional unique page count 738 (718 previous + 20 H6), main indexes merged: master 491, materials 168, audit base 659; logical overlays 738.
 - No archives downloaded, no Blender/Unity import tests; 0 new PASS. Source-page counts do not equal independent meshes. Continue open-ended research and merge index overlays.
