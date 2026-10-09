@@ -1,0 +1,51 @@
+{
+  "checkpoint": "H10-20261009",
+  "repository": "spels1992/Blender",
+  "source_page_only": true,
+  "items": [
+    {
+      "resource_id": "H10-25D-001",
+      "title": "Isometric Cube Tiles",
+      "category": "2.5D",
+      "subcategory": "roads paths trees tileset",
+      "representation": "2.5D",
+      "style": "isometric",
+      "genres": [
+        "universal"
+      ],
+      "source_url": "https://opengameart.org/content/isometric-cube-tiles",
+      "author": "William",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_allowed": true,
+      "attribution": "not required",
+      "free_download_url": "https://opengameart.org/content/isometric-cube-tiles",
+      "files_and_formats": [
+        "ZIP",
+        "tile images internal formats NOT_CHECKED"
+      ],
+      "source_page_verified": true,
+      "exact_item_evidence": "Author states 4 base tiles, 34 roads/path tiles, four tree designs in three colors",
+      "pack_contents_count": null,
+      "exact_variant_count": null,
+      "license_review": "SOURCE_STATED_CC0",
+      "found_on": "2026-10-09",
+      "duplicate_of": null,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "blender_test_status": "NOT_TESTED",
+      "unity_test_status": "NOT_TESTED",
+      "download_size_bytes": null,
+      "publisher_stated_size": "625.7 Kb (rounded)",
+      "size_source": "https://opengameart.org/content/isometric-cube-tiles",
+      "size_verified_on": "2026-10-09",
+      "size_status": "PUBLISHER_STATED",
+      "download_variants": [],
+      "notes": "Exact pack variant count not established by downloading."
+    }
+  ],
+  "unique_source_pages": 1,
+  "measured_download_bytes": null,
+  "all_blender_unity_tests": "NOT_TESTED"
+}
