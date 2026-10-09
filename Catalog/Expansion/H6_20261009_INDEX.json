@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "unique_pages": 20,
+  "license": "CC0-1.0",
+  "source_evidence": "exact publisher asset pages",
+  "all_download_size_bytes": null,
+  "engine_test_pass": 0,
+  "source_cards": [
+    "Research/C006/H6_20261009_2D_VFX.md",
+    "Research/C006/H6_20261009_3D_VEHICLES.md",
+    "Materials/H6_20261009_GRASS_CLOUDS_ROOF_RUST.md"
+  ],
+  "entries": [
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/energy-sprite-sheets"
+    },
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/explosion-spritesheet-low-res"
+    },
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/plasma-electric-effect-animations"
+    },
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/16x16-explosion"
+    },
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/70-animated-2d-game-effects"
+    },
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/sideview-sci-fi-patreon-collection"
+    },
+    {
+      "representation": "2.5D",
+      "url": "https://opengameart.org/content/isometric-vehicles"
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/3d-spaceship"
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/3d-car-low-poly-free"
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/low-poly-vehicles-pack"
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/3d-lowpoly-spaceships-and-components"
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/low-poly-car-3"
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/3d-car-0"
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/low-poly-spaceship-0"
+    },
+    {
+      "representation": "TEXTURE",
+      "url": "https://opengameart.org/content/seamless-grass-texture-1"
+    },
+    {
+      "representation": "TEXTURE",
+      "url": "https://opengameart.org/content/2-seamless-grass-textures"
+    },
+    {
+      "representation": "TEXTURE",
+      "url": "https://opengameart.org/content/clouds-with-transparency"
+    },
+    {
+      "representation": "PBR",
+      "url": "https://polyhaven.com/a/roof_07"
+    },
+    {
+      "representation": "PBR",
+      "url": "https://polyhaven.com/a/roof_planks"
+    },
+    {
+      "representation": "PBR",
+      "url": "https://polyhaven.com/a/rust_coarse_01"
+    }
+  ]
+}
