@@ -1,0 +1,32 @@
+{
+  "checkpoint": "H10-20261009",
+  "resource_count": 8,
+  "download_size_bytes_verified_count": 0,
+  "publisher_stated_label_count": 7,
+  "unknown_publisher_size_count": 1,
+  "known_exact_total_bytes": null,
+  "overall_size_estimate_status": "UNKNOWN",
+  "source_cards": [
+    {
+      "category": "3D",
+      "path": "Catalog/Expansion/H10_20261009_3D_FARM_MEDICAL.json",
+      "count": 3
+    },
+    {
+      "category": "2D",
+      "path": "Catalog/Expansion/H10_20261009_2D_ANIMATIONS.json",
+      "count": 2
+    },
+    {
+      "category": "2.5D",
+      "path": "Catalog/Expansion/H10_20261009_ISOMETRIC.json",
+      "count": 1
+    },
+    {
+      "category": "TEXTURE",
+      "path": "Materials/H10_20261009_HDRI_BARK.json",
+      "count": 2
+    }
+  ],
+  "note": "All per-source download_size_bytes=null; publisher labels not measured; no archive downloads."
+}
