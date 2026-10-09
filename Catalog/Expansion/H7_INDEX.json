@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "status": "PUBLISHER_PAGES_ONLY",
+  "publisher_sites_visited": 6,
+  "unique_new_source_pages": 38,
+  "breakdown": {
+    "3D": 10,
+    "2.5D": 6,
+    "2D": 12,
+    "TEXTURE_PBR_HDRI": 10
+  },
+  "sources": [
+    "Catalog/Expansion/H7_20261009_3D_CC0.json",
+    "Catalog/Expansion/H7_20261009_2D_CC0.json",
+    "Research/C006/H7_20261009_ISOMETRIC_BRIEF.md",
+    "Research/C006/H7_20261009_ISOMETRIC_OVERWORLD.md",
+    "Materials/H7_20261009_HDRI_API_EXACT_BYTES.json",
+    "Materials/H7_20261009_FABRIC_BRIEF.md",
+    "Materials/H7_20261009_MIXED_TEXTURE_SOURCES.md"
+  ],
+  "size_audit": [
+    "Catalog/Expansion/H7_SIZE_DELTA_01.md",
+    "Catalog/Expansion/H7_SIZE_DELTA_02.json",
+    "Catalog/Expansion/H7_SIZE_DELTA_03.json",
+    "Catalog/Expansion/H7_SIZE_DELTA_04.json"
+  ],
+  "size_stats": {
+    "base_audit_pages": 769,
+    "new_pages": 38,
+    "base_plus_h7_unique_urls": 807,
+    "publisher_stated_size_pages": 170,
+    "unknown_size_pages": 637,
+    "exact_publisher_api_byte_pages": 3,
+    "selected_1k_hdri_total_publisher_bytes": 3872602,
+    "full_collection_download_size_bytes": null
+  },
+  "independent_mesh_count": null,
+  "blender_pass": 0,
+  "unity_pass": 0,
+  "progress": "Research/C006/H7_PROGRESS_20261009.md",
+  "next_queue": "Research/C006/H8_QUEUE.md",
+  "caveat": "807 is union of base audit plus H7 only; older overlays may add further distinct pages. No archives downloaded. Main indexes pending reconciliation."
+}
