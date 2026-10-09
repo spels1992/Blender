@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "checkpoint": "Research/C006/H5_PROGRESS_20261009.md",
+  "status": "OPEN_ENDED",
+  "last_verified_source_count": 718,
+  "minimum_per_type": 3,
+  "maximum_per_type": null,
+  "continue_after_minimum": true,
+  "next_tasks": [
+    {
+      "id": "H6-001",
+      "type": "2D_VFX",
+      "goal": "Find and record additional distinct CC0 2D particle and animation pages; retry sources not committed in H5",
+      "status": "OPEN"
+    },
+    {
+      "id": "H6-002",
+      "type": "3D_2_5D",
+      "goal": "Broaden vehicles, voxel and isometric categories across independent authors and styles; dedupe meshes and pages",
+      "status": "OPEN"
+    },
+    {
+      "id": "H6-003",
+      "type": "TEXTURES",
+      "goal": "Expand grass, bark, fur surface vs groom geometry, clouds, water, brick, roof and procedural materials",
+      "status": "OPEN"
+    },
+    {
+      "id": "H6-004",
+      "type": "SIZE_AUDIT",
+      "goal": "Resolve 602 pages without published download size; record exact bytes only after real measurement",
+      "status": "OPEN"
+    },
+    {
+      "id": "H6-005",
+      "type": "CONSOLIDATION",
+      "goal": "Merge delta cards into primary indexes when writes permit, preserve source-level provenance and all historic entries",
+      "status": "OPEN"
+    }
+  ]
+}
