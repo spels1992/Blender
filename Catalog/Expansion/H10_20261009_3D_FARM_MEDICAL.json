@@ -1,0 +1,141 @@
+{
+  "checkpoint": "H10-20261009",
+  "repository": "spels1992/Blender",
+  "scope": "source-page research only",
+  "created_at": "2026-10-09",
+  "new_exact_source_pages": 3,
+  "items": [
+    {
+      "resource_id": "H10-3D-001",
+      "title": "FARM voxel starter assets",
+      "category": "3D",
+      "subcategory": "voxel farm environment",
+      "representation": "3D/voxel",
+      "style": "voxel",
+      "genres": [
+        "farming",
+        "simulation",
+        "strategy"
+      ],
+      "source_url": "https://opengameart.org/content/farm-1",
+      "author": "Tribus Games Indie",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_allowed": true,
+      "attribution": "not required",
+      "free_download_url": "https://opengameart.org/content/farm-1",
+      "files_and_formats": [
+        "ZIP",
+        "voxel assets; internal formats NOT_CHECKED"
+      ],
+      "source_page_verified": true,
+      "exact_item_evidence": "publisher page lists BASIC_FARM.zip; archive contents NOT_CHECKED",
+      "pack_contents_count": null,
+      "exact_variant_count": null,
+      "license_review": "SOURCE_STATED_CC0",
+      "found_on": "2026-10-09",
+      "duplicate_of": null,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "download_size_bytes": null,
+      "publisher_stated_size": "3 Mb (rounded)",
+      "size_source": "https://opengameart.org/content/farm-1",
+      "size_verified_on": "2026-10-09",
+      "size_status": "PUBLISHER_STATED",
+      "download_variants": [],
+      "notes": "Free MagicaVoxel-style farm set. Do not claim item counts or file compatibility before downloading."
+    },
+    {
+      "resource_id": "H10-3D-002",
+      "title": "Low Poly 3D pig",
+      "category": "3D",
+      "subcategory": "animal pig",
+      "representation": "3D",
+      "style": "low-poly",
+      "genres": [
+        "farming",
+        "survival",
+        "simulation"
+      ],
+      "source_url": "https://opengameart.org/content/low-poly-3d-pig",
+      "author": "Penumbra Games",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_allowed": true,
+      "attribution": "not required; appreciated",
+      "free_download_url": "https://opengameart.org/content/low-poly-3d-pig",
+      "files_and_formats": [
+        "BLEND"
+      ],
+      "source_page_verified": true,
+      "exact_item_evidence": "publisher lists Pig.blend; no import test",
+      "pack_contents_count": 1,
+      "exact_variant_count": 1,
+      "license_review": "SOURCE_STATED_CC0",
+      "found_on": "2026-10-09",
+      "duplicate_of": null,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "download_size_bytes": null,
+      "publisher_stated_size": "527 Kb (rounded)",
+      "size_source": "https://opengameart.org/content/low-poly-3d-pig",
+      "size_verified_on": "2026-10-09",
+      "size_status": "PUBLISHER_STATED",
+      "download_variants": [],
+      "notes": "Individual original pig mesh; not to be conflated with other pig assets."
+    },
+    {
+      "resource_id": "H10-3D-003",
+      "title": "Sign Hospital",
+      "category": "3D",
+      "subcategory": "hospital signage",
+      "representation": "3D",
+      "style": "low-poly",
+      "genres": [
+        "simulation",
+        "city-building",
+        "education"
+      ],
+      "source_url": "https://poly.pizza/m/PeM20xAT0V",
+      "author": "Kenney",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_allowed": true,
+      "attribution": "not required",
+      "free_download_url": "https://poly.pizza/m/PeM20xAT0V",
+      "files_and_formats": [
+        "OBJ",
+        "glTF"
+      ],
+      "source_page_verified": true,
+      "exact_item_evidence": "individual item page and OBJ/GLTF formats",
+      "pack_contents_count": 1,
+      "exact_variant_count": 1,
+      "license_review": "SOURCE_STATED_CC0",
+      "found_on": "2026-10-09",
+      "duplicate_of": null,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_source": null,
+      "size_verified_on": null,
+      "size_status": "UNKNOWN",
+      "download_variants": [],
+      "notes": "Individual model; appears in Kenney City Kit bundle; count once across bundles and item pages."
+    }
+  ],
+  "download_size_audit": {
+    "measured_byte_sizes": 0,
+    "publisher_rounded": 2,
+    "unknown": 1,
+    "total_bytes": null
+  },
+  "tests": {
+    "blender": "NOT_TESTED",
+    "unity": "NOT_TESTED"
+  }
+}
