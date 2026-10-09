@@ -1,0 +1,39 @@
+{
+  "checkpoint": "H10-20261009",
+  "kind": "delta_index",
+  "source_pages_saved": 8,
+  "modalities": {
+    "three_d": 3,
+    "two_point_five_d": 1,
+    "two_d": 2,
+    "textures_hdris": 2
+  },
+  "files": [
+    {
+      "category": "3D",
+      "path": "Catalog/Expansion/H10_20261009_3D_FARM_MEDICAL.json",
+      "count": 3
+    },
+    {
+      "category": "2D",
+      "path": "Catalog/Expansion/H10_20261009_2D_ANIMATIONS.json",
+      "count": 2
+    },
+    {
+      "category": "2.5D",
+      "path": "Catalog/Expansion/H10_20261009_ISOMETRIC.json",
+      "count": 1
+    },
+    {
+      "category": "TEXTURE",
+      "path": "Materials/H10_20261009_HDRI_BARK.json",
+      "count": 2
+    }
+  ],
+  "base_master_index_updated": false,
+  "base_materials_index_updated": false,
+  "deduplication": "Checked against MASTER_SEARCH_INDEX and Materials INDEX and selected H7/H9 overlays; pack membership may overlap older catalog sources",
+  "total_download_bytes": null,
+  "tests": "NOT_TESTED",
+  "next": "merge delta after global dedup; continue all modalities"
+}
