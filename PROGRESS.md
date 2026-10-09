@@ -107,3 +107,9 @@
 - New cards: `Research/C006/H6_20261009_2D_VFX.md`, `Research/C006/H6_20261009_3D_VEHICLES.md`, `Materials/H6_20261009_GRASS_CLOUDS_ROOF_RUST.md`.
 - Size audit: `Catalog/H6_20261009_SIZE_AUDIT.md`. All 20 have publisher-listed rounded attachment sizes; 0 verified exact byte counts. 602 pre-existing unknown sizes unresolved. Provisional unique page count 738 (718 previous + 20 H6), main indexes merged: master 491, materials 168, audit base 659; logical overlays 738.
 - No archives downloaded, no Blender/Unity import tests; 0 new PASS. Source-page counts do not equal independent meshes. Continue open-ended research and merge index overlays.
+
+
+## 2026-10-09 — H16 recovery, full backup metadata persisted
+- Complete pending research metadata recovered and verified by GitHub readback. This is a research **queue**, not canonical adoption or editor PASS.
+- 23 records: `Catalog/Expansion/H16_PENDING_FULL_METADATA_20261009.json`; prior URL list: `Catalog/Expansion/H16_PENDING_RECOVERY_20261009.md`.
+- Need master index deduplication, individual license/dependency review and canonical card promotion. Exact sizes UNKNOWN/null; Unity/Blender editor NOT_TESTED; no large archives downloaded, no new costs.
