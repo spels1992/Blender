@@ -14864,6 +14864,86 @@
       "download_tested": false,
       "blender_tested": false,
       "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/oga-sara-16x16-1bit-color",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "OGA Sara 16x16 (1bit & Color)",
+          "category": "2D",
+          "record": "H8-20261009-010",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/red-spikes",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Red Spikes",
+          "category": "2D",
+          "record": "H8-20261009-011",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://3dtextures.me/2026/09/14/terracotta-floor-tiles-009/",
+      "source": "3dtextures.me",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Terracotta Floor Tiles 009",
+          "category": "TEXTURE",
+          "record": "H8-20261009-015",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://3dtextures.me/2026/05/27/glass-frosted-003-free-seamless-pbr-texture/",
+      "source": "3dtextures.me",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Glass Frosted 003",
+          "category": "TEXTURE",
+          "record": "H8-20261009-016",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
     }
   ],
   "classification_caution": "2D isometric sprites are 2.5D visual assets, not true 3D geometry. Source pages are not downloads or independent model counts."
