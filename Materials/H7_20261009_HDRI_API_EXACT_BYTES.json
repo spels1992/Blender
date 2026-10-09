@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-09",
+  "source_pages": [
+    {
+      "resource_id": "H7-HDRI-1",
+      "title": "Cloud Layers",
+      "source_url": "https://polyhaven.com/a/cloud_layers",
+      "author": "Greg Zaal",
+      "category": "HDRI",
+      "representation": "HDRI",
+      "license": "CC0",
+      "commercial_allowed": true,
+      "attribution": "NOT_REQUIRED",
+      "files_and_formats": [
+        "HDR",
+        "EXR"
+      ],
+      "selected_resolution": "1K",
+      "selected_format": "EXR",
+      "download_size_bytes": 1719529,
+      "size_source": "https://api.polyhaven.com/files/cloud_layers",
+      "size_status": "PUBLISHER_STATED",
+      "size_verified_on": "2026-10-09",
+      "source_page_verified": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "exact_variant_count": null
+    },
+    {
+      "resource_id": "H7-HDRI-2",
+      "title": "Farm Field Pure Sky",
+      "source_url": "https://polyhaven.com/a/farm_field_puresky",
+      "author": "Dimitrios Savva; Jarod Guest",
+      "category": "HDRI",
+      "representation": "HDRI",
+      "license": "CC0",
+      "commercial_allowed": true,
+      "attribution": "NOT_REQUIRED",
+      "files_and_formats": [
+        "HDR",
+        "EXR"
+      ],
+      "selected_resolution": "1K",
+      "selected_format": "HDR",
+      "download_size_bytes": 1341057,
+      "size_source": "https://api.polyhaven.com/files/farm_field_puresky",
+      "size_status": "PUBLISHER_STATED",
+      "size_verified_on": "2026-10-09",
+      "source_page_verified": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "exact_variant_count": null
+    },
+    {
+      "resource_id": "H7-HDRI-3",
+      "title": "Snow Field",
+      "source_url": "https://polyhaven.com/a/snow_field",
+      "author": "Sergej Majboroda",
+      "category": "HDRI",
+      "representation": "HDRI",
+      "license": "CC0",
+      "commercial_allowed": true,
+      "attribution": "NOT_REQUIRED",
+      "files_and_formats": [
+        "HDR",
+        "EXR"
+      ],
+      "selected_resolution": "1K",
+      "selected_format": "EXR",
+      "download_size_bytes": 812016,
+      "size_source": "https://api.polyhaven.com/files/snow_field",
+      "size_status": "PUBLISHER_STATED",
+      "size_verified_on": "2026-10-09",
+      "source_page_verified": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "exact_variant_count": null
+    }
+  ],
+  "measured_by_us": false,
+  "publisher_api_exact_sizes": true
+}
