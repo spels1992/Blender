@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-09",
+  "baseline": 769,
+  "entries": [
+    {
+      "id": "H7-MAT-003",
+      "url": "https://ambientcg.com/view?id=WoodSiding006",
+      "download_size_bytes": null,
+      "publisher_stated_size": "6 MB 1K JPG",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-MAT-007",
+      "url": "https://polyhaven.com/a/gingham_check",
+      "download_size_bytes": null,
+      "publisher_stated_size": "222.49 MB",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-MAT-008",
+      "url": "https://polyhaven.com/a/crepe_satin",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-MAT-009",
+      "url": "https://polyhaven.com/a/quatrefoil_jacquard_fabric",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-MAT-010",
+      "url": "https://opengameart.org/content/hdri-environment-maps",
+      "download_size_bytes": null,
+      "publisher_stated_size": "24.3 Mb",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-HDRI-1",
+      "url": "https://polyhaven.com/a/cloud_layers",
+      "download_size_bytes": 1719529,
+      "publisher_stated_size": "1K EXR",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-HDRI-2",
+      "url": "https://polyhaven.com/a/farm_field_puresky",
+      "download_size_bytes": 1341057,
+      "publisher_stated_size": "1K HDR",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-HDRI-3",
+      "url": "https://polyhaven.com/a/snow_field",
+      "download_size_bytes": 812016,
+      "publisher_stated_size": "1K EXR",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    }
+  ]
+}
