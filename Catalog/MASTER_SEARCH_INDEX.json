@@ -4,8 +4,8 @@
   "source_policy": "100% no-cost and commercial rights claimed on publisher pages, all original licenses must be checked before use",
   "verification": "Source pages only: 0 downloaded asset archive QA, 0 Unity or Blender asset import tests in these research cycles.",
   "stats": {
-    "total_source_references": 585,
-    "unique_source_pages": 477,
+    "total_source_references": 599,
+    "unique_source_pages": 491,
     "duplicate_page_references": 108,
     "cycle_001_source_packs": 100,
     "cycle_002_source_entries": 176,
@@ -19,7 +19,8 @@
       "3D",
       "2.5D",
       "2D"
-    ]
+    ],
+    "cycle_h6_new_exact_pages": 14
   },
   "sources": [
     {
@@ -11670,6 +11671,412 @@
       "publisher_stated_download_size_MB": 0.0036,
       "size_status": "PUBLISHER_STATED_ROUNDED_MB",
       "size_source": "https://opengameart.org/content/clouds-3",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/energy-sprite-sheets",
+      "source": "OpenGameArt",
+      "author": "fzeeshan",
+      "representation": "2D",
+      "asset_type": "VFX",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "3.2/2.3/5.2/2.1 Mb",
+      "size_source": "https://opengameart.org/content/energy-sprite-sheets",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/explosion-spritesheet-low-res",
+      "source": "OpenGameArt",
+      "author": "dirkwybe",
+      "representation": "2D",
+      "asset_type": "VFX",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "2.6/4.3/1.3/1.5/3.6 Mb",
+      "size_source": "https://opengameart.org/content/explosion-spritesheet-low-res",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/plasma-electric-effect-animations",
+      "source": "OpenGameArt",
+      "author": "Reactorcore",
+      "representation": "2D",
+      "asset_type": "VFX",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "2.7 Mb",
+      "size_source": "https://opengameart.org/content/plasma-electric-effect-animations",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/16x16-explosion",
+      "source": "OpenGameArt",
+      "author": "BitingChaos",
+      "representation": "2D",
+      "asset_type": "VFX",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "4.2 Kb",
+      "size_source": "https://opengameart.org/content/16x16-explosion",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/70-animated-2d-game-effects",
+      "source": "OpenGameArt",
+      "author": "IndieDevs",
+      "representation": "2D",
+      "asset_type": "VFX",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "33.1 Mb",
+      "size_source": "https://opengameart.org/content/70-animated-2d-game-effects",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/sideview-sci-fi-patreon-collection",
+      "source": "OpenGameArt",
+      "author": "ansimuz",
+      "representation": "2D",
+      "asset_type": "SPRITES_TILESETS",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "2.5 Mb",
+      "size_source": "https://opengameart.org/content/sideview-sci-fi-patreon-collection",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-vehicles",
+      "source": "OpenGameArt",
+      "author": "eracoon",
+      "representation": "2.5D",
+      "asset_type": "ISOMETRIC_SPRITES",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "583.7 Kb",
+      "size_source": "https://opengameart.org/content/isometric-vehicles",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/3d-spaceship",
+      "source": "OpenGameArt",
+      "author": "celleron56",
+      "representation": "3D",
+      "asset_type": "SPACECRAFT",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "913.4 Kb",
+      "size_source": "https://opengameart.org/content/3d-spaceship",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/3d-car-low-poly-free",
+      "source": "OpenGameArt",
+      "author": "Alexander123",
+      "representation": "3D",
+      "asset_type": "VEHICLE",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "433 Kb",
+      "size_source": "https://opengameart.org/content/3d-car-low-poly-free",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/low-poly-vehicles-pack",
+      "source": "OpenGameArt",
+      "author": "Daniel Quevedo",
+      "representation": "3D",
+      "asset_type": "VEHICLE",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "589.9/74.2 Kb",
+      "size_source": "https://opengameart.org/content/low-poly-vehicles-pack",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/3d-lowpoly-spaceships-and-components",
+      "source": "OpenGameArt",
+      "author": "Majadroid",
+      "representation": "3D",
+      "asset_type": "SPACECRAFT",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "6.8 Mb",
+      "size_source": "https://opengameart.org/content/3d-lowpoly-spaceships-and-components",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/low-poly-car-3",
+      "source": "OpenGameArt",
+      "author": "Drummyfish",
+      "representation": "3D",
+      "asset_type": "VEHICLE",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "679.7/18.4 Kb",
+      "size_source": "https://opengameart.org/content/low-poly-car-3",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/3d-car-0",
+      "source": "OpenGameArt",
+      "author": "Lyricsz",
+      "representation": "3D",
+      "asset_type": "VEHICLE",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "517.1 Kb",
+      "size_source": "https://opengameart.org/content/3d-car-0",
+      "size_verified_on": "2026-10-09",
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/low-poly-spaceship-0",
+      "source": "OpenGameArt",
+      "author": "tbbk",
+      "representation": "3D",
+      "asset_type": "SPACECRAFT",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use_requires_review": false,
+      "free_commercial_claim": true,
+      "source_page_only": true,
+      "appearances": [
+        {
+          "cycle": "H6",
+          "record": "Research/C006/H6_20261009_2D_VFX.md and Research/C006/H6_20261009_3D_VEHICLES.md",
+          "match": "EXACT_PAGE_FOUND"
+        }
+      ],
+      "download_size_bytes": null,
+      "size_status": "PUBLISHER_STATED",
+      "publisher_displayed_size": "278.6 Kb",
+      "size_source": "https://opengameart.org/content/low-poly-spaceship-0",
+      "size_verified_on": "2026-10-09",
       "download_tested": false,
       "blender_tested": false,
       "unity_tested": false
