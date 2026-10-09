@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-09",
+  "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
+  "checkpoint": "PROGRESS.md",
+  "previous_queue": "Research/C006/H5_NEXT_QUEUE_20261009.json",
+  "status": "OPEN_ENDED",
+  "provisional_unique_pages": 738,
+  "known_publisher_size_pages": 136,
+  "unknown_size_pages": 602,
+  "exact_measured_bytes": null,
+  "blender_unity_pass": 0,
+  "completed_this_run": [
+    {
+      "id": "H6-001",
+      "result": "6 new 2D VFX source pages"
+    },
+    {
+      "id": "H6-002",
+      "result": "1 new 2.5D isometric page and 7 new 3D vehicle pages"
+    },
+    {
+      "id": "H6-003",
+      "result": "6 new texture/material source pages"
+    },
+    {
+      "id": "H6-004",
+      "result": "20 publisher sizes; exact bytes unknown"
+    },
+    {
+      "id": "H6-005",
+      "result": "H6 index and consolidated summary updated"
+    }
+  ],
+  "next_tasks": [
+    {
+      "id": "H7-001",
+      "goal": "2D animated VFX, characters and tilesets; independent author pages; no duplicates",
+      "status": "OPEN"
+    },
+    {
+      "id": "H7-002",
+      "goal": "2.5D isometric multi-angle vehicles and buildings; source evidence and separate variant counting",
+      "status": "OPEN"
+    },
+    {
+      "id": "H7-003",
+      "goal": "3D vehicles, rigged creatures and environment models across new creators",
+      "status": "OPEN"
+    },
+    {
+      "id": "H7-004",
+      "goal": "PBR bark, wool vs geometry fur, clouds, leaf atlas, water, procedural textures",
+      "status": "OPEN"
+    },
+    {
+      "id": "H7-005",
+      "goal": "Verify official file Content-Length when available and reconcile 602 unknown sizes",
+      "status": "OPEN"
+    },
+    {
+      "id": "H7-006",
+      "goal": "Consolidate H6 overlay into primary indexes after conflict-safe merge; continue research after minimum",
+      "status": "OPEN"
+    }
+  ]
+}
