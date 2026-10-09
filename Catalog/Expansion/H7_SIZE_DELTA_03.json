@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-09",
+  "baseline": 769,
+  "entries": [
+    {
+      "id": "H7-2D-011",
+      "url": "https://chottoinc.itch.io/buttons-pixel-art",
+      "download_size_bytes": null,
+      "publisher_stated_size": "48 kB ZIP",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-012",
+      "url": "https://opengameart.org/content/jumping-blob",
+      "download_size_bytes": null,
+      "publisher_stated_size": "7.1 Kb ZIP",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-25D-001",
+      "url": "https://zintoki.itch.io/dungeon-pry-isometric-tileset",
+      "download_size_bytes": null,
+      "publisher_stated_size": "11 MB ZIP",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-25D-002",
+      "url": "https://screamingbrainstudios.itch.io/iso-overworld-pack",
+      "download_size_bytes": null,
+      "publisher_stated_size": "6.8 MB RAR",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-25D-003",
+      "url": "https://screamingbrainstudios.itch.io/isowallpack",
+      "download_size_bytes": null,
+      "publisher_stated_size": "28 MB RAR",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-25D-005",
+      "url": "https://vailor1.itch.io/isometric-base-tiles",
+      "download_size_bytes": null,
+      "publisher_stated_size": "11 kB ZIP",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-25D-006",
+      "url": "https://kenney.nl/assets/isometric-miniature-library",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-25D-007",
+      "url": "https://kenney.nl/assets/sketch-desert",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-MAT-001",
+      "url": "https://opengameart.org/content/huge-texture-resource-pack-part-1",
+      "download_size_bytes": null,
+      "publisher_stated_size": "six ZIPs",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-MAT-002",
+      "url": "https://opengameart.org/content/free-texture-resource-pack-moss-rock-patterns-and-misc",
+      "download_size_bytes": null,
+      "publisher_stated_size": "three ZIPs",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    }
+  ]
+}
