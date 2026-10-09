@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-09",
+  "baseline_audit": "Catalog/DOWNLOAD_SIZE_AUDIT.json",
+  "new_source_pages": 15,
+  "source_size_method": "PUBLISHER_ROUNDED_DISPLAY_NOT_MEASURED",
+  "measured_download_size_bytes": null,
+  "entries": [
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/psx-style-cars",
+      "publisher_stated_size": "2.6 Mb",
+      "size_source_url": "https://opengameart.org/content/psx-style-cars",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/soviet-panel-apartment-house-3d",
+      "publisher_stated_size": "4.1 Mb",
+      "size_source_url": "https://opengameart.org/content/soviet-panel-apartment-house-3d",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "3D_VOXEL",
+      "url": "https://opengameart.org/content/voxel-buildings",
+      "publisher_stated_size": "2.4 Mb",
+      "size_source_url": "https://opengameart.org/content/voxel-buildings",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "3D",
+      "url": "https://opengameart.org/content/cardboard-box",
+      "publisher_stated_size": "5.2 Mb",
+      "size_source_url": "https://opengameart.org/content/cardboard-box",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "2.5D",
+      "url": "https://opengameart.org/content/isometric-grid-pack",
+      "publisher_stated_size": "57.6 Kb",
+      "size_source_url": "https://opengameart.org/content/isometric-grid-pack",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "2.5D",
+      "url": "https://opengameart.org/content/isometric-stone-soup",
+      "publisher_stated_size": "2.7 Mb",
+      "size_source_url": "https://opengameart.org/content/isometric-stone-soup",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "2.5D",
+      "url": "https://opengameart.org/content/isometric-prototype-tiles",
+      "publisher_stated_size": "3.5 Mb",
+      "size_source_url": "https://opengameart.org/content/isometric-prototype-tiles",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "2.5D",
+      "url": "https://opengameart.org/content/isometric-miniature-dungeon",
+      "publisher_stated_size": "14.2 Mb",
+      "size_source_url": "https://opengameart.org/content/isometric-miniature-dungeon",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/space-parallax-background",
+      "publisher_stated_size": "359.7 Kb (one PNG of four)",
+      "size_source_url": "https://opengameart.org/content/space-parallax-background",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/stars-parallax-backgrounds",
+      "publisher_stated_size": "325.7 Kb",
+      "size_source_url": "https://opengameart.org/content/stars-parallax-backgrounds",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "2D",
+      "url": "https://opengameart.org/content/3-layer-parallax-star-and-nebula-field",
+      "publisher_stated_size": "6.7 Mb (one PNG of four)",
+      "size_source_url": "https://opengameart.org/content/3-layer-parallax-star-and-nebula-field",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "TEXTURE",
+      "url": "https://opengameart.org/content/big-pack-of-hand-painted-tiling-textures",
+      "publisher_stated_size": "9.9 Mb",
+      "size_source_url": "https://opengameart.org/content/big-pack-of-hand-painted-tiling-textures",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "TEXTURE",
+      "url": "https://opengameart.org/content/64x-textures-an-overlays",
+      "publisher_stated_size": "882.4 Kb",
+      "size_source_url": "https://opengameart.org/content/64x-textures-an-overlays",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "PBR",
+      "url": "https://polyhaven.com/a/roof_3",
+      "publisher_stated_size": "46.9 MB",
+      "size_source_url": "https://polyhaven.com/a/roof_3",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    },
+    {
+      "representation": "PBR",
+      "url": "https://polyhaven.com/a/grey_roof_01",
+      "publisher_stated_size": "54.18 MB",
+      "size_source_url": "https://polyhaven.com/a/grey_roof_01",
+      "download_size_bytes": null,
+      "exact_byte_measurement": false
+    }
+  ]
+}
