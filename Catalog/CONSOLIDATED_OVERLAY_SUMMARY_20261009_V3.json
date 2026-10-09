@@ -2,7 +2,7 @@
   "date": "2026-10-09",
   "policy": "GLOBAL_ASSET_SEARCH_POLICY.md",
   "base_audit": "Catalog/DOWNLOAD_SIZE_AUDIT.json",
-  "base_unique": 639,
+  "base_unique": 659,
   "delta_sources": [
     [
       "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009.json",
@@ -39,10 +39,6 @@
     [
       "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009_H5.json",
       15
-    ],
-    [
-      "Catalog/Expansion/H6_20261009_INDEX.json",
-      20
     ]
   ],
   "combined_unique_pages": 738,
@@ -51,5 +47,16 @@
   "measured_download_size_bytes": null,
   "full_collection_size_bytes": null,
   "blender_unity_pass": 0,
-  "note": "Provisional page URL count after H6: 718 previous + 20 newly checked against available base and overlay files. 136 publisher-displayed sizes, not exact bytes; 602 unresolved sizes. Independent mesh count unknown, no Blender/Unity PASS."
+  "note": "Base audit now includes 20 H6 URLs (659 base). H6 index is merged, excluded from overlay addition to prevent double counting. Other deltas represent 79 provisional unique pages. Logical total 738; rounded publisher sizes, exact byte total unknown; no Blender/Unity PASS.",
+  "merged_into_base": [
+    {
+      "path": "Catalog/Expansion/H6_20261009_INDEX.json",
+      "source_pages": 20,
+      "main_indexes": [
+        "Catalog/MASTER_SEARCH_INDEX.json",
+        "Materials/INDEX.json",
+        "Catalog/DOWNLOAD_SIZE_AUDIT.json"
+      ]
+    }
+  ]
 }
