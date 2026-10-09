@@ -14944,6 +14944,86 @@
       "download_tested": false,
       "blender_tested": false,
       "unity_tested": false
+    },
+    {
+      "url": "https://www.cgbookcase.com/textures/wood-10",
+      "source": "www.cgbookcase.com",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Wood 10",
+          "category": "TEXTURE",
+          "record": "H8-20261009-017",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://www.texturecan.com/details/287/",
+      "source": "www.texturecan.com",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Stylized Meadow Grass Texture",
+          "category": "TEXTURE",
+          "record": "H8-20261009-018",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://www.texturecan.com/details/238/",
+      "source": "www.texturecan.com",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Grass Texture Generator",
+          "category": "TEXTURE",
+          "record": "H8-20261009-019",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/hdri-environment-maps",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "HDRI Environment Maps",
+          "category": "HDRI",
+          "record": "H8-20261009-020",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
     }
   ],
   "classification_caution": "2D isometric sprites are 2.5D visual assets, not true 3D geometry. Source pages are not downloads or independent model counts."
