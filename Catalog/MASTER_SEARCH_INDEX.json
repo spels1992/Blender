@@ -15184,6 +15184,66 @@
       "download_tested": false,
       "blender_tested": false,
       "unity_tested": false
+    },
+    {
+      "url": "https://polyhaven.com/a/twilight_sunset",
+      "source": "polyhaven.com",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Twilight Sunset",
+          "category": "HDRI",
+          "record": "H14-B-HDRI-1",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/smoke-particles",
+      "source": "kenney.nl",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Smoke Particles",
+          "category": "2D/VFX",
+          "record": "H14-B-VFX-2",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/grass-variant-1",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "grass, variant 1",
+          "category": "3D voxel",
+          "record": "H16-B-VOX-003",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
     }
   ],
   "classification_caution": "2D isometric sprites are 2.5D visual assets, not true 3D geometry. Source pages are not downloads or independent model counts."
