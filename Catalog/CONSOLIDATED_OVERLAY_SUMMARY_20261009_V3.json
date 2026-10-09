@@ -27,13 +27,25 @@
     [
       "Materials/WATER_FUR_ALIEN_8_CC0_20261009.md",
       8
+    ],
+    [
+      "Catalog/Expansion/NEW_3D_ROBOTS_20261009_H4.json",
+      3
+    ],
+    [
+      "Materials/NEW_SKYBOX_SURFACES_20261009_H4.json",
+      4
+    ],
+    [
+      "Catalog/DOWNLOAD_SIZE_AUDIT_DELTA_20261009_H5.json",
+      15
     ]
   ],
-  "combined_unique_pages": 696,
-  "publisher_stated_size_pages": 94,
+  "combined_unique_pages": 718,
+  "publisher_stated_size_pages": 116,
   "unknown_size_pages": 602,
   "measured_download_size_bytes": null,
   "full_collection_size_bytes": null,
   "blender_unity_pass": 0,
-  "note": "Logical deduplicated index; baseline large JSON write blocked. Source URLs != unique meshes. Publisher size strings are not measured bytes."
+  "note": "Logical URL count from 696 previous + 7 H4 + 15 H5 source pages, checked against main indexes and overlays; original mesh-level uniqueness not validated. Publisher sizes are rounded display, not exact bytes. No downloaded files or Blender/Unity PASS."
 }
