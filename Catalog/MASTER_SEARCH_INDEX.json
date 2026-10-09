@@ -15024,6 +15024,86 @@
       "download_tested": false,
       "blender_tested": false,
       "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-miniature-dungeon",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Isometric Miniature Dungeon",
+          "category": "2.5D",
+          "record": "H13-B-ISO-1",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/dark-ruins-tilesets-isometric",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Dark Ruins Tilesets",
+          "category": "2.5D",
+          "record": "H13-B-ISO-2",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-medieval-buildings",
+      "source": "opengameart.org",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Isometric Medieval Buildings",
+          "category": "2.5D",
+          "record": "H13-B-ISO-3",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://ambientcg.com/view?id=Fabric030",
+      "source": "ambientcg.com",
+      "license_claims": [
+        "CC0-1.0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H16",
+          "title": "Fabric 030",
+          "category": "PBR/textures",
+          "record": "H13-B-MAT-1",
+          "match": "SOURCE_PAGE"
+        }
+      ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
     }
   ],
   "classification_caution": "2D isometric sprites are 2.5D visual assets, not true 3D geometry. Source pages are not downloads or independent model counts."
