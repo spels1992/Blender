@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-09",
+  "baseline": 769,
+  "entries": [
+    {
+      "id": "H7-2D-001",
+      "url": "https://kenney.nl/assets/particle-pack",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-002",
+      "url": "https://kenney.nl/assets/smoke-particles",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-003",
+      "url": "https://kenney.nl/assets/pico-8-platformer",
+      "download_size_bytes": null,
+      "publisher_stated_size": null,
+      "size_status": "UNKNOWN",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-004",
+      "url": "https://opengameart.org/content/goblin-monster",
+      "download_size_bytes": null,
+      "publisher_stated_size": "7.8 Kb PNG main sprite",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-005",
+      "url": "https://opengameart.org/content/contra-style-character",
+      "download_size_bytes": null,
+      "publisher_stated_size": "7.4 Kb PNG",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-006",
+      "url": "https://opengameart.org/content/deep-night-8x8-platformer-assets",
+      "download_size_bytes": null,
+      "publisher_stated_size": "17.3 Kb ZIP",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-007",
+      "url": "https://opengameart.org/content/urban-character-pack",
+      "download_size_bytes": null,
+      "publisher_stated_size": "608.3 Kb PNG",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-008",
+      "url": "https://opengameart.org/content/the-robot-free-sprite",
+      "download_size_bytes": null,
+      "publisher_stated_size": "10.1 Mb ZIP",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-009",
+      "url": "https://dustdfg.itch.io/pixel-art-prototype-ui",
+      "download_size_bytes": null,
+      "publisher_stated_size": "16 kB ZIP",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    },
+    {
+      "id": "H7-2D-010",
+      "url": "https://hylsy.itch.io/64x64-pixel-art-character1",
+      "download_size_bytes": null,
+      "publisher_stated_size": "60 kB ZIP",
+      "size_status": "PUBLISHER_STATED",
+      "source_page_verified": true,
+      "download_tested": false
+    }
+  ]
+}
