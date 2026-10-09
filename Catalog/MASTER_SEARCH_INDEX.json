@@ -4,8 +4,8 @@
   "source_policy": "100% no-cost and commercial rights claimed on publisher pages, all original licenses must be checked before use",
   "verification": "Page research only; zero asset file or Unity/Blender test passes.",
   "stats": {
-    "total_source_references": 660,
-    "unique_source_pages": 552,
+    "total_source_references": 709,
+    "unique_source_pages": 601,
     "duplicate_page_references": 108,
     "cycle_001_source_packs": 100,
     "cycle_002_source_entries": 176,
@@ -26,6 +26,15 @@
       "2D": 34,
       "2.5D": 10,
       "3D": 17
+    },
+    "popular_rescan_B_new_pages": 49,
+    "popular_rescan_all_new_pages": 110,
+    "popular_rescan_B_by_modality": {
+      "2D": 24,
+      "2.5D": 12,
+      "3D": 10,
+      "TEXTURE": 1,
+      "TOOL": 2
     }
   },
   "sources": [
@@ -13550,6 +13559,1231 @@
       "blender_tested": false,
       "unity_tested": false,
       "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009.json"
+    },
+    {
+      "url": "https://opengameart.org/content/skeleton-sprite",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Skeleton sprite",
+          "category": "SKELETON",
+          "record": "POPULAR-20261009-B-001",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/robot-platformer-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Robot platformer sprites",
+          "category": "ROBOTS",
+          "record": "POPULAR-20261009-B-002",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/skeleton-and-ghost-spritesheets-ars-notoria",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Skeleton and ghost spritesheets",
+          "category": "SKELETON",
+          "record": "POPULAR-20261009-B-003",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/pixel-cat-0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Pixel cat",
+          "category": "CATS",
+          "record": "POPULAR-20261009-B-004",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/free-dino-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Free Dino Sprites",
+          "category": "DINOSAURS",
+          "record": "POPULAR-20261009-B-005",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/pixel-art-skeleton",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Pixel Art Skeleton",
+          "category": "SKELETON",
+          "record": "POPULAR-20261009-B-006",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/skeletons-rework",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Skeletons Rework",
+          "category": "SKELETON",
+          "record": "POPULAR-20261009-B-007",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": "Derivative of earlier CC0 sprite art; independence not established",
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/gum-bot-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Gum Bot Sprites",
+          "category": "ROBOTS",
+          "record": "POPULAR-20261009-B-008",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/robot-run-cycle-idle-additionnal-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Robot Run Cycle",
+          "category": "ROBOTS",
+          "record": "POPULAR-20261009-B-009",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/platformer-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Platformer Sprites",
+          "category": "CHARACTERS",
+          "record": "POPULAR-20261009-B-010",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/cat-dog-free-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Cat Dog Free Sprites",
+          "category": "CATS_DOGS",
+          "record": "POPULAR-20261009-B-011",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/cartoon-space-robot-for-platformer",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Cartoon Space Robot",
+          "category": "ROBOTS",
+          "record": "POPULAR-20261009-B-012",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/dinosaur-mech-shooter-sprites-and-tileset",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Dinosaur Mech Shooter",
+          "category": "DINOSAURS_MECHS",
+          "record": "POPULAR-20261009-B-013",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/robot-farmer-spritestiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Robot Farmer",
+          "category": "ROBOTS_FARM",
+          "record": "POPULAR-20261009-B-014",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/fantasy-rpg-sprite-kit-32x32",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Fantasy RPG Sprite Kit",
+          "category": "FANTASY_CREATURES",
+          "record": "POPULAR-20261009-B-015",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/mannyquest-unused-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "MannyQuest Unused Sprites",
+          "category": "CHARACTERS",
+          "record": "POPULAR-20261009-B-016",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/necromancer-spritesheet",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Necromancer Spritesheet",
+          "category": "NECROMANCERS",
+          "record": "POPULAR-20261009-B-017",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": "Derivative of earlier CC0 sprite art; independence not established",
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/robot-sprite-brawlbot",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Robot Sprite Brawlbot",
+          "category": "ROBOTS",
+          "record": "POPULAR-20261009-B-018",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/beat-em-up-graphics-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Beat em up graphics",
+          "category": "CHARACTERS",
+          "record": "POPULAR-20261009-B-019",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/animated-monsters",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Animated Monsters",
+          "category": "MONSTERS",
+          "record": "POPULAR-20261009-B-020",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/medieval-stone-guard-tower-isometric-25d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Medieval Stone Guard Tower",
+          "category": "WATCHTOWER",
+          "record": "POPULAR-20261009-B-021",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/medieval-wooden-guard-tower-isometric-25d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Medieval Wooden Guard Tower",
+          "category": "WATCHTOWER",
+          "record": "POPULAR-20261009-B-022",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/medieval-archery-range-isometric-25d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Medieval Archery Range",
+          "category": "DEFENSE",
+          "record": "POPULAR-20261009-B-023",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/medieval-blacksmith-isometric-25d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Medieval Blacksmith Isometric",
+          "category": "BUILDINGS",
+          "record": "POPULAR-20261009-B-024",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/medieval-barracks-isometric-25d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Medieval Barracks",
+          "category": "BUILDINGS",
+          "record": "POPULAR-20261009-B-025",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/western-european-medieval-houses-isometric-25d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Western European Medieval Houses Isometric",
+          "category": "HOUSES",
+          "record": "POPULAR-20261009-B-026",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": true
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/western-european-castle-isometric-25d",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Western European Castle Isometric",
+          "category": "CASTLE",
+          "record": "POPULAR-20261009-B-027",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-miniature-farm",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Isometric Miniature Farm",
+          "category": "FARM",
+          "record": "POPULAR-20261009-B-028",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/crops-cc0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Crops CC0",
+          "category": "FARM_CROPS",
+          "record": "POPULAR-20261009-B-029",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/modular-medieval-house-pack-02",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Modular Medieval House Pack 02",
+          "category": "HOUSES",
+          "record": "POPULAR-20261009-B-030",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": true
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": "Shared underlying modular medieval house parts; pack variations NOT independent new meshes",
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/modular-medieval-house-pack-03",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Modular Medieval House Pack 03",
+          "category": "HOUSES",
+          "record": "POPULAR-20261009-B-031",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": true
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": "Shared underlying modular medieval house parts; pack variations NOT independent new meshes",
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/modular-medieval-house-pack-04",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Modular Medieval House Pack 04",
+          "category": "HOUSES",
+          "record": "POPULAR-20261009-B-032",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": true
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": "Shared underlying modular medieval house parts; pack variations NOT independent new meshes",
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/modular-medieval-house-pack-05",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Modular Medieval House Pack 05",
+          "category": "HOUSES",
+          "record": "POPULAR-20261009-B-033",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": true
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": "Shared underlying modular medieval house parts; pack variations NOT independent new meshes",
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/white-bear-low-poly",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "White Bear Low Poly",
+          "category": "BEARS",
+          "record": "POPULAR-20261009-B-034",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/lowpoly-animated-farm-animal-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "LowPoly Animated Farm Animal Pack",
+          "category": "FARM_ANIMALS",
+          "record": "POPULAR-20261009-B-035",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": "Older CC0 OpenGameArt upload; verify recent QAL terms and edition",
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/wolf-2",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Wolf 2",
+          "category": "WOLVES",
+          "record": "POPULAR-20261009-B-036",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/goblin-1",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Goblin 3D",
+          "category": "GOBLINS",
+          "record": "POPULAR-20261009-B-037",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/modern-library-books",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Modern Library Books",
+          "category": "BOOKS",
+          "record": "POPULAR-20261009-B-038",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-ground-tiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Isometric ground tiles",
+          "category": "TERRAIN",
+          "record": "POPULAR-20261009-B-039",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-log-cabins",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Isometric log cabins",
+          "category": "HOUSES",
+          "record": "POPULAR-20261009-B-040",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": true
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/tower-defense-top-down",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Tower Defense Top Down",
+          "category": "TOWER_DEFENSE",
+          "record": "POPULAR-20261009-B-041",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/alienspritesheet",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Alien Sprite Sheet",
+          "category": "ALIENS",
+          "record": "POPULAR-20261009-B-042",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/the-apocalypse-constructor-sprites-audios",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Apocalypse Constructor Sprites",
+          "category": "TOWER_DEFENSE",
+          "record": "POPULAR-20261009-B-043",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/basic-tower",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Basic Tower 3D",
+          "category": "TOWER_DEFENSE",
+          "record": "POPULAR-20261009-B-044",
+          "representation": "3D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/fantastic-fence-16x16",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Fantastic Fence 16x16",
+          "category": "FENCES",
+          "record": "POPULAR-20261009-B-045",
+          "representation": "2D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/free-urban-textures-fences",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Free Urban Textures Fences",
+          "category": "FENCES",
+          "record": "POPULAR-20261009-B-046",
+          "representation": "TEXTURE",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-rendering-setup-for-blender",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Isometric rendering setup for Blender",
+          "category": "ISOMETRIC_TOOL",
+          "record": "POPULAR-20261009-B-047",
+          "representation": "TOOL",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-tile-toolkit",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Isometric Tile Toolkit",
+          "category": "ISOMETRIC_TOOL",
+          "record": "POPULAR-20261009-B-048",
+          "representation": "TOOL",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-grid-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "POPULAR_RESCAN_20261009_B",
+          "title": "Isometric Grid Pack",
+          "category": "TEMPLATES",
+          "record": "POPULAR-20261009-B-049",
+          "representation": "2.5D",
+          "match": "INDIVIDUAL_SOURCE_PAGE_NOT_ARCHIVE_VERIFIED",
+          "high_complexity_warning": false
+        }
+      ],
+      "commercial_use_requires_review": false,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false,
+      "derivative_or_related": null,
+      "review_record": "Catalog/Expansion/POPULAR_ALL_FORMATS_RESCAN_20261009_B.json"
     }
   ],
   "classification_caution": "2D isometric sprites are 2.5D visual assets, not true 3D geometry. Source pages are not downloads or independent model counts."
