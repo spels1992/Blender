@@ -113,3 +113,8 @@
 - Complete pending research metadata recovered and verified by GitHub readback. This is a research **queue**, not canonical adoption or editor PASS.
 - 23 records: `Catalog/Expansion/H16_PENDING_FULL_METADATA_20261009.json`; prior URL list: `Catalog/Expansion/H16_PENDING_RECOVERY_20261009.md`.
 - Need master index deduplication, individual license/dependency review and canonical card promotion. Exact sizes UNKNOWN/null; Unity/Blender editor NOT_TESTED; no large archives downloaded, no new costs.
+
+
+## 2026-10-09 — H16 canonical source index reconciliation
+- 23/23 H16 recovered source URLs merged into `Catalog/MASTER_SEARCH_INDEX.json` in six small commits; readback confirmed 624 unique indexed URLs (was 601). Full metadata remains in `Catalog/Expansion/H16_PENDING_FULL_METADATA_20261009.json`.
+- Source index reconciliation PASS; semantic deduplication, independent license/dependency validation and editor tests still pending. Download sizes UNKNOWN/null; editors NOT_TESTED. No external archives downloaded; no additional spending.
