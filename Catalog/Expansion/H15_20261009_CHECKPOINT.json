@@ -1,0 +1,21 @@
+{
+  "checkpoint": "H15-20261009-1800",
+  "source_records_path": "Catalog/Expansion/H15_20261009_FREE_SOURCE_CANDIDATES.json",
+  "source_records_saved": 10,
+  "source_records_verified": 10,
+  "commit": "e69c2c473f7e8d6111beb58354eab5efa9dac224",
+  "category_counts": {
+    "2D": 3,
+    "2.5D": 1,
+    "3D": 1,
+    "TEXTURE_PBR": 3,
+    "HDRI": 2
+  },
+  "license": "10 x CC0 per official source pages",
+  "download_size_bytes": null,
+  "editor_tests": "NOT_TESTED",
+  "master_index_merged": false,
+  "prior_H14_pending_candidates": 22,
+  "global_dedup_remaining": true,
+  "notes": "Three older discoveries were excluded because already in base master index. Prior pending queue is not considered merged."
+}
