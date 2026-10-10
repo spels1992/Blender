@@ -118,3 +118,10 @@
 ## 2026-10-09 — H16 canonical source index reconciliation
 - 23/23 H16 recovered source URLs merged into `Catalog/MASTER_SEARCH_INDEX.json` in six small commits; readback confirmed 624 unique indexed URLs (was 601). Full metadata remains in `Catalog/Expansion/H16_PENDING_FULL_METADATA_20261009.json`.
 - Source index reconciliation PASS; semantic deduplication, independent license/dependency validation and editor tests still pending. Download sizes UNKNOWN/null; editors NOT_TESTED. No external archives downloaded; no additional spending.
+
+## 2026-10-10: H17/H18 recovery
+
+- Recovered 19 H17 source-page records and 5 H18 source-page records through GitHub Plugin; canonical index merge added 24 previously absent exact URLs.
+- H17: `Catalog/Expansion/H17_RECOVERED_19_CC0_PAGES_20261010.json`; H18: `Catalog/Expansion/H18_RECOVERY_5_CC0_PAGES_20261010.json`.
+- Vegetation Low Poly was already indexed in `Catalog/Expansion/INDEX_20261009.json`, so it was not duplicated.
+- Source pages only; licenses must be reconfirmed before production. Download/Blender/Unity tests NOT_RUN.
