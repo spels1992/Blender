@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "source_policy": "100% no-cost and commercial rights claimed on publisher pages, all original licenses must be checked before use",
   "verification": "Page research only; zero asset file or Unity/Blender test passes.",
   "stats": {
-    "total_source_references": 709,
-    "unique_source_pages": 601,
+    "total_source_references": 733,
+    "unique_source_pages": 625,
     "duplicate_page_references": 108,
     "cycle_001_source_packs": 100,
     "cycle_002_source_entries": 176,
@@ -35,7 +35,8 @@
       "3D": 10,
       "TEXTURE": 1,
       "TOOL": 2
-    }
+    },
+    "h17_h18_merged_unique_pages": 24
   },
   "sources": [
     {
@@ -15240,6 +15241,462 @@
           "match": "SOURCE_PAGE"
         }
       ],
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/tower-defense-top-down",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Tower Defense (Top-Down)",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://kenney.nl/assets/foliage-sprites",
+      "source": "Kenney",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Foliage Sprites",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/16x16-puny-world-tileset",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "16x16 Puny World Tileset",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/mini-fantasy-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Mini Fantasy Sprites",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/32x32-grass-with-water-tileset",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "32x32 Grass with Water Tileset",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/node/160872",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Tiny Creatures",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/noisy-tile-set-lava-mountain-water-sand-dirt-grass",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Noisy Tile Set",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/mini-knight",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Mini Knight",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/16x16-tileset",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "16x16 TileSet",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/cartoon-vector-characters",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Cartoon Vector Characters",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/cozy-endless-game-background",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Cozy Endless Game Background",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/2d-dragon-spritesheet",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "2D Dragon Spritesheet",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://lpc.opengameart.org/content/farm-spritesheet",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Farm spritesheet",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://lpc.opengameart.org/content/pixel-farm-and-shack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Pixel farm and shack",
+          "category": "2.5D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://lpc.opengameart.org/content/pixel-village",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Pixel village",
+          "category": "2.5D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://lpc.opengameart.org/content/windmill-0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Windmill (animated)",
+          "category": "2.5D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/stylized-wildmill-isometric-with-parts-to-build-animationand-blend",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Stylized Wildmill",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/old-windmill",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Old windmill",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/realtime-ranchers-3d-model-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Realtime Rancher's 3D Model Pack",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/roaming-world-sprites",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Roaming World Sprites",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/parallax-background-forest-pixel-art",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Parallax Forest",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/cloudy-skyboxes-0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Cloudy Skyboxes",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/modular-terrain",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Modular Terrain",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/background-clouds-and-mountains-parallax",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H17-H18",
+          "title": "Clouds and Mountains",
+          "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
       "source_page_only": true,
       "download_tested": false,
       "blender_tested": false,
