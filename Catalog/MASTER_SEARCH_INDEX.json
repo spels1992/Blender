@@ -4,8 +4,8 @@
   "source_policy": "100% no-cost and commercial rights claimed on publisher pages, all original licenses must be checked before use",
   "verification": "Page research only; zero asset file or Unity/Blender test passes.",
   "stats": {
-    "total_source_references": 733,
-    "unique_source_pages": 625,
+    "total_source_references": 751,
+    "unique_source_pages": 666,
     "duplicate_page_references": 108,
     "cycle_001_source_packs": 100,
     "cycle_002_source_entries": 176,
@@ -36,7 +36,8 @@
       "TEXTURE": 1,
       "TOOL": 2
     },
-    "h17_h18_merged_unique_pages": 24
+    "h17_h18_merged_unique_pages": 24,
+    "h19_new_unique_source_pages": 18
   },
   "sources": [
     {
@@ -15694,6 +15695,348 @@
           "cycle": "H17-H18",
           "title": "Clouds and Mountains",
           "category": "2D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/seamless-textures",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Seamless Textures",
+          "category": "Texture"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/simple-textures",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Simple Textures",
+          "category": "Texture"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-cube-tiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Isometric Cube Tiles",
+          "category": "2.5D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/isometric-stone-soup",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Isometric Stone Soup",
+          "category": "2.5D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/seamless-pattern-pack",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Seamless Pattern Pack",
+          "category": "Texture"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/oldschool-seamless-textures",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Oldschool Seamless Textures",
+          "category": "Texture"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/seamless-2",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Seamless 2",
+          "category": "Texture"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/500-isometric-wall-tiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "1800+ Isometric Wall Tiles",
+          "category": "2.5D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/5000-isometric-pathway-tiles",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "5000+ Isometric Pathway Tiles",
+          "category": "2.5D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/tree-stylized-toon",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Tree Stylized Toon",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/3d-apocalyptic-building-city-cc0",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "3D Apocalyptic Building / City (CC0)",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/lowpoly-pinetree",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "LowPoly Pinetree",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/simple-corn-obj",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Simple Corn (.obj)",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/low-poly-papaya",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Low Poly Papaya",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/buildings-pack-4",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Buildings Pack 4",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/neon-town",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Neon Town",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/lowpoly-concert-props",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "LowPoly Concert Props",
+          "category": "3D"
+        }
+      ],
+      "commercial_use_requires_review": true,
+      "source_page_only": true,
+      "download_tested": false,
+      "blender_tested": false,
+      "unity_tested": false
+    },
+    {
+      "url": "https://opengameart.org/content/voxel-buildings",
+      "source": "OpenGameArt",
+      "license_claims": [
+        "CC0"
+      ],
+      "appearances": [
+        {
+          "cycle": "H19",
+          "title": "Voxel Buildings",
+          "category": "3D"
         }
       ],
       "commercial_use_requires_review": true,
