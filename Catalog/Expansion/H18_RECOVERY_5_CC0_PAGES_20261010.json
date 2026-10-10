@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-10",
+  "status": "SOURCE_PAGES_ONLY",
+  "license": "CC0 claimed on source pages; reconfirm before use",
+  "download_tested": false,
+  "blender_tested": false,
+  "unity_tested": false,
+  "entries": [
+    {
+      "url": "https://opengameart.org/content/roaming-world-sprites",
+      "modality": "2D",
+      "title": "Roaming World Sprites"
+    },
+    {
+      "url": "https://opengameart.org/content/parallax-background-forest-pixel-art",
+      "modality": "2D",
+      "title": "Parallax Forest"
+    },
+    {
+      "url": "https://opengameart.org/content/cloudy-skyboxes-0",
+      "modality": "2D",
+      "title": "Cloudy Skyboxes"
+    },
+    {
+      "url": "https://opengameart.org/content/modular-terrain",
+      "modality": "3D",
+      "title": "Modular Terrain"
+    },
+    {
+      "url": "https://opengameart.org/content/background-clouds-and-mountains-parallax",
+      "modality": "2D",
+      "title": "Clouds and Mountains"
+    }
+  ]
+}
